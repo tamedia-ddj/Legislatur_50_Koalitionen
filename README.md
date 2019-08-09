@@ -23,8 +23,8 @@ In einem zweiten Schritt wurden die Voten aller Parlamentarier zu diesen Abstimm
 
 Die Resultate beider Anfragen werden als .csv Datei exportiert:
 - voteIds.csv  (--> Liste mit den Ids aller Abstimmungen)
-- votes_49.csv  (--> Liste mit Voten von allen Parlamentariern der Legislatur 49) 
-- votes_50.csv  (--> Liste mit Voten von allen Parlamentariern der Legislatur 50)
+- votes_49.csv  (--> Liste mit Voten von allen Parlamentariern der Legislatur 49) --> Zipfile aus Platzgründen
+- votes_50.csv  (--> Liste mit Voten von allen Parlamentariern der Legislatur 50) --> Zipfile aus Platzgründen
 
 
 ## 2. Aufbereitung der Daten
