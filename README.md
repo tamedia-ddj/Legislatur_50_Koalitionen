@@ -62,39 +62,39 @@ Damit eine Mehrheit einer bestimmten Koaliton zugeordnet werden kann, wurde folg
 Folgende Koalitionen wurden untersucht:
 
 **Links-Grün:**   
-  SP mind. 75% der Fraktionstimmen
-  FDP und SVP max. 25% der Fraktionstimmen
+  SP mind. 75% der Fraktionstimmen   
+  FDP und SVP max. 25% der Fraktionstimmen   
   CVP max. 75% der Fraktionstimmen (für Abgrenzung gegenüber Mitte-Links)
 
 **Mitte - Links:**   
-  SP und CVP min. 75% der Fraktionstimmen
-  FDP und SVP max. 25% der Fraktionstimmen
+  SP und CVP min. 75% der Fraktionstimmen   
+  FDP und SVP max. 25% der Fraktionstimmen   
 
 **Alle gegen die SVP oder Koalition der Vernunft:**    
-  SP, CVP und FDP  min. 75% der Fraktionstimmen
+  SP, CVP und FDP  min. 75% der Fraktionstimmen   
   SVP max. 25% der Fraktionstimmen
 
 **Grosse Koalition:**   
   SP, SVP, CVP und FDP min. 75% der Fraktionstimmen
 
 **Mitte-Rechts:**   
-  CVP, FDP und SVP min. 75% der Fraktionstimmen
+  CVP, FDP und SVP min. 75% der Fraktionstimmen   
   SP max. 25% der Fraktionstimmen
 
 **Rechts:**   
-  FDP und SVP min. 75% der Fraktionstimmen
-  SP max. 25% der Fraktionstimmen
+  FDP und SVP min. 75% der Fraktionstimmen   
+  SP max. 25% der Fraktionstimmen   
   CVP max. 75% der Fraktionstimmen (für Abgrenzung gegenüber Mitte-Rechts)
 
 **Unheilige Allianz:**   
-  SP und SVP min. 75%
-  FDP und CVP max. 25%
+  SP und SVP min. 75% der Fraktionstimmen  
+  FDP und CVP max. 25% der Fraktionstimmen  
 
 **Mitte-Allianz:**   
-  CVP und FDP min. 75% der Fraktionstimmen
+  CVP und FDP min. 75% der Fraktionstimmen   
   SP und SVP max. 25% der Fraktionstimmen
   
 **SVP-CVP:**   
-  SVP und CVP min. 75% der Fraktionstimmen
+  SVP und CVP min. 75% der Fraktionstimmen   
   FDP und SP max.  25% der Fraktionstimmen
  
