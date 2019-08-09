@@ -43,7 +43,7 @@ Für jeden Parlamentarier wird ausgerechnet, wie häufig er mit der Mehrheit abs
 Diese .csv Dateien werden dann in den Schritten 3 und 4 mit GoogleSheets weiter bearbeitet.
 
 ## 3. Übereinstimmung der Parlamentarier mit der Mehrheit
---> GoogleSheets Resultate_Abstimmungen_Parlament 
+--> GoogleSheets Resultate_Abstimmungen_Parlament   
     https://docs.google.com/spreadsheets/d/17SoKvGvH-wMdT2Cz0eQ4B4pQ9AoAh6qdsYaGqga4u8U/edit?usp=sharing
 
 Eine Rangliste wird erstellt welche Parlamentarier am häufigsten mit der Mehrheit abstimmen. 
@@ -51,7 +51,7 @@ Eine Rangliste wird erstellt welche Parlamentarier am häufigsten mit der Mehrhe
 Im nächsten Schritt werden diese Resultate auf die Fraktionen aggregiert. Daraus lässt sich ablesen in welcher Fraktion die Mitglieder  am häufigsten mit der Mehrheit abstimmen.
 
 ## 4. Analyse der Koalitionen
---> GoogleSheets:
+--> GoogleSheets:  
     Legislatur 49: https://docs.google.com/spreadsheets/d/1zC8v8lA4EJtWysXh2ntNDnthv0dNE0xrY7bjQwrc8dc/edit?usp=sharing
     Legislatur 50: https://docs.google.com/spreadsheets/d/1aF1Z3oJ8p-sxrXMDFnsVsXlX_N2eXMTf-klWMjCFC_c/edit?usp=sharing
 
