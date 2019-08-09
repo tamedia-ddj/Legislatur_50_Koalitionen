@@ -7,3 +7,56 @@ Die Analyse findet in drei Teilen statt:
 2. Auswerten dieser Rohdaten aufbereiten für die Schritte 3 und 4
 3. Übereinstimmung der einzelnen Parlamentarier und Fraktionen mit der Mehrheit analysieren (GoogleSheet)
 4. Koalitionen untersuchen GoogleSheet
+
+1. Abfrage der Daten aus der API
+In einer ersten Abfrage wurde die Liste aller Abstimmungen abgefragt
+
+3. 
+
+4. Analyse der Koalitionen
+
+(--> GoogleSheet)
+
+Es wurde untersucht, in welchen Koalitionen Mehrheitsverhältnisse zustande kamen.
+
+Damit eine Mehrheit einer bestimmten Koaliton zugeordnet werden kann, wurde folgendes Kriterium angewendet: Die Koalitionspartner müssen jeweils mit mindestens 75% der anwesenden Fraktionsmitglieder zur Mehrheit beitragen und die Gegner der Koalition dürfen zu höchstens 25% zur Mehrheit beitragen. Dabei wurden auch Mehrheiten berücksichtigt welche zu einer Ablehnung einer Vorlage geführt haben. Für die Koalitionsbildung wurden nur die Bundesratsparteien berücksichtigt (mit ausnahme der Grünen in der Links-Grünen Koalition). Das Abstimmungsverhalten der anderen Fraktionen wurde nicht berücksichtigt.
+
+Folgende Koalitionen wurden untersucht:
+
+*Links-Grün*
+	SP mind. 75% der Fraktionstimmen
+	FDP und SVP max. 25% der Fraktionstimmen
+	CVP max. 75% der Fraktionstimmen (für Abgrenzung gegenüber Mitte-Links)
+
+*Mitte - Links*
+  SP und CVP min. 75% der Fraktionstimmen
+  FDP und SVP max. 25% der Fraktionstimmen
+
+Alle gegen die SVP oder Koalition der Vernunft: 
+  SP, CVP und FDP  min. 75% der Fraktionstimmen
+  SVP max. 25% der Fraktionstimmen
+
+Grosse Koalition 
+  SP, SVP, CVP und FDP min. 75% der Fraktionstimmen
+
+Mitte-Rechts
+  CVP, FDP und SVP min. 75% der Fraktionstimmen
+  SP max. 25% der Fraktionstimmen
+
+Rechts
+  FDP und SVP min. 75% der Fraktionstimmen
+  SP max. 25% der Fraktionstimmen
+  CVP max. 75% der Fraktionstimmen (für Abgrenzung gegenüber Mitte-Rechts)
+
+Unheilige Allianz: 
+	SP und SVP min. 75%
+	FDP und CVP max. 25%
+
+Mitte-Allianz
+  CVP und FDP min. 75% der Fraktionstimmen
+  SP und SVP max. 25% der Fraktionstimmen
+  
+SVP-CVP
+  SVP und CVP min. 75% der Fraktionstimmen
+  FDP und SP max.  25% der Fraktionstimmen
+ 
