@@ -1,4 +1,4 @@
-# Legislatur_50_Koalitionen
+# Mehrheitsfähigen Koalitionen im Natinoalrat
 Zum Abschluss der 50. Legislatur haben wir eine Analyse durchgeführt, um die Mehrheitsverhältnisse im Nationalrat des Schweizer Parlaments zu untersuchen. Untersucht werden alle Abstimmungen im Nationalrat in der Legislatur 49 und 50 (bis und mit Sommersession 2019).
 
 Die Analyse findet in drei Teilen statt:
@@ -9,6 +9,8 @@ Die Analyse findet in drei Teilen statt:
 4. Mehrheitsfähige Koalitionen untersuchen (GoogleSheet)
 
 Es wurden Daten aus der offiziellen API des Schweizer Parlaments verwendet (https://ws.parlament.ch/odata.svc)
+
+Die Erkenntnisse aus der Analyse werden am 11.08.2019 in der Sonntagszeitung publiziert (Link folgt).
 
 ## 1. Abfrage der Daten aus der API
 --> R-Script "1_Abfrage_API.R"
@@ -48,7 +50,7 @@ Diese .csv Dateien werden dann in den Schritten 3 und 4 mit GoogleSheets weiter 
 
 Eine Rangliste wird erstellt welche Parlamentarier am häufigsten mit der Mehrheit abstimmen. 
 
-Im nächsten Schritt werden diese Resultate auf die Fraktionen aggregiert. Daraus lässt sich ablesen in welcher Fraktion die Mitglieder  am häufigsten mit der Mehrheit abstimmen.
+Dann werden diese Resultate auf die Fraktionen aggregiert. Daraus lässt sich ablesen in welcher Fraktion die Mitglieder am häufigsten mit der Mehrheit abstimmen.
 
 ## 4. Analyse der Koalitionen
 --> GoogleSheets:  
