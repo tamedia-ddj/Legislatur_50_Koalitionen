@@ -1,0 +1,762 @@
+"","IdVote","RegistrationNumber","BusinessTitle","Subject","IdSession","NrValid","Yes","Result_share_yes","Result","ja_svp","ja_fdp","ja_cvp","ja_sp","ja_gruene","valid_svp","valid_fdp","valid_cvp","valid_sp","valid_gruene","ja_share_svp","ja_share_fdp","ja_share_cvp","ja_share_sp","ja_share_gruene"
+"1",10256,6516,"Verbot der Gruppierung „Al-Qaïda“ und verwandter Organisationen","Gesamtabstimmung",4901,157,157,1,"Ja",46,20,27,34,14,46,20,27,34,14,1,1,1,1,1
+"2",10262,6522,"Energiegesetz. Änderung","Gesamtabstimmung",4901,176,125,0.710227272727273,"Ja",2,18,28,42,15,49,26,29,42,15,0.0408163265306122,0.692307692307692,0.96551724137931,1,1
+"3",10271,6531,"Uno-Feuerwaffenprotokoll. Umsetzung. Waffengesetz. Änderung","Gesamtabstimmung",4901,172,124,0.720930232558139,"Ja",0,24,25,42,14,45,27,28,42,14,0,0.888888888888889,0.892857142857143,1,1
+"4",10272,6532,"Uno-Feuerwaffenprotokoll. Umsetzung. Waffengesetz. Änderung","Gesamtabstimmung",4901,177,129,0.728813559322034,"Ja",0,25,29,40,15,45,28,29,40,15,0,0.892857142857143,1,1,1
+"5",10336,6596,"Voranschlag 2012","Gesamtabstimmung",4901,129,123,0.953488372093023,"Ja",40,25,25,7,12,48,25,25,42,12,0.833333333333333,1,1,0.166666666666667,1
+"6",10340,6600,"Voranschlag 2012","Gesamtabstimmung",4901,156,156,1,"Ja",42,24,23,41,12,47,24,23,42,12,0.893617021276596,1,1,0.976190476190476,1
+"7",10341,6601,"Voranschlag 2012","Gesamtabstimmung",4901,167,165,0.988023952095808,"Ja",47,25,23,43,12,50,25,23,43,12,0.94,1,1,1,1
+"8",10342,6602,"Voranschlag 2012","Gesamtabstimmung",4901,168,168,1,"Ja",50,25,23,43,12,50,25,23,43,12,1,1,1,1,1
+"9",10343,6603,"Voranschlag 2012","Gesamtabstimmung",4901,169,169,1,"Ja",48,26,25,43,12,49,26,25,43,12,0.979591836734694,1,1,1,1
+"10",10344,6604,"Voranschlag 2011. Nachtrag IIb","Gesamtabstimmung",4901,168,167,0.994047619047619,"Ja",47,25,24,43,12,50,25,24,43,12,0.94,1,1,1,1
+"11",10349,6609,"jugend + musik. Volksinitiative","Gesamtabstimmung",4901,163,119,0.730061349693252,"Ja",24,0,26,40,13,47,24,28,42,13,0.51063829787234,0,0.928571428571429,0.952380952380952,1
+"12",10362,6622,"Erhalt des Viehexportes aus der Schweiz","Gesamtabstimmung",4901,155,84,0.541935483870968,"Ja",53,4,20,0,0,53,20,23,33,11,1,0.2,0.869565217391304,0,0
+"13",10365,6625,"Erhalt des Viehexportes aus der Schweiz","Gesamtabstimmung",4901,156,84,0.538461538461538,"Ja",52,5,20,0,0,52,21,24,33,12,1,0.238095238095238,0.833333333333333,0,0
+"14",10369,6629,"Verkehr mit Tieren und Pflanzen geschützter Arten. Bundesgesetz","Gesamtabstimmung",4901,185,185,1,"Ja",54,27,28,42,14,54,27,28,42,14,1,1,1,1,1
+"15",10383,6643,"Tierseuchengesetz. Änderung","Gesamtabstimmung",4901,173,173,1,"Ja",49,25,23,43,15,49,25,23,43,15,1,1,1,1,1
+"16",10387,6647,"Freihandelsabkommen zwischen den EFTA-Staaten und Hong Kong. Genehmigung","Gesamtabstimmung",4901,117,116,0.991452991452991,"Ja",47,28,24,0,0,47,28,26,38,15,1,1,0.923076923076923,0,0
+"17",10412,6672,"Übereinkommen über die Bekämpfung des Menschenhandels und Bundesgesetz über den ausserprozessualen Zeugenschutz","Gesamtabstimmung",4901,165,160,0.96969696969697,"Ja",38,25,26,39,15,44,25,26,39,15,0.863636363636364,1,1,1,1
+"18",10467,6727,"Via sicura. Mehr Sicherheit im Strassenverkehr","Gesamtabstimmung",4901,167,114,0.682634730538922,"Ja",0,18,27,38,13,49,24,27,38,13,0,0.75,1,1,1
+"19",10469,6729,"Via sicura. Mehr Sicherheit im Strassenverkehr","Gesamtabstimmung",4901,164,0,0,"Nein",0,0,0,0,0,47,23,26,36,14,0,0,0,0,0
+"20",10471,6731,"Richterverordnung. Überprüfung des Lohnsystems für Richterinnen und Richter","Gesamtabstimmung",4901,148,148,1,"Ja",41,21,26,32,13,41,21,26,32,13,1,1,1,1,1
+"21",10472,6732,"Richterverordnung. Überprüfung des Lohnsystems für Richterinnen und Richter","Gesamtabstimmung",4901,151,151,1,"Ja",44,22,26,33,12,44,22,26,33,12,1,1,1,1,1
+"22",10497,6757,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Gesamtabstimmung",4901,168,122,0.726190476190476,"Ja",0,23,26,40,15,45,23,26,40,15,0,1,1,1,1
+"23",10498,6758,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Gesamtabstimmung",4901,166,121,0.728915662650602,"Ja",0,23,26,40,15,44,23,26,40,15,0,1,1,1,1
+"24",10499,6759,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Gesamtabstimmung",4901,167,121,0.724550898203593,"Ja",0,23,26,40,15,45,23,26,40,15,0,1,1,1,1
+"25",10500,6760,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Gesamtabstimmung",4901,164,119,0.725609756097561,"Ja",0,22,26,38,15,44,22,26,40,15,0,1,1,0.95,1
+"26",10501,6761,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Gesamtabstimmung",4901,168,122,0.726190476190476,"Ja",0,23,26,40,15,45,23,26,40,15,0,1,1,1,1
+"27",10502,6762,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Gesamtabstimmung",4901,166,120,0.72289156626506,"Ja",0,23,26,40,13,45,23,26,40,13,0,1,1,1,1
+"28",10503,6763,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Gesamtabstimmung",4901,168,122,0.726190476190476,"Ja",0,24,25,40,15,45,24,25,40,15,0,1,1,1,1
+"29",10504,6764,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Gesamtabstimmung",4901,167,121,0.724550898203593,"Ja",0,24,26,39,15,45,24,26,39,15,0,1,1,1,1
+"30",10505,6765,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Gesamtabstimmung",4901,167,121,0.724550898203593,"Ja",0,24,25,40,15,45,24,25,40,15,0,1,1,1,1
+"31",10544,6804,"Bundesgesetz über Massnahmen zur Wahrung der inneren Sicherheit. Änderung","Schlussabstimmung",4901,181,145,0.801104972375691,"Ja",51,29,29,15,0,53,29,29,44,14,0.962264150943396,1,1,0.340909090909091,0
+"32",10545,6805,"Stärkung der Hausarztmedizin","Schlussabstimmung",4901,192,192,1,"Ja",53,29,31,44,14,55,29,31,44,14,0.963636363636364,1,1,1,1
+"33",10546,6806,"OR. Aktien- und Rechnungslegungsrecht","Schlussabstimmung",4901,191,129,0.675392670157068,"Ja",0,21,29,44,14,55,30,30,44,14,0,0.7,0.966666666666667,1,1
+"34",10547,6807,"Bauen ausserhalb der Bauzone","Schlussabstimmung",4901,174,121,0.695402298850575,"Ja",54,29,29,1,0,54,30,31,44,14,1,0.966666666666667,0.935483870967742,0.0227272727272727,0
+"35",10548,6808,"Für ein gesundes Klima. Volksinitiative. CO2-Gesetz. Revision","Schlussabstimmung",4901,191,130,0.680628272251309,"Ja",4,17,31,44,14,55,29,31,44,14,0.0727272727272727,0.586206896551724,1,1,1
+"36",10549,6809,"Keine Ausweitung der obligatorischen Auskunftspflicht bei statistischen Erhebungen des Bundes","Schlussabstimmung",4901,192,182,0.947916666666667,"Ja",55,30,31,44,1,55,30,31,44,15,1,1,1,1,0.0666666666666667
+"37",10550,6810,"Für die Stärkung der Volksrechte in der Aussenpolitik (Staatsverträge vors Volk!). Volksinitiative","Schlussabstimmung",4901,195,139,0.712820512820513,"Ja",0,29,31,44,15,55,30,31,44,15,0,0.966666666666667,1,1,1
+"38",10551,6811,"Übereinkommen über die Bekämpfung des Menschenhandels und Bundesgesetz über den ausserprozessualen Zeugenschutz","Schlussabstimmung",4901,188,156,0.829787234042553,"Ja",15,30,31,44,15,54,30,31,44,15,0.277777777777778,1,1,1,1
+"39",10552,6812,"Keine unnötige Bürokratie im Bereich der Stromnetze","Schlussabstimmung",4901,193,193,1,"Ja",53,30,31,43,15,55,30,31,43,15,0.963636363636364,1,1,1,1
+"40",10553,6813,"Energiegesetz. Änderung","Schlussabstimmung",4901,191,139,0.727748691099476,"Ja",0,28,31,44,15,55,30,31,44,15,0,0.933333333333333,1,1,1
+"41",10554,6814,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Schlussabstimmung",4901,189,139,0.735449735449735,"Ja",1,30,30,44,15,54,30,30,44,15,0.0185185185185185,1,1,1,1
+"42",10555,6815,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Schlussabstimmung",4901,191,141,0.738219895287958,"Ja",1,30,31,44,15,55,30,31,44,15,0.0181818181818182,1,1,1,1
+"43",10556,6816,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Schlussabstimmung",4901,190,139,0.731578947368421,"Ja",0,30,31,43,15,55,30,31,43,15,0,1,1,1,1
+"44",10557,6817,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Schlussabstimmung",4901,192,142,0.739583333333333,"Ja",1,30,31,44,15,55,30,31,44,15,0.0181818181818182,1,1,1,1
+"45",10558,6818,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Schlussabstimmung",4901,191,142,0.743455497382199,"Ja",1,30,31,44,15,54,30,31,44,15,0.0185185185185185,1,1,1,1
+"46",10559,6819,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Schlussabstimmung",4901,193,144,0.746113989637306,"Ja",4,30,31,43,15,54,30,31,43,15,0.0740740740740741,1,1,1,1
+"47",10560,6820,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Schlussabstimmung",4901,192,141,0.734375,"Ja",1,29,31,44,15,55,29,31,44,15,0.0181818181818182,1,1,1,1
+"48",10561,6821,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Schlussabstimmung",4901,193,144,0.746113989637306,"Ja",3,30,31,44,15,55,30,31,44,15,0.0545454545454545,1,1,1,1
+"49",10562,6822,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Schlussabstimmung",4901,194,144,0.742268041237113,"Ja",3,30,31,44,15,55,30,31,44,15,0.0545454545454545,1,1,1,1
+"50",10563,6823,"Verbot der Gruppierung „Al-Qaïda“ und verwandter Organisationen","Schlussabstimmung",4901,192,192,1,"Ja",52,29,30,44,15,53,29,30,44,15,0.981132075471698,1,1,1,1
+"51",10564,6824,"Uno-Feuerwaffenprotokoll. Umsetzung. Waffengesetz. Änderung","Schlussabstimmung",4901,192,140,0.729166666666667,"Ja",3,27,29,44,15,55,29,30,44,15,0.0545454545454545,0.931034482758621,0.966666666666667,1,1
+"52",10565,6825,"Uno-Feuerwaffenprotokoll. Umsetzung. Waffengesetz. Änderung","Schlussabstimmung",4901,192,147,0.765625,"Ja",9,29,28,44,15,55,29,30,44,15,0.163636363636364,1,0.933333333333333,1,1
+"53",10605,6865,"Bundesgesetz über die Verrechnungssteuer. Änderung (Belebung des schweizerischen Kapitalmarktes)","Gesamtabstimmung",4902,176,176,1,"Ja",52,25,27,40,14,52,25,28,42,14,1,1,0.964285714285714,0.952380952380952,1
+"54",10624,6884,"Massnahmen gegen Zwangsheiraten. Bundesgesetz","Gesamtabstimmung",4902,179,128,0.715083798882682,"Ja",0,27,29,43,9,51,27,29,43,12,0,1,1,1,0.75
+"55",10644,6904,"Aussenwirtschaftspolitik 2011. Bericht","Gesamtabstimmung",4902,172,172,1,"Ja",45,27,29,37,13,47,27,29,37,13,0.957446808510638,1,1,1,1
+"56",10646,6906,"Aussenwirtschaftspolitik 2011. Bericht","Gesamtabstimmung",4902,177,132,0.745762711864407,"Ja",50,28,30,1,1,50,28,30,37,13,1,1,1,0.027027027027027,0.0769230769230769
+"57",10649,6909,"Aussenwirtschaftspolitik 2011. Bericht","Gesamtabstimmung",4902,183,134,0.73224043715847,"Ja",51,29,31,0,1,52,29,31,41,13,0.980769230769231,1,1,0,0.0769230769230769
+"58",10651,6911,"Aussenwirtschaftspolitik 2011. Bericht","Gesamtabstimmung",4902,185,134,0.724324324324324,"Ja",52,29,31,0,1,53,29,31,40,13,0.981132075471698,1,1,0,0.0769230769230769
+"59",10652,6912,"Aussenwirtschaftspolitik 2011. Bericht","Gesamtabstimmung",4902,184,184,1,"Ja",50,29,31,40,13,53,29,31,40,13,0.943396226415094,1,1,1,1
+"60",10653,6913,"Aussenwirtschaftspolitik 2011. Bericht","Gesamtabstimmung",4902,186,186,1,"Ja",53,29,30,40,13,53,29,30,40,13,1,1,1,1,1
+"61",10654,6914,"Aussenwirtschaftspolitik 2011. Bericht","Gesamtabstimmung",4902,185,185,1,"Ja",53,29,29,40,12,53,29,29,40,12,1,1,1,1,1
+"62",10677,6937,"Steueramtshilfegesetz","Gesamtabstimmung",4902,171,113,0.660818713450292,"Ja",0,25,25,43,2,50,25,26,43,11,0,1,0.961538461538462,1,0.181818181818182
+"63",10682,6942,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Gesamtabstimmung",4902,166,110,0.662650602409639,"Ja",0,26,24,34,9,51,28,27,42,14,0,0.928571428571429,0.888888888888889,0.80952380952381,0.642857142857143
+"64",10683,6943,"Doppelbesteuerung. Abkommen mit Rumänien","Gesamtabstimmung",4902,108,95,0.87962962962963,"Ja",35,26,11,6,1,49,26,28,39,12,0.714285714285714,1,0.392857142857143,0.153846153846154,0.0833333333333333
+"65",10684,6944,"Doppelbesteuerung. Abkommen mit Schweden","Gesamtabstimmung",4902,136,125,0.919117647058823,"Ja",5,26,28,39,12,50,26,28,39,12,0.1,1,1,1,1
+"66",10685,6945,"Doppelbesteuerung. Abkommen mit Singapur","Gesamtabstimmung",4902,165,155,0.939393939393939,"Ja",36,26,28,37,12,48,26,28,38,12,0.75,1,1,0.973684210526316,1
+"67",10686,6946,"Doppelbesteuerung. Abkommen mit Malta","Gesamtabstimmung",4902,168,157,0.93452380952381,"Ja",37,26,28,39,12,51,26,28,39,12,0.725490196078431,1,1,1,1
+"68",10687,6947,"Doppelbesteuerung. Abkommen mit der Slowakei","Gesamtabstimmung",4902,112,103,0.919642857142857,"Ja",38,27,13,9,1,51,27,27,39,12,0.745098039215686,1,0.481481481481481,0.230769230769231,0.0833333333333333
+"69",10688,6948,"Doppelbesteuerung. Abkommen mit der Republik Korea","Gesamtabstimmung",4902,140,131,0.935714285714286,"Ja",11,27,27,39,12,51,27,27,39,12,0.215686274509804,1,1,1,1
+"70",10689,6949,"Doppelbesteuerung. Abkommen mit Spanien","Gesamtabstimmung",4902,142,131,0.922535211267606,"Ja",11,26,28,39,12,51,26,28,39,12,0.215686274509804,1,1,1,1
+"71",10690,6950,"Doppelbesteuerung. Abkommen mit den Vereinigten Arabischen Emiraten","Gesamtabstimmung",4902,131,120,0.916030534351145,"Ja",15,27,28,24,11,51,27,28,38,11,0.294117647058824,1,1,0.631578947368421,1
+"72",10691,6951,"Doppelbesteuerung. Abkommen mit Hongkong","Gesamtabstimmung",4902,170,160,0.941176470588235,"Ja",38,27,28,39,12,51,27,28,39,12,0.745098039215686,1,1,1,1
+"73",10692,6952,"Doppelbesteuerung. Abkommen mit Russland","Gesamtabstimmung",4902,115,103,0.895652173913044,"Ja",9,27,27,14,11,51,27,28,36,12,0.176470588235294,1,0.964285714285714,0.388888888888889,0.916666666666667
+"74",10713,6973,"Flexibilisierung der Waldflächenpolitik","Gesamtabstimmung",4902,163,163,1,"Ja",43,21,28,42,12,43,21,28,42,12,1,1,1,1,1
+"75",10723,6983,"Übereinkommen über Streumunition. Kriegsmaterialgesetz. Änderung","Gesamtabstimmung",4902,172,146,0.848837209302326,"Ja",19,25,30,41,14,47,25,30,41,14,0.404255319148936,1,1,1,1
+"76",10724,6984,"Übereinkommen über Streumunition. Kriegsmaterialgesetz. Änderung","Gesamtabstimmung",4902,170,146,0.858823529411765,"Ja",18,26,30,41,14,47,26,30,41,14,0.382978723404255,1,1,1,1
+"77",10743,7003,"StGB, MStG und JStG. Unverjährbarkeit sexueller und pornografischer Straftaten an Kindern","Gesamtabstimmung",4902,176,176,1,"Ja",51,27,26,44,9,53,28,30,44,11,0.962264150943396,0.964285714285714,0.866666666666667,1,0.818181818181818
+"78",10774,7034,"Betäubungsmittelgesetz. Revision","Gesamtabstimmung",4902,176,111,0.630681818181818,"Ja",2,13,18,44,14,50,25,28,44,14,0.04,0.52,0.642857142857143,1,1
+"79",10778,7038,"Verfassungsbasis für eine umfassende Familienpolitik","Gesamtabstimmung",4902,179,111,0.620111731843575,"Ja",0,9,30,44,13,52,25,31,44,13,0,0.36,0.967741935483871,1,1
+"80",10791,7051,"Epidemiengesetz. Revision","Gesamtabstimmung",4902,156,152,0.974358974358974,"Ja",38,21,26,40,11,43,21,27,40,13,0.883720930232558,1,0.962962962962963,1,0.846153846153846
+"81",10798,7058,"IWF. Genehmigung der Quoten- und Gouvernanzreform","Gesamtabstimmung",4902,167,124,0.74251497005988,"Ja",14,27,28,39,2,50,27,29,40,13,0.28,1,0.96551724137931,0.975,0.153846153846154
+"82",10805,7065,"Bundesgesetz zur Unterstützung von Dachverbänden der Weiterbildung","Gesamtabstimmung",4902,142,142,1,"Ja",38,21,22,37,10,38,21,22,37,10,1,1,1,1,1
+"83",10809,7069,"Tierschutzgesetz. Änderung","Gesamtabstimmung",4902,173,173,1,"Ja",46,25,29,43,14,46,25,29,43,14,1,1,1,1,1
+"84",10833,7093,"Forschungs- und Innovationsförderungsgesetz. Totalrevision","Gesamtabstimmung",4902,175,133,0.76,"Ja",1,27,29,42,13,48,28,29,42,13,0.0208333333333333,0.964285714285714,1,1,1
+"85",10843,7103,"Bundesgesetz über Banken und Sparkassen (Sicherung der Einlagen). Änderung","Gesamtabstimmung",4902,171,170,0.994152046783626,"Ja",49,26,23,42,13,53,28,23,42,13,0.924528301886792,0.928571428571429,1,1,1
+"86",10853,7113,"Staatsleitungsreform","Gesamtabstimmung",4902,164,108,0.658536585365854,"Ja",1,20,24,43,13,46,21,24,43,14,0.0217391304347826,0.952380952380952,1,1,0.928571428571429
+"87",10877,7137,"Einsatz von Angehörigen der Armee zum Schutz der Schweizer Vertretung in Tripolis","Gesamtabstimmung",4902,174,155,0.890804597701149,"Ja",25,29,29,42,11,52,29,29,42,11,0.480769230769231,1,1,1,1
+"88",10879,7139,"jugend + musik. Volksinitiative","Schlussabstimmung",4902,176,139,0.789772727272727,"Ja",15,28,29,36,12,52,28,29,37,12,0.288461538461538,1,1,0.972972972972973,1
+"89",10896,7156,"Markenschutzgesetz. Änderung sowie Swissness-Vorlage","Gesamtabstimmung",4902,157,120,0.764331210191083,"Ja",12,21,25,43,14,46,24,28,43,14,0.260869565217391,0.875,0.892857142857143,1,1
+"90",10899,7159,"Markenschutzgesetz. Änderung sowie Swissness-Vorlage","Gesamtabstimmung",4902,176,172,0.977272727272727,"Ja",46,24,28,43,12,50,24,28,43,12,0.92,1,1,1,1
+"91",10904,7164,"Bahnreform 2","Schlussabstimmung",4902,195,195,1,"Ja",54,29,31,46,14,54,29,31,46,14,1,1,1,1,1
+"92",10905,7165,"Mehr Schutz der Konsumentinnen und Konsumenten. Änderung von Artikel 210 OR","Schlussabstimmung",4902,190,130,0.684210526315789,"Ja",0,27,24,46,14,55,30,31,46,14,0,0.9,0.774193548387097,1,1
+"93",10906,7166,"Für ein gesundes Klima. Volksinitiative. CO2-Gesetz. Revision","Schlussabstimmung",4902,195,122,0.625641025641026,"Ja",54,28,30,0,0,55,30,31,46,14,0.981818181818182,0.933333333333333,0.967741935483871,0,0
+"94",10907,7167,"jugend + musik. Volksinitiative","Schlussabstimmung",4902,187,156,0.834224598930481,"Ja",26,25,27,45,13,54,30,31,46,13,0.481481481481481,0.833333333333333,0.870967741935484,0.978260869565217,1
+"95",10908,7168,"Flexibilisierung der Waldflächenpolitik","Schlussabstimmung",4902,187,187,1,"Ja",55,30,31,44,7,55,30,31,44,14,1,1,1,1,0.5
+"96",10909,7169,"Sicheres Wohnen im Alter. Volksinitiative","Schlussabstimmung",4902,196,119,0.607142857142857,"Ja",2,9,28,46,14,55,30,31,46,14,0.0363636363636364,0.3,0.903225806451613,1,1
+"97",10910,7170,"Indirekter Gegenentwurf zur Volksinitiative ""gegen die Abzockerei""","Schlussabstimmung",4902,193,193,1,"Ja",54,29,31,45,13,54,30,31,45,13,1,0.966666666666667,1,1,1
+"98",10911,7171,"Richterverordnung. Überprüfung des Lohnsystems für Richterinnen und Richter","Schlussabstimmung",4902,197,197,1,"Ja",55,30,31,46,14,55,30,31,46,14,1,1,1,1,1
+"99",10912,7172,"Richterverordnung. Überprüfung des Lohnsystems für Richterinnen und Richter","Schlussabstimmung",4902,191,191,1,"Ja",55,30,30,42,14,55,30,30,42,14,1,1,1,1,1
+"100",10913,7173,"Schutz vor Passivrauchen. Volksinitiative","Schlussabstimmung",4902,190,138,0.726315789473684,"Ja",54,30,27,3,3,54,30,30,45,14,1,1,0.9,0.0666666666666667,0.214285714285714
+"101",10914,7174,"Doppelbesteuerung. Ergänzung zu verschiedenen Abkommen","Schlussabstimmung",4902,190,134,0.705263157894737,"Ja",0,29,29,44,12,53,30,30,46,14,0,0.966666666666667,0.966666666666667,0.956521739130435,0.857142857142857
+"102",10915,7175,"Übereinkommen über Streumunition. Kriegsmaterialgesetz. Änderung","Schlussabstimmung",4902,183,152,0.830601092896175,"Ja",15,30,27,45,14,55,30,30,45,14,0.272727272727273,1,0.9,1,1
+"103",10916,7176,"Übereinkommen über Streumunition. Kriegsmaterialgesetz. Änderung","Schlussabstimmung",4902,183,151,0.825136612021858,"Ja",15,30,28,45,13,55,30,31,46,14,0.272727272727273,1,0.903225806451613,0.978260869565217,0.928571428571429
+"104",10917,7177,"Doppelbesteuerung. Abkommen mit Rumänien","Schlussabstimmung",4902,115,100,0.869565217391304,"Ja",39,30,8,0,3,55,30,31,46,14,0.709090909090909,1,0.258064516129032,0,0.214285714285714
+"105",10918,7178,"Doppelbesteuerung. Abkommen mit Schweden","Schlussabstimmung",4902,172,160,0.930232558139535,"Ja",19,29,31,46,14,55,29,31,46,14,0.345454545454545,1,1,1,1
+"106",10919,7179,"Doppelbesteuerung. Abkommen mit Singapur","Schlussabstimmung",4902,195,182,0.933333333333333,"Ja",41,29,31,46,14,55,29,31,46,14,0.745454545454545,1,1,1,1
+"107",10920,7180,"Doppelbesteuerung. Abkommen mit Malta","Schlussabstimmung",4902,192,178,0.927083333333333,"Ja",37,29,31,46,14,55,29,31,46,14,0.672727272727273,1,1,1,1
+"108",10921,7181,"Doppelbesteuerung. Abkommen mit der Slowakei","Schlussabstimmung",4902,115,102,0.88695652173913,"Ja",38,29,12,0,3,55,29,30,45,14,0.690909090909091,1,0.4,0,0.214285714285714
+"109",10922,7182,"Doppelbesteuerung. Abkommen mit der Republik Korea","Schlussabstimmung",4902,131,115,0.877862595419847,"Ja",17,29,30,4,14,55,29,30,46,14,0.309090909090909,1,1,0.0869565217391304,1
+"110",10923,7183,"Verkehr mit Tieren und Pflanzen geschützter Arten. Bundesgesetz","Schlussabstimmung",4902,197,197,1,"Ja",55,30,31,46,14,55,30,31,46,14,1,1,1,1,1
+"111",10924,7184,"Tierseuchengesetz. Änderung","Schlussabstimmung",4902,193,192,0.994818652849741,"Ja",52,29,30,46,14,54,30,31,46,14,0.962962962962963,0.966666666666667,0.967741935483871,1,1
+"112",10925,7185,"Freihandelsabkommen zwischen den EFTA-Staaten und Hong Kong. Genehmigung","Schlussabstimmung",4902,137,137,1,"Ja",55,30,29,0,3,55,30,31,45,14,1,1,0.935483870967742,0,0.214285714285714
+"113",10926,7186,"Bundesgesetz zur Unterstützung von Dachverbänden der Weiterbildung","Schlussabstimmung",4902,195,195,1,"Ja",53,30,31,46,14,53,30,31,46,14,1,1,1,1,1
+"114",11056,7316,"Liberalisierung der Öffnungszeiten von Tankstellenshops","Gesamtabstimmung",4903,178,105,0.589887640449438,"Ja",47,28,21,0,0,48,28,28,43,14,0.979166666666667,1,0.75,0,0
+"115",11112,7372,"Personenfreizügigkeit. Flankierende Massnahmen. BG. Anpassung","Gesamtabstimmung",4904,169,130,0.769230769230769,"Ja",12,22,27,38,13,51,22,27,38,13,0.235294117647059,1,1,1,1
+"116",11125,7385,"6. IV-Revision. Zweites Massnahmenpaket","Gesamtabstimmung",4904,171,135,0.789473684210526,"Ja",50,0,22,41,13,52,21,27,41,14,0.961538461538462,0,0.814814814814815,1,0.928571428571429
+"117",11132,7392,"Staatsrechnung 2011","Gesamtabstimmung",4904,167,167,1,"Ja",44,23,26,42,13,44,23,26,42,13,1,1,1,1,1
+"118",11133,7393,"Staatsrechnung 2011","Gesamtabstimmung",4904,174,174,1,"Ja",46,25,28,42,13,47,25,28,42,13,0.978723404255319,1,1,1,1
+"119",11134,7394,"Staatsrechnung 2011","Gesamtabstimmung",4904,173,160,0.92485549132948,"Ja",33,25,28,41,13,47,25,28,42,13,0.702127659574468,1,1,0.976190476190476,1
+"120",11135,7395,"Staatsrechnung 2011","Gesamtabstimmung",4904,174,174,1,"Ja",44,25,28,42,15,47,25,28,42,15,0.936170212765957,1,1,1,1
+"121",11137,7397,"Staatsrechnung 2011","Gesamtabstimmung",4904,175,175,1,"Ja",46,25,28,42,15,47,25,28,42,15,0.978723404255319,1,1,1,1
+"122",11139,7399,"Voranschlag 2012. Nachtrag I","Gesamtabstimmung",4904,172,172,1,"Ja",43,25,28,41,15,48,25,28,41,15,0.895833333333333,1,1,1,1
+"123",11140,7400,"Voranschlag 2012. Nachtrag I","Gesamtabstimmung",4904,174,174,1,"Ja",44,25,28,42,15,47,25,28,42,15,0.936170212765957,1,1,1,1
+"124",11141,7401,"Vereinfachungen bei der Besteuerung von Lotteriegewinnen","Gesamtabstimmung",4904,160,160,1,"Ja",38,23,24,40,14,38,23,24,40,14,1,1,1,1,1
+"125",11146,7406,"Zusammenarbeit im Steuer- und Finanzmarktbereich. Abkommen mit Deutschland, Abkommen mit dem Vereinigten Königreich sowie internationale Quellenbesteuerung. Bundesgesetz","Gesamtabstimmung",4904,189,108,0.571428571428571,"Ja",1,25,30,17,15,53,26,31,45,15,0.0188679245283019,0.961538461538462,0.967741935483871,0.377777777777778,1
+"126",11147,7407,"Zusammenarbeit im Steuer- und Finanzmarktbereich. Abkommen mit Deutschland, Abkommen mit dem Vereinigten Königreich sowie internationale Quellenbesteuerung. Bundesgesetz","Gesamtabstimmung",4904,190,109,0.573684210526316,"Ja",1,26,30,18,14,53,26,31,45,15,0.0188679245283019,1,0.967741935483871,0.4,0.933333333333333
+"127",11153,7413,"Zusammenarbeit im Steuer- und Finanzmarktbereich. Abkommen mit Deutschland, Abkommen mit dem Vereinigten Königreich sowie internationale Quellenbesteuerung. Bundesgesetz","Gesamtabstimmung",4904,174,85,0.488505747126437,"Nein",1,24,30,0,12,47,24,31,44,14,0.0212765957446809,1,0.967741935483871,0,0.857142857142857
+"128",11155,7415,"Zusammenarbeit im Steuer- und Finanzmarktbereich. Abkommen mit Österreich","Gesamtabstimmung",4904,189,138,0.73015873015873,"Ja",32,26,31,14,15,53,26,31,45,15,0.60377358490566,1,1,0.311111111111111,1
+"129",11177,7437,"Bundesbeschluss über das Nationalstrassennetz. Anpassung","Gesamtabstimmung",4904,182,179,0.983516483516483,"Ja",46,27,27,43,15,49,27,27,43,15,0.938775510204082,1,1,1,1
+"130",11184,7444,"Bundesbeschluss über das Nationalstrassennetz. Anpassung","Gesamtabstimmung",4904,156,114,0.730769230769231,"Ja",2,22,22,35,13,43,24,23,35,13,0.0465116279069767,0.916666666666667,0.956521739130435,1,1
+"131",11185,7445,"Bundesbeschluss über das Nationalstrassennetz. Anpassung","Gesamtabstimmung",4904,155,155,1,"Ja",42,23,23,36,12,42,23,23,36,13,1,1,1,1,0.923076923076923
+"132",11197,7457,"Bundesbeschluss über das Nationalstrassennetz. Anpassung","Gesamtabstimmung",4904,124,92,0.741935483870968,"Ja",22,21,24,19,0,43,23,25,40,14,0.511627906976744,0.91304347826087,0.96,0.475,0
+"133",11218,7478,"Geschäftsbericht 2011 des Bundesgerichts","Gesamtabstimmung",4904,134,134,1,"Ja",29,20,26,35,13,29,20,26,35,13,1,1,1,1,1
+"134",11221,7481,"Rechtshilfe in Strafsachen. Abkommen mit Kolumbien","Gesamtabstimmung",4904,156,104,0.666666666666667,"Ja",41,20,25,3,0,42,20,25,40,14,0.976190476190476,1,1,0.075,0
+"135",11240,7500,"Verbesserung der Wirksamkeit und Koordination der internationalen Tätigkeiten der Bundesversammlung","Gesamtabstimmung",4904,136,134,0.985294117647059,"Ja",43,25,25,6,15,49,27,25,43,15,0.877551020408163,0.925925925925926,1,0.13953488372093,1
+"136",11245,7505,"Internationale Zusammenarbeit 2013-2016. Weiterführung","Gesamtabstimmung",4904,172,123,0.715116279069767,"Ja",0,19,29,43,13,49,23,29,43,13,0,0.826086956521739,1,1,1
+"137",11248,7508,"Internationale Zusammenarbeit 2013-2016. Weiterführung","Gesamtabstimmung",4904,174,125,0.718390804597701,"Ja",0,20,30,43,13,49,23,30,43,13,0,0.869565217391304,1,1,1
+"138",11250,7510,"Internationale Zusammenarbeit 2013-2016. Weiterführung","Gesamtabstimmung",4904,177,127,0.717514124293785,"Ja",0,22,30,42,14,50,25,30,42,14,0,0.88,1,1,1
+"139",11251,7511,"Geschäftsbericht des Bundesrates 2011","Gesamtabstimmung",4904,161,161,1,"Ja",42,25,26,37,12,43,25,26,37,12,0.976744186046512,1,1,1,1
+"140",11283,7543,"Immobilienbotschaft VBS 2012","Gesamtabstimmung",4904,146,146,1,"Ja",48,25,28,24,2,48,25,28,40,14,1,1,1,0.6,0.142857142857143
+"141",11288,7548,"WEF 2013-2015 in Davos. Einsatz der Armee im Assistenzdienst","Gesamtabstimmung",4904,163,123,0.754601226993865,"Ja",46,25,27,3,2,47,25,28,39,15,0.978723404255319,1,0.964285714285714,0.0769230769230769,0.133333333333333
+"142",11291,7551,"Einsätze der Armee zur Unterstützung ziviler Behörden. Bundesbeschluss","Gesamtabstimmung",4904,169,169,1,"Ja",47,26,26,36,15,47,26,26,40,15,1,1,1,0.9,1
+"143",11296,7556,"Sportanlagen von nationaler Bedeutung. Finanzhilfen (NASAK 4)","Gesamtabstimmung",4904,168,168,1,"Ja",46,27,26,38,11,46,27,26,38,11,1,1,1,1,1
+"144",11322,7582,"Zusammenarbeit im Steuer- und Finanzmarktbereich. Abkommen mit Deutschland, Abkommen mit dem Vereinigten Königreich sowie internationale Quellenbesteuerung. Bundesgesetz","Gesamtabstimmung",4904,173,88,0.508670520231214,"Ja",2,26,28,0,12,53,26,28,44,13,0.0377358490566038,1,1,0,0.923076923076923
+"145",11327,7587,"Teuerungsausgleich für die Einkommen und Vorsorge der Ratsmitglieder","Gesamtabstimmung",4904,174,90,0.517241379310345,"Ja",0,0,30,40,12,52,24,30,41,12,0,0,1,0.975609756097561,1
+"146",11329,7589,"Umweltverträglichkeitsprüfung im grenzüberschreitenden Rahmen. Änderungen. Genehmigung","Gesamtabstimmung",4904,174,104,0.597701149425287,"Ja",0,1,28,43,13,50,24,28,43,13,0,0.0416666666666667,1,1,1
+"147",11331,7591,"Via sicura. Mehr Sicherheit im Strassenverkehr","Gesamtabstimmung",4904,172,120,0.697674418604651,"Ja",0,17,29,42,13,51,21,29,42,13,0,0.80952380952381,1,1,1
+"148",11402,7662,"Asylgesetz. Änderung","Gesamtabstimmung",4904,180,118,0.655555555555556,"Ja",51,23,25,0,0,51,24,31,44,14,1,0.958333333333333,0.806451612903226,0,0
+"149",11415,7675,"Bundesgesetz über die Börsen und den Effektenhandel. Änderung","Gesamtabstimmung",4904,177,177,1,"Ja",47,27,27,43,12,47,27,27,43,12,1,1,1,1,1
+"150",11418,7678,"Verfassungsbasis für eine umfassende Familienpolitik","Schlussabstimmung",4904,186,129,0.693548387096774,"Ja",0,18,31,43,15,52,25,31,43,15,0,0.72,1,1,1
+"151",11419,7679,"Gegen die Abzockerei. Volksinitiative. OR. Änderung","Schlussabstimmung",4904,191,87,0.455497382198953,"Nein",1,0,25,45,15,55,27,31,45,15,0.0181818181818182,0,0.806451612903226,1,1
+"152",11420,7680,"Vereinfachungen bei der Besteuerung von Lotteriegewinnen","Schlussabstimmung",4904,195,195,1,"Ja",55,27,31,45,15,55,27,31,45,15,1,1,1,1,1
+"153",11421,7681,"Raum für Mensch und Natur (Landschaftsinitiative). Volksinitiative","Schlussabstimmung",4904,194,119,0.61340206185567,"Ja",55,27,27,0,0,55,27,31,45,15,1,1,0.870967741935484,0,0
+"154",11422,7682,"Raumplanungsgesetz. Teilrevision","Schlussabstimmung",4904,185,108,0.583783783783784,"Ja",5,4,20,43,15,55,27,31,45,15,0.0909090909090909,0.148148148148148,0.645161290322581,0.955555555555556,1
+"155",11423,7683,"Via sicura. Mehr Sicherheit im Strassenverkehr","Schlussabstimmung",4904,191,132,0.691099476439791,"Ja",0,20,30,45,15,55,27,31,45,15,0,0.740740740740741,0.967741935483871,1,1
+"156",11424,7684,"Via sicura. Mehr Sicherheit im Strassenverkehr","Schlussabstimmung",4904,189,110,0.582010582010582,"Ja",0,4,25,45,15,55,27,31,45,15,0,0.148148148148148,0.806451612903226,1,1
+"157",11425,7685,"Massnahmen gegen Zwangsheiraten. Bundesgesetz","Schlussabstimmung",4904,188,188,1,"Ja",55,27,31,45,8,55,27,31,45,15,1,1,1,1,0.533333333333333
+"158",11426,7686,"6. IV-Revision. Zweites Massnahmenpaket","Schlussabstimmung",4904,189,153,0.80952380952381,"Ja",55,10,28,44,7,55,27,31,45,15,1,0.37037037037037,0.903225806451613,0.977777777777778,0.466666666666667
+"159",11427,7687,"StGB, MStG und JStG. Unverjährbarkeit sexueller und pornografischer Straftaten an Kindern","Schlussabstimmung",4904,193,193,1,"Ja",55,26,31,45,14,55,27,31,45,14,1,0.962962962962963,1,1,1
+"160",11428,7688,"Bundesgesetz über die Verrechnungssteuer. Änderung (Belebung des schweizerischen Kapitalmarktes)","Schlussabstimmung",4904,195,150,0.769230769230769,"Ja",55,27,31,0,15,55,27,31,45,15,1,1,1,0,1
+"161",11430,7690,"Tierschutzgesetz. Änderung","Schlussabstimmung",4904,182,166,0.912087912087912,"Ja",46,20,19,45,14,52,26,29,45,14,0.884615384615385,0.769230769230769,0.655172413793103,1,1
+"162",11431,7691,"Rechtshilfe in Strafsachen. Abkommen mit Kolumbien","Schlussabstimmung",4904,187,136,0.727272727272727,"Ja",53,27,31,2,1,55,27,31,45,15,0.963636363636364,1,1,0.0444444444444444,0.0666666666666667
+"163",11432,7692,"Doppelbesteuerung. Abkommen mit Spanien","Schlussabstimmung",4904,159,150,0.943396226415094,"Ja",11,27,31,45,15,55,27,31,45,15,0.2,1,1,1,1
+"164",11433,7693,"Doppelbesteuerung. Abkommen mit den Vereinigten Arabischen Emiraten","Schlussabstimmung",4904,126,117,0.928571428571429,"Ja",18,27,31,11,10,54,27,31,45,15,0.333333333333333,1,1,0.244444444444444,0.666666666666667
+"165",11434,7694,"Doppelbesteuerung. Abkommen mit Hongkong","Schlussabstimmung",4904,190,187,0.984210526315789,"Ja",48,27,31,45,15,55,27,31,45,15,0.872727272727273,1,1,1,1
+"166",11435,7695,"Doppelbesteuerung. Abkommen mit Russland","Schlussabstimmung",4904,159,149,0.937106918238994,"Ja",19,27,31,36,15,55,27,31,45,15,0.345454545454545,1,1,0.8,1
+"167",11436,7696,"Teuerungsausgleich für die Einkommen und Vorsorge der Ratsmitglieder","Schlussabstimmung",4904,188,98,0.521276595744681,"Ja",0,0,30,44,14,55,27,31,45,15,0,0,0.967741935483871,0.977777777777778,0.933333333333333
+"168",11437,7697,"Personenfreizügigkeit. Flankierende Massnahmen. BG. Anpassung","Schlussabstimmung",4904,190,181,0.952631578947368,"Ja",44,24,31,45,15,54,27,31,45,15,0.814814814814815,0.888888888888889,1,1,1
+"169",11438,7698,"Zusammenarbeit im Steuer- und Finanzmarktbereich. Abkommen mit Deutschland, Abkommen mit dem Vereinigten Königreich sowie internationale Quellenbesteuerung. Bundesgesetz","Schlussabstimmung",4904,185,109,0.589189189189189,"Ja",2,26,30,16,14,55,27,31,45,15,0.0363636363636364,0.962962962962963,0.967741935483871,0.355555555555556,0.933333333333333
+"170",11439,7699,"Zusammenarbeit im Steuer- und Finanzmarktbereich. Abkommen mit Deutschland, Abkommen mit dem Vereinigten Königreich sowie internationale Quellenbesteuerung. Bundesgesetz","Schlussabstimmung",4904,187,110,0.588235294117647,"Ja",2,26,30,18,13,55,27,31,45,15,0.0363636363636364,0.962962962962963,0.967741935483871,0.4,0.866666666666667
+"171",11440,7700,"Zusammenarbeit im Steuer- und Finanzmarktbereich. Abkommen mit Deutschland, Abkommen mit dem Vereinigten Königreich sowie internationale Quellenbesteuerung. Bundesgesetz","Schlussabstimmung",4904,182,96,0.527472527472527,"Ja",2,26,31,2,14,55,27,31,45,15,0.0363636363636364,0.962962962962963,1,0.0444444444444444,0.933333333333333
+"172",11441,7701,"Zusammenarbeit im Steuer- und Finanzmarktbereich. Abkommen mit Österreich","Schlussabstimmung",4904,189,143,0.756613756613757,"Ja",39,26,31,12,13,54,26,31,45,14,0.722222222222222,1,1,0.266666666666667,0.928571428571429
+"173",11461,7721,"Anwaltliches Berufsgeheimnis. Anpassung von verfahrensrechtlichen Bestimmungen. Bundesgesetz","Gesamtabstimmung",4904,135,135,1,"Ja",40,18,25,24,11,40,18,25,24,11,1,1,1,1,1
+"174",11506,7766,"Präzisierung des Anwendungsbereichs der Bestimmungen über die verdeckte Ermittlung","Gesamtabstimmung",4905,163,161,0.987730061349693,"Ja",43,24,25,37,12,46,24,25,37,14,0.934782608695652,1,1,1,0.857142857142857
+"175",11511,7771,"Grenzüberschreitende Handhabung des Verkehrs mit Feuerwaffen. Vertrag mit dem Fürstentum Liechtenstein","Gesamtabstimmung",4905,173,173,1,"Ja",50,26,28,39,12,50,26,28,39,12,1,1,1,1,1
+"176",11532,7792,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,176,176,1,"Ja",46,25,29,43,13,46,25,29,43,13,1,1,1,1,1
+"177",11535,7795,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,169,169,1,"Ja",45,26,28,40,11,45,26,28,40,11,1,1,1,1,1
+"178",11540,7800,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,173,173,1,"Ja",45,26,28,40,14,45,26,28,40,14,1,1,1,1,1
+"179",11544,7804,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,169,169,1,"Ja",45,25,27,40,14,45,25,27,40,14,1,1,1,1,1
+"180",11549,7809,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,173,173,1,"Ja",45,26,28,41,14,45,26,28,41,14,1,1,1,1,1
+"181",11553,7813,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,172,172,1,"Ja",46,26,26,41,14,46,26,26,41,14,1,1,1,1,1
+"182",11556,7816,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,174,174,1,"Ja",46,26,27,41,14,46,26,27,41,14,1,1,1,1,1
+"183",11558,7818,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,172,172,1,"Ja",45,26,27,41,13,45,26,27,41,13,1,1,1,1,1
+"184",11560,7820,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,167,167,1,"Ja",41,26,27,41,13,41,26,27,41,13,1,1,1,1,1
+"185",11562,7822,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,166,166,1,"Ja",41,25,27,40,13,41,25,27,40,13,1,1,1,1,1
+"186",11572,7832,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,171,171,1,"Ja",45,26,25,42,13,45,26,25,42,13,1,1,1,1,1
+"187",11573,7833,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,170,170,1,"Ja",44,26,26,41,13,44,26,26,41,13,1,1,1,1,1
+"188",11574,7834,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,169,169,1,"Ja",45,26,23,42,13,45,26,23,42,13,1,1,1,1,1
+"189",11575,7835,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,170,170,1,"Ja",46,26,24,41,13,46,26,24,41,13,1,1,1,1,1
+"190",11577,7837,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,170,170,1,"Ja",45,26,25,42,13,45,26,25,42,13,1,1,1,1,1
+"191",11578,7838,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Gesamtabstimmung",4905,169,169,1,"Ja",44,26,25,42,13,44,26,25,42,13,1,1,1,1,1
+"192",11607,7867,"Kollektivanlagengesetz. Änderung","Gesamtabstimmung",4905,175,113,0.645714285714286,"Ja",46,26,23,0,0,46,26,27,44,14,1,1,0.851851851851852,0,0
+"193",11627,7887,"Besteuerung nach dem Aufwand. Bundesgesetz","Gesamtabstimmung",4905,170,116,0.682352941176471,"Ja",47,25,23,0,3,48,25,27,42,14,0.979166666666667,1,0.851851851851852,0,0.214285714285714
+"194",11642,7902,"Pferdehaltung in der Landwirtschaftszone","Gesamtabstimmung",4905,171,149,0.871345029239766,"Ja",49,21,31,37,2,49,21,31,42,13,1,1,1,0.880952380952381,0.153846153846154
+"195",11644,7904,"Europäische Landschaftskonvention. Genehmigung","Gesamtabstimmung",4905,185,100,0.540540540540541,"Ja",0,3,18,45,15,50,25,31,45,15,0,0.12,0.580645161290323,1,1
+"196",11661,7921,"Strafprozessordnung. Protokollierungsvorschriften","Gesamtabstimmung",4905,157,157,1,"Ja",38,25,21,40,15,38,25,21,40,15,1,1,1,1,1
+"197",11671,7931,"Bundespersonalgesetz. Änderung","Gesamtabstimmung",4905,160,126,0.7875,"Ja",2,25,24,42,15,42,25,24,42,15,0.0476190476190476,1,1,1,1
+"198",11701,7961,"Weltausstellung 2015 in Mailand","Gesamtabstimmung",4905,178,178,1,"Ja",43,28,30,43,13,46,28,30,43,14,0.934782608695652,1,1,1,0.928571428571429
+"199",11702,7962,"Genehmigung der Änderungen der Bankenverordnung und der Eigenmittelverordnung (too big to fail). Bundesbeschluss","Gesamtabstimmung",4905,168,128,0.761904761904762,"Ja",6,26,26,37,12,48,26,27,39,12,0.125,1,0.962962962962963,0.948717948717949,1
+"200",11792,8052,"Agrarpolitik 2014-2017","Gesamtabstimmung",4905,155,126,0.812903225806452,"Ja",3,27,24,41,14,45,27,29,41,14,0.0666666666666667,1,0.827586206896552,1,1
+"201",11798,8058,"Agrarpolitik 2014-2017","Gesamtabstimmung",4905,172,119,0.691860465116279,"Ja",48,25,26,0,12,48,25,28,43,14,1,1,0.928571428571429,0,0.857142857142857
+"202",11833,8093,"Finanzierung der schweizerischen Eisenbahninfrastruktur (SBB und Privatbahnen) für die Jahre 2013-2016","Gesamtabstimmung",4905,170,170,1,"Ja",42,29,26,41,12,42,29,26,41,12,1,1,1,1,1
+"203",11836,8096,"Finanzierung der schweizerischen Eisenbahninfrastruktur (SBB und Privatbahnen) für die Jahre 2013-2016","Gesamtabstimmung",4905,174,174,1,"Ja",45,29,26,42,12,45,29,26,42,12,1,1,1,1,1
+"204",11838,8098,"Finanzierung der schweizerischen Eisenbahninfrastruktur (SBB und Privatbahnen) für die Jahre 2013-2016","Gesamtabstimmung",4905,172,172,1,"Ja",44,28,26,42,12,44,28,26,42,12,1,1,1,1,1
+"205",11868,8128,"Zivilgesetzbuch. Elterliche Sorge","Gesamtabstimmung",4905,164,151,0.920731707317073,"Ja",47,23,26,24,11,48,24,29,39,13,0.979166666666667,0.958333333333333,0.896551724137931,0.615384615384615,0.846153846153846
+"206",11885,8145,"Internationale Arbeitsorganisation. Übereinkommen Nr. 122","Gesamtabstimmung",4905,157,117,0.745222929936306,"Ja",0,22,26,40,14,40,22,26,40,14,0,1,1,1,1
+"207",11892,8152,"Ratifikation des IAO-Übereinkommens Nr. 183 über den Mutterschutz","Gesamtabstimmung",4905,157,101,0.643312101910828,"Ja",1,5,19,45,14,39,22,29,45,14,0.0256410256410256,0.227272727272727,0.655172413793103,1,1
+"208",11896,8156,"Staatsleitungsreform","Schlussabstimmung",4905,184,136,0.739130434782609,"Ja",0,29,28,44,14,48,29,31,44,15,0,1,0.903225806451613,1,0.933333333333333
+"209",11897,8157,"Betäubungsmittelgesetz. Revision","Schlussabstimmung",4905,185,128,0.691891891891892,"Ja",1,26,24,44,13,48,29,31,44,15,0.0208333333333333,0.896551724137931,0.774193548387097,1,0.866666666666667
+"210",11898,8158,"Verbesserung der Wirksamkeit und Koordination der internationalen Tätigkeiten der Bundesversammlung","Schlussabstimmung",4905,185,139,0.751351351351351,"Ja",1,28,31,44,14,48,29,31,44,14,0.0208333333333333,0.96551724137931,1,1,1
+"211",11899,8159,"Asylgesetz. Änderung","Schlussabstimmung",4905,171,122,0.713450292397661,"Ja",48,27,28,0,0,48,28,31,44,15,1,0.964285714285714,0.903225806451613,0,0
+"212",11900,8160,"Epidemiengesetz. Revision","Schlussabstimmung",4905,163,149,0.914110429447853,"Ja",40,28,30,34,7,48,29,31,44,15,0.833333333333333,0.96551724137931,0.967741935483871,0.772727272727273,0.466666666666667
+"213",11901,8161,"Strafprozessordnung. Protokollierungsvorschriften","Schlussabstimmung",4905,187,187,1,"Ja",47,29,31,44,15,47,29,31,44,15,1,1,1,1,1
+"214",11902,8162,"Besteuerung nach dem Aufwand. Bundesgesetz","Schlussabstimmung",4905,161,120,0.745341614906832,"Ja",46,27,28,0,0,46,27,29,42,14,1,1,0.96551724137931,0,0
+"215",11903,8163,"Steueramtshilfegesetz","Schlussabstimmung",4905,184,134,0.728260869565217,"Ja",0,26,30,43,15,48,28,31,43,15,0,0.928571428571429,0.967741935483871,1,1
+"216",11904,8164,"Bundesgesetz über die Börsen und den Effektenhandel. Änderung","Schlussabstimmung",4905,186,186,1,"Ja",48,29,31,43,14,48,29,31,43,14,1,1,1,1,1
+"217",11905,8165,"Anwaltliches Berufsgeheimnis. Anpassung von verfahrensrechtlichen Bestimmungen. Bundesgesetz","Schlussabstimmung",4905,188,188,1,"Ja",48,29,31,44,15,48,29,31,44,15,1,1,1,1,1
+"218",11906,8166,"Europäische Landschaftskonvention. Genehmigung","Schlussabstimmung",4905,186,101,0.543010752688172,"Ja",0,4,20,44,15,48,29,31,44,15,0,0.137931034482759,0.645161290322581,1,1
+"219",11907,8167,"Umweltverträglichkeitsprüfung im grenzüberschreitenden Rahmen. Änderungen. Genehmigung","Schlussabstimmung",4905,182,101,0.554945054945055,"Ja",2,1,23,44,15,48,29,31,44,15,0.0416666666666667,0.0344827586206897,0.741935483870968,1,1
+"220",11908,8168,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Schlussabstimmung",4905,187,187,1,"Ja",48,29,31,43,15,48,29,31,43,15,1,1,1,1,1
+"221",11909,8169,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Schlussabstimmung",4905,188,188,1,"Ja",48,29,31,44,15,48,29,31,44,15,1,1,1,1,1
+"222",11910,8170,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Schlussabstimmung",4905,185,157,0.848648648648649,"Ja",18,28,31,44,15,48,29,31,44,15,0.375,0.96551724137931,1,1,1
+"223",11911,8171,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Schlussabstimmung",4905,186,173,0.93010752688172,"Ja",34,29,30,44,15,47,29,30,44,15,0.723404255319149,1,1,1,1
+"224",11912,8172,"Förderung von Bildung, Forschung und Innovation in den Jahren 2013-2016","Schlussabstimmung",4905,187,187,1,"Ja",47,29,31,44,15,48,29,31,44,15,0.979166666666667,1,1,1,1
+"225",11913,8173,"Kollektivanlagengesetz. Änderung","Schlussabstimmung",4905,179,128,0.715083798882682,"Ja",8,29,31,38,1,48,29,31,44,15,0.166666666666667,1,1,0.863636363636364,0.0666666666666667
+"226",11914,8174,"Internationale Arbeitsorganisation. Übereinkommen Nr. 122","Schlussabstimmung",4905,183,127,0.693989071038251,"Ja",0,24,25,44,15,47,29,31,44,15,0,0.827586206896552,0.806451612903226,1,1
+"227",11945,8205,"Direkte Bundessteuer. Finanzielle Oberaufsicht","Gesamtabstimmung",4906,155,155,1,"Ja",40,26,22,38,13,41,26,22,38,13,0.975609756097561,1,1,1,1
+"228",11947,8207,"Immobilienbotschaft EFD 2012","Gesamtabstimmung",4906,168,168,1,"Ja",43,26,30,36,14,43,26,30,36,14,1,1,1,1,1
+"229",11979,8239,"Voranschlag 2013","Gesamtabstimmung",4906,177,157,0.887005649717514,"Ja",25,28,31,43,14,45,28,31,43,14,0.555555555555556,1,1,1,1
+"230",11982,8242,"Voranschlag 2013","Gesamtabstimmung",4906,174,161,0.925287356321839,"Ja",32,28,31,41,14,45,29,31,41,14,0.711111111111111,0.96551724137931,1,1,1
+"231",11983,8243,"Voranschlag 2013","Gesamtabstimmung",4906,176,163,0.926136363636364,"Ja",31,29,30,43,14,44,29,30,43,14,0.704545454545455,1,1,1,1
+"232",11984,8244,"Voranschlag 2013","Gesamtabstimmung",4906,176,175,0.994318181818182,"Ja",42,29,31,43,14,44,29,31,43,14,0.954545454545455,1,1,1,1
+"233",11985,8245,"Voranschlag 2013","Gesamtabstimmung",4906,177,177,1,"Ja",44,29,31,43,14,44,29,31,43,14,1,1,1,1,1
+"234",11987,8247,"Voranschlag 2012. Nachtrag II","Gesamtabstimmung",4906,177,167,0.943502824858757,"Ja",34,29,30,43,14,44,29,30,43,14,0.772727272727273,1,1,1,1
+"235",12001,8261,"Internationale Währungshilfe. Verlängerung und Aufstockung des Rahmenkredits","Gesamtabstimmung",4906,167,109,0.652694610778443,"Ja",0,26,29,32,4,47,27,31,43,14,0,0.962962962962963,0.935483870967742,0.744186046511628,0.285714285714286
+"236",12009,8269,"Einsatz von Angehörigen der Armee zum Schutz der Schweizer Vertretung in Tripolis. Verlängerung","Gesamtabstimmung",4906,162,113,0.697530864197531,"Ja",0,25,26,41,4,48,25,26,41,10,0,1,1,1,0.4
+"237",12010,8270,"Meeresumweltschutz. Ratifizierung von Übereinkommen und Bundesgesetz über die Seeschifffahrt. Änderung","Gesamtabstimmung",4906,163,163,1,"Ja",42,25,28,40,10,42,25,28,40,10,1,1,1,1,1
+"238",12011,8271,"Meeresumweltschutz. Ratifizierung von Übereinkommen und Bundesgesetz über die Seeschifffahrt. Änderung","Gesamtabstimmung",4906,174,174,1,"Ja",44,27,28,44,12,44,27,28,44,12,1,1,1,1,1
+"239",12026,8286,"Abschaffung der Rückerstattungspflicht des Heimatkantons","Gesamtabstimmung",4906,160,151,0.94375,"Ja",35,23,29,37,10,46,23,29,39,10,0.760869565217391,1,1,0.948717948717949,1
+"240",12043,8303,"Personenfreizügigkeit. Flankierende Massnahmen. BG. Anpassung","Gesamtabstimmung",4906,189,115,0.608465608465608,"Ja",3,7,23,46,14,52,28,29,46,14,0.0576923076923077,0.25,0.793103448275862,1,1
+"241",12044,8304,"Personenfreizügigkeitsabkommen. Änderung des Anhangs III","Gesamtabstimmung",4906,175,160,0.914285714285714,"Ja",31,24,24,45,14,46,24,24,45,14,0.673913043478261,1,1,1,1
+"242",12050,8310,"Direkte Steuern bei den natürlichen Personen. Zeitliche Bemessung","Gesamtabstimmung",4906,158,151,0.955696202531646,"Ja",29,26,26,39,13,36,26,26,39,13,0.805555555555556,1,1,1,1
+"243",12066,8326,"Verbesserungen der Organisation und der Verfahren des Parlamentes","Gesamtabstimmung",4906,167,157,0.940119760479042,"Ja",40,24,26,43,14,42,25,28,43,14,0.952380952380952,0.96,0.928571428571429,1,1
+"244",12070,8330,"Verbesserungen der Organisation und der Verfahren des Parlamentes","Gesamtabstimmung",4906,174,137,0.78735632183908,"Ja",36,6,27,44,14,43,25,29,44,14,0.837209302325581,0.24,0.931034482758621,1,1
+"245",12089,8349,"Epidemiengesetz. Verlängerung des dringlichen Bundesgesetzes","Gesamtabstimmung",4906,161,131,0.813664596273292,"Ja",14,27,27,31,13,44,27,27,31,13,0.318181818181818,1,1,1,1
+"246",12110,8370,"6. IV-Revision. Zweites Massnahmenpaket","Gesamtabstimmung",4906,173,93,0.53757225433526,"Ja",0,0,21,43,11,53,22,27,44,11,0,0,0.777777777777778,0.977272727272727,1
+"247",12152,8412,"Ratifikation des IAO-Übereinkommens Nr. 183 über den Mutterschutz","Schlussabstimmung",4906,187,123,0.657754010695187,"Ja",1,18,24,44,14,55,29,30,44,14,0.0181818181818182,0.620689655172414,0.8,1,1
+"248",12153,8413,"Präzisierung des Anwendungsbereichs der Bestimmungen über die verdeckte Ermittlung","Schlussabstimmung",4906,191,191,1,"Ja",54,29,31,44,11,55,29,31,44,14,0.981818181818182,1,1,1,0.785714285714286
+"249",12154,8414,"Abschaffung der Rückerstattungspflicht des Heimatkantons","Schlussabstimmung",4906,190,168,0.884210526315789,"Ja",34,28,30,42,13,55,29,31,43,14,0.618181818181818,0.96551724137931,0.967741935483871,0.976744186046512,0.928571428571429
+"250",12155,8415,"Liberalisierung der Öffnungszeiten von Tankstellenshops","Schlussabstimmung",4906,187,128,0.684491978609626,"Ja",54,29,26,0,0,54,29,31,42,14,1,1,0.838709677419355,0,0
+"251",12156,8416,"Asylgesetz. Änderung","Schlussabstimmung",4906,145,90,0.620689655172414,"Ja",11,29,30,0,0,55,29,31,43,14,0.2,1,0.967741935483871,0,0
+"252",12157,8417,"Bundespersonalgesetz. Änderung","Schlussabstimmung",4906,189,177,0.936507936507937,"Ja",43,29,31,42,13,54,29,31,42,13,0.796296296296296,1,1,1,1
+"253",12158,8418,"Forschungs- und Innovationsförderungsgesetz. Totalrevision","Schlussabstimmung",4906,187,162,0.866310160427808,"Ja",23,29,31,43,14,55,29,31,43,14,0.418181818181818,1,1,1,1
+"254",12159,8419,"Personenfreizügigkeit. Flankierende Massnahmen. BG. Anpassung","Schlussabstimmung",4906,185,106,0.572972972972973,"Ja",3,4,20,44,14,55,26,31,44,14,0.0545454545454545,0.153846153846154,0.645161290322581,1,1
+"255",12160,8420,"Personenfreizügigkeitsabkommen. Änderung des Anhangs III","Schlussabstimmung",4906,194,189,0.974226804123711,"Ja",50,28,31,44,14,55,28,31,44,14,0.909090909090909,1,1,1,1
+"256",12161,8421,"Direkte Bundessteuer. Finanzielle Oberaufsicht","Schlussabstimmung",4906,193,188,0.974093264248705,"Ja",49,28,31,44,14,55,28,31,44,14,0.890909090909091,1,1,1,1
+"257",12162,8422,"Volkswahl des Bundesrates. Volksinitiative","Schlussabstimmung",4906,186,137,0.736559139784946,"Ja",0,29,31,43,12,55,29,31,44,14,0,1,1,0.977272727272727,0.857142857142857
+"258",12163,8423,"Grenzüberschreitende Handhabung des Verkehrs mit Feuerwaffen. Vertrag mit dem Fürstentum Liechtenstein","Schlussabstimmung",4906,194,194,1,"Ja",55,29,31,44,14,55,29,31,44,14,1,1,1,1,1
+"259",12164,8424,"Epidemiengesetz. Verlängerung des dringlichen Bundesgesetzes","Schlussabstimmung",4906,192,188,0.979166666666667,"Ja",50,29,30,44,13,55,29,30,44,14,0.909090909090909,1,1,1,0.928571428571429
+"260",12195,8455,"Haftung der Unternehmen für die Kosten der Altlastensanierung","Gesamtabstimmung",4907,183,131,0.715846994535519,"Ja",0,26,28,43,14,50,28,28,43,14,0,0.928571428571429,1,1,1
+"261",12201,8461,"Gewässerschutzgesetz. Teilrevision","Gesamtabstimmung",4907,178,109,0.612359550561798,"Ja",46,27,27,0,0,47,27,27,43,14,0.978723404255319,1,1,0,0
+"262",12204,8464,"Aarhus-Konvention. Genehmigung","Gesamtabstimmung",4907,181,93,0.513812154696133,"Ja",0,2,17,43,14,50,28,28,43,14,0,0.0714285714285714,0.607142857142857,1,1
+"263",12232,8492,"Aus- und Weiterbildungskosten. Steuerliche Behandlung. Bundesgesetz","Gesamtabstimmung",4907,154,131,0.850649350649351,"Ja",54,29,28,7,2,54,29,28,43,14,1,1,1,0.162790697674419,0.142857142857143
+"264",12239,8499,"Doppelbesteuerung. Abkommen mit Irland","Gesamtabstimmung",4907,162,154,0.950617283950617,"Ja",28,24,28,43,14,49,24,28,43,14,0.571428571428571,1,1,1,1
+"265",12240,8500,"Doppelbesteuerung. Abkommen mit Portugal","Gesamtabstimmung",4907,163,153,0.938650306748466,"Ja",25,25,28,43,14,53,25,28,43,14,0.471698113207547,1,1,1,1
+"266",12241,8501,"Doppelbesteuerung. Abkommen mit Bulgarien","Gesamtabstimmung",4907,117,95,0.811965811965812,"Ja",16,24,28,8,2,53,24,28,42,14,0.30188679245283,1,1,0.19047619047619,0.142857142857143
+"267",12242,8502,"Doppelbesteuerung. Abkommen mit Slowenien","Gesamtabstimmung",4907,114,102,0.894736842105263,"Ja",20,25,28,7,4,53,25,28,43,14,0.377358490566038,1,1,0.162790697674419,0.285714285714286
+"268",12243,8503,"Doppelbesteuerung. Abkommen mit Tschechien","Gesamtabstimmung",4907,117,106,0.905982905982906,"Ja",20,26,28,9,5,53,26,28,43,14,0.377358490566038,1,1,0.209302325581395,0.357142857142857
+"269",12244,8504,"Doppelbesteuerung. Abkommen mit Turkmenistan","Gesamtabstimmung",4907,162,143,0.882716049382716,"Ja",14,26,28,43,14,53,26,28,43,14,0.264150943396226,1,1,1,1
+"270",12245,8505,"Doppelbesteuerung. Abkommen mit Peru","Gesamtabstimmung",4907,161,148,0.919254658385093,"Ja",19,26,28,43,14,54,26,28,43,14,0.351851851851852,1,1,1,1
+"271",12259,8519,"KVG. Teilrevision. Vorübergehende Wiedereinführung der bedarfsabhängigen Zulassung","Gesamtabstimmung",4907,179,103,0.575418994413408,"Ja",1,2,27,42,12,50,28,30,42,13,0.02,0.0714285714285714,0.9,1,0.923076923076923
+"272",12266,8526,"Ja zur Hausarztmedizin. Volksinitiative","Gesamtabstimmung",4907,163,123,0.754601226993865,"Ja",3,18,29,42,13,53,27,29,42,13,0.0566037735849057,0.666666666666667,1,1,1
+"273",12292,8552,"Aussenwirtschaftspolitik 2012. Bericht","Gesamtabstimmung",4907,165,125,0.757575757575758,"Ja",47,27,27,0,7,47,27,29,40,12,1,1,0.931034482758621,0,0.583333333333333
+"274",12294,8554,"Aussenwirtschaftspolitik 2012. Bericht","Gesamtabstimmung",4907,172,109,0.633720930232558,"Ja",47,26,27,0,0,47,26,29,41,12,1,1,0.931034482758621,0,0
+"275",12295,8555,"Aussenwirtschaftspolitik 2012. Bericht","Gesamtabstimmung",4907,170,170,1,"Ja",46,26,29,41,11,46,26,29,41,12,1,1,1,1,0.916666666666667
+"276",12299,8559,"Aktionsplan „Koordinierte Energieforschung Schweiz“. Massnahmen in den Jahren 2013-2016","Gesamtabstimmung",4907,157,120,0.764331210191083,"Ja",0,26,24,40,13,41,26,26,40,13,0,1,0.923076923076923,1,1
+"277",12303,8563,"Aktionsplan „Koordinierte Energieforschung Schweiz“. Massnahmen in den Jahren 2013-2016","Gesamtabstimmung",4907,163,125,0.766871165644172,"Ja",0,26,28,41,13,40,26,28,41,13,0,1,1,1,1
+"278",12306,8566,"Aktionsplan „Koordinierte Energieforschung Schweiz“. Massnahmen in den Jahren 2013-2016","Gesamtabstimmung",4907,158,126,0.79746835443038,"Ja",0,27,28,41,13,41,27,28,41,13,0,1,1,1,1
+"279",12308,8568,"Aktionsplan „Koordinierte Energieforschung Schweiz“. Massnahmen in den Jahren 2013-2016","Gesamtabstimmung",4907,156,126,0.807692307692308,"Ja",0,27,28,40,13,42,27,28,40,13,0,1,1,1,1
+"280",12388,8648,"Bürgerrechtsgesetz. Totalrevision","Gesamtabstimmung",4907,141,80,0.567375886524823,"Ja",8,28,25,0,0,50,28,26,44,14,0.16,1,0.961538461538462,0,0
+"281",12393,8653,"Verletzungen des humanitären Völkerrechts. Zusammenarbeit mit den internationalen Gerichten. Änderung","Gesamtabstimmung",4907,159,151,0.949685534591195,"Ja",35,20,25,39,13,48,21,25,39,13,0.729166666666667,0.952380952380952,1,1,1
+"282",12400,8660,"Freigabe der Investitionen in erneuerbare Energien ohne Bestrafung der Grossverbraucher","Gesamtabstimmung",4907,178,122,0.685393258426966,"Ja",1,14,29,44,14,47,27,29,44,14,0.0212765957446809,0.518518518518518,1,1,1
+"283",12401,8661,"Internationale Organisation für Migration. Änderung der Satzung","Gesamtabstimmung",4907,151,117,0.774834437086093,"Ja",0,22,25,42,12,39,22,25,42,12,0,1,1,1,1
+"284",12419,8679,"Stempelsteuer schrittweise abschaffen und Arbeitsplätze schaffen","Gesamtabstimmung",4907,174,120,0.689655172413793,"Ja",50,28,24,0,0,50,28,29,43,11,1,1,0.827586206896552,0,0
+"285",12475,8735,"Lebensmittelgesetz. Revision","Gesamtabstimmung",4907,165,120,0.727272727272727,"Ja",2,17,28,42,12,48,25,28,42,12,0.0416666666666667,0.68,1,1,1
+"286",12494,8754,"Geldwäschereigesetz. Änderung","Gesamtabstimmung",4907,153,105,0.686274509803922,"Ja",0,16,22,40,12,42,23,22,40,12,0,0.695652173913043,1,1,1
+"287",12496,8756,"Pferdehaltung in der Landwirtschaftszone","Schlussabstimmung",4907,186,160,0.860215053763441,"Ja",51,25,29,43,4,52,30,29,44,13,0.980769230769231,0.833333333333333,1,0.977272727272727,0.307692307692308
+"288",12497,8757,"Haftung der Unternehmen für die Kosten der Altlastensanierung","Schlussabstimmung",4907,184,130,0.706521739130435,"Ja",1,23,29,44,13,52,30,29,44,13,0.0192307692307692,0.766666666666667,1,1,1
+"289",12498,8758,"Bundesgesetz über Banken und Sparkassen (Sicherung der Einlagen). Änderung","Schlussabstimmung",4907,187,112,0.598930481283422,"Ja",32,30,29,0,1,52,30,29,44,13,0.615384615384615,1,1,0,0.0769230769230769
+"290",12499,8759,"Gewässerschutzgesetz. Teilrevision","Schlussabstimmung",4907,188,116,0.617021276595745,"Ja",52,29,27,0,0,52,30,29,44,13,1,0.966666666666667,0.931034482758621,0,0
+"291",12500,8760,"Direkte Steuern bei den natürlichen Personen. Zeitliche Bemessung","Schlussabstimmung",4907,188,188,1,"Ja",52,30,29,44,13,52,30,29,44,13,1,1,1,1,1
+"292",12501,8761,"1:12 - Für gerechte Löhne. Volksinitiative","Schlussabstimmung",4907,186,130,0.698924731182796,"Ja",52,29,29,0,0,52,29,29,44,13,1,1,1,0,0
+"293",12502,8762,"Bundesbeschluss über das Nationalstrassennetz. Anpassung","Schlussabstimmung",4907,185,159,0.859459459459459,"Ja",52,30,29,40,0,52,30,29,45,13,1,1,1,0.888888888888889,0
+"294",12503,8763,"Bundesbeschluss über das Nationalstrassennetz. Anpassung","Schlussabstimmung",4907,189,102,0.53968253968254,"Ja",12,27,29,24,2,52,30,29,45,13,0.230769230769231,0.9,1,0.533333333333333,0.153846153846154
+"295",12504,8764,"Agrarpolitik 2014-2017","Schlussabstimmung",4907,182,141,0.774725274725275,"Ja",5,30,29,45,13,52,30,29,45,13,0.0961538461538462,1,1,1,1
+"296",12507,8767,"Verletzungen des humanitären Völkerrechts. Zusammenarbeit mit den internationalen Gerichten. Änderung","Schlussabstimmung",4907,189,187,0.989417989417989,"Ja",50,30,29,45,13,52,30,29,45,13,0.961538461538462,1,1,1,1
+"297",12508,8768,"Meeresumweltschutz. Ratifizierung von Übereinkommen und Bundesgesetz über die Seeschifffahrt. Änderung","Schlussabstimmung",4907,187,182,0.973262032085562,"Ja",45,30,29,45,13,52,30,29,45,13,0.865384615384615,1,1,1,1
+"298",12509,8769,"Meeresumweltschutz. Ratifizierung von Übereinkommen und Bundesgesetz über die Seeschifffahrt. Änderung","Schlussabstimmung",4907,189,189,1,"Ja",52,30,29,45,13,52,30,29,45,13,1,1,1,1,1
+"299",12510,8770,"Ja zur Aufhebung der Wehrpflicht. Volksinitiative","Schlussabstimmung",4907,185,128,0.691891891891892,"Ja",52,28,28,0,1,52,30,29,45,13,1,0.933333333333333,0.96551724137931,0,0.0769230769230769
+"300",12511,8771,"Aktionsplan „Koordinierte Energieforschung Schweiz“. Massnahmen in den Jahren 2013-2016","Schlussabstimmung",4907,186,135,0.725806451612903,"Ja",0,29,28,45,13,52,30,28,45,13,0,0.966666666666667,1,1,1
+"301",12542,8802,"MWST-Sondersatz für Beherbergungsleistungen. Verlängerung","Gesamtabstimmung",4908,181,145,0.801104972375691,"Ja",48,26,27,9,14,48,27,27,45,14,1,0.962962962962963,1,0.2,1
+"302",12544,8804,"Bankengesetz. Genehmigung des 4. Kapitels der Verordnung über die Liquidität der Banken (too big to fail)","Gesamtabstimmung",4908,185,185,1,"Ja",53,27,28,42,14,53,27,28,42,14,1,1,1,1,1
+"303",12561,8821,"Schuldbetreibungs- und Konkursgesetz. Sanierungsrecht","Gesamtabstimmung",4908,173,99,0.572254335260116,"Ja",0,0,26,41,13,48,26,29,42,13,0,0,0.896551724137931,0.976190476190476,1
+"304",12565,8825,"Kompetenz zum Abschluss völkerrechtlicher Verträge. Vorläufige Anwendung und Verträge von beschränkter Tragweite","Gesamtabstimmung",4908,155,155,1,"Ja",36,23,29,37,12,42,23,29,37,12,0.857142857142857,1,1,1,1
+"305",12612,8872,"Frankreich und CERN. Genehmigung der Abkommen über Dienstleistungen","Gesamtabstimmung",4909,180,138,0.766666666666667,"Ja",51,27,30,3,12,52,27,30,42,14,0.980769230769231,1,1,0.0714285714285714,0.857142857142857
+"306",12627,8887,"Erneute Verlängerung der kantonalen Zulassung von Arzneimitteln","Gesamtabstimmung",4909,142,142,1,"Ja",40,23,20,33,12,42,23,20,33,12,0.952380952380952,1,1,1,1
+"307",12628,8888,"Kostenbeteiligung bei Mutterschaft. Gleichbehandlung","Gesamtabstimmung",4909,154,132,0.857142857142857,"Ja",4,28,29,40,13,39,28,29,40,13,0.102564102564103,1,1,1,1
+"308",12645,8905,"Volksinitiative ""Für den öffentlichen Verkehr"" und Finanzierung und Ausbau der Eisenbahninfrastruktur FABI","Gesamtabstimmung",4909,180,156,0.866666666666667,"Ja",23,26,30,42,14,47,29,30,42,14,0.48936170212766,0.896551724137931,1,1,1
+"309",12650,8910,"Volksinitiative ""Für den öffentlichen Verkehr"" und Finanzierung und Ausbau der Eisenbahninfrastruktur FABI","Gesamtabstimmung",4909,174,139,0.798850574712644,"Ja",10,23,30,42,14,48,29,30,42,14,0.208333333333333,0.793103448275862,1,1,1
+"310",12657,8917,"Volksinitiative ""Für den öffentlichen Verkehr"" und Finanzierung und Ausbau der Eisenbahninfrastruktur FABI","Gesamtabstimmung",4909,174,151,0.867816091954023,"Ja",20,25,30,41,14,48,29,30,41,14,0.416666666666667,0.862068965517241,1,1,1
+"311",12659,8919,"Volksinitiative ""Für den öffentlichen Verkehr"" und Finanzierung und Ausbau der Eisenbahninfrastruktur FABI","Gesamtabstimmung",4909,176,143,0.8125,"Ja",14,23,30,42,14,48,29,30,42,14,0.291666666666667,0.793103448275862,1,1,1
+"312",12673,8933,"Auswirkungen des Betriebs des Flughafens Zürich auf das Hoheitsgebiet der Bundesrepublik Deutschland. Vertrag","Gesamtabstimmung",4909,176,110,0.625,"Ja",28,29,28,6,0,50,29,29,42,13,0.56,1,0.96551724137931,0.142857142857143,0
+"313",12681,8941,"Staatsrechnung 2012","Gesamtabstimmung",4909,162,152,0.938271604938272,"Ja",31,23,27,42,12,41,23,27,42,12,0.75609756097561,1,1,1,1
+"314",12682,8942,"Staatsrechnung 2012","Gesamtabstimmung",4909,165,165,1,"Ja",42,24,28,42,12,42,24,28,42,12,1,1,1,1,1
+"315",12683,8943,"Staatsrechnung 2012","Gesamtabstimmung",4909,166,165,0.993975903614458,"Ja",41,25,28,42,12,42,25,28,42,12,0.976190476190476,1,1,1,1
+"316",12684,8944,"Staatsrechnung 2012","Gesamtabstimmung",4909,166,166,1,"Ja",42,24,28,42,12,42,24,28,42,12,1,1,1,1,1
+"317",12685,8945,"Staatsrechnung 2012","Gesamtabstimmung",4909,166,166,1,"Ja",41,25,28,42,12,42,25,28,42,12,0.976190476190476,1,1,1,1
+"318",12688,8948,"Voranschlag 2013. Nachtrag I","Gesamtabstimmung",4909,154,127,0.824675324675325,"Ja",5,23,28,42,11,38,23,28,42,11,0.131578947368421,1,1,1,1
+"319",12692,8952,"AVIG. Deplafonierung des Solidaritätsprozents","Gesamtabstimmung",4909,180,132,0.733333333333333,"Ja",2,24,29,45,14,49,27,29,45,14,0.0408163265306122,0.888888888888889,1,1,1
+"320",12697,8957,"Förderung von Forschung und Innovation in den Jahren 2014-2020. Finanzierung","Gesamtabstimmung",4909,166,146,0.879518072289157,"Ja",23,26,26,44,10,48,26,26,45,12,0.479166666666667,1,1,0.977777777777778,0.833333333333333
+"321",12698,8958,"Förderung von Forschung und Innovation in den Jahren 2014-2020. Finanzierung","Gesamtabstimmung",4909,173,151,0.872832369942196,"Ja",26,26,26,45,11,49,26,26,45,11,0.530612244897959,1,1,1,1
+"322",12702,8962,"StGB und MStG. Verlängerung der Verfolgungsverjährung","Gesamtabstimmung",4909,180,102,0.566666666666667,"Ja",1,0,26,45,13,51,29,28,45,13,0.0196078431372549,0,0.928571428571429,1,1
+"323",12717,8977,"Pädophile sollen nicht mehr mit Kindern arbeiten dürfen. Volksinitiative. Änderung des StGB, MStGB und JStG","Gesamtabstimmung",4909,176,176,1,"Ja",51,29,27,40,14,51,29,27,40,14,1,1,1,1,1
+"324",12738,8998,"Bundesgesetz über die Lärmsanierung der Eisenbahnen. Revision","Gesamtabstimmung",4909,186,186,1,"Ja",51,29,28,44,14,51,29,28,44,14,1,1,1,1,1
+"325",12740,9000,"Bundesgesetz über die Lärmsanierung der Eisenbahnen. Revision","Gesamtabstimmung",4909,185,185,1,"Ja",50,29,28,44,14,50,29,28,44,14,1,1,1,1,1
+"326",12770,9030,"IWF. Kreditvereinbarungen. Verlängerung der Teilnahme der Schweiz","Gesamtabstimmung",4909,165,121,0.733333333333333,"Ja",0,27,28,37,11,44,27,28,38,13,0,1,1,0.973684210526316,0.846153846153846
+"327",12828,9088,"Volksinitiative ""Für den öffentlichen Verkehr"" und Finanzierung und Ausbau der Eisenbahninfrastruktur FABI","Schlussabstimmung",4909,149,116,0.778523489932886,"Ja",11,21,21,41,8,45,25,21,41,8,0.244444444444444,0.84,1,1,1
+"328",12831,9091,"Menschen mit Behinderungen. Übereinkommen","Gesamtabstimmung",4909,187,119,0.636363636363636,"Ja",1,18,19,45,14,53,28,29,45,14,0.0188679245283019,0.642857142857143,0.655172413793103,1,1
+"329",12834,9094,"Markenschutzgesetz. Änderung sowie Swissness-Vorlage","Schlussabstimmung",4909,182,135,0.741758241758242,"Ja",27,21,23,43,14,54,28,29,45,14,0.5,0.75,0.793103448275862,0.955555555555556,1
+"330",12835,9095,"Markenschutzgesetz. Änderung sowie Swissness-Vorlage","Schlussabstimmung",4909,192,191,0.994791666666667,"Ja",53,28,29,45,14,54,28,29,45,14,0.981481481481482,1,1,1,1
+"331",12836,9096,"Schuldbetreibungs- und Konkursgesetz. Sanierungsrecht","Schlussabstimmung",4909,188,104,0.553191489361702,"Ja",0,0,24,45,13,53,27,28,45,13,0,0,0.857142857142857,1,1
+"332",12837,9097,"Verbesserungen der Organisation und der Verfahren des Parlamentes","Schlussabstimmung",4909,185,121,0.654054054054054,"Ja",11,12,29,45,14,54,27,29,45,14,0.203703703703704,0.444444444444444,1,1,1
+"333",12838,9098,"Verbesserungen der Organisation und der Verfahren des Parlamentes","Schlussabstimmung",4909,191,106,0.554973821989529,"Ja",9,0,28,45,14,54,27,29,45,14,0.166666666666667,0,0.96551724137931,1,1
+"334",12839,9099,"Zivilgesetzbuch. Elterliche Sorge","Schlussabstimmung",4909,173,160,0.92485549132948,"Ja",45,27,26,28,12,54,27,29,45,14,0.833333333333333,1,0.896551724137931,0.622222222222222,0.857142857142857
+"335",12840,9100,"Kostenbeteiligung bei Mutterschaft. Gleichbehandlung","Schlussabstimmung",4909,183,141,0.770491803278688,"Ja",5,26,29,45,14,54,27,29,45,14,0.0925925925925926,0.962962962962963,1,1,1
+"336",12841,9101,"Volksinitiative ""Für den öffentlichen Verkehr"" und Finanzierung und Ausbau der Eisenbahninfrastruktur FABI","Schlussabstimmung",4909,188,182,0.968085106382979,"Ja",45,27,29,45,14,54,27,29,45,14,0.833333333333333,1,1,1,1
+"337",12842,9102,"Volksinitiative ""Für den öffentlichen Verkehr"" und Finanzierung und Ausbau der Eisenbahninfrastruktur FABI","Schlussabstimmung",4909,184,144,0.782608695652174,"Ja",12,22,29,45,14,54,27,29,45,14,0.222222222222222,0.814814814814815,1,1,1
+"338",12843,9103,"Volksinitiative ""Für den öffentlichen Verkehr"" und Finanzierung und Ausbau der Eisenbahninfrastruktur FABI","Schlussabstimmung",4909,186,152,0.817204301075269,"Ja",19,23,29,45,14,54,27,29,45,14,0.351851851851852,0.851851851851852,1,1,1
+"339",12844,9104,"Doppelbesteuerung. Abkommen mit Irland","Schlussabstimmung",4909,157,148,0.942675159235669,"Ja",12,27,29,45,14,54,27,29,45,14,0.222222222222222,1,1,1,1
+"340",12845,9105,"Neue Arbeitsplätze dank erneuerbaren Energien (Cleantech Initiative). Volksinitiative","Schlussabstimmung",4909,191,118,0.617801047120419,"Ja",54,27,27,0,0,54,27,29,45,14,1,1,0.931034482758621,0,0
+"341",12846,9106,"Geldwäschereigesetz. Änderung","Schlussabstimmung",4909,189,135,0.714285714285714,"Ja",0,25,29,45,14,54,27,29,45,14,0,0.925925925925926,1,1,1
+"342",12847,9107,"Familieninitiative: Steuerabzüge auch für Eltern, die ihre Kinder selber betreuen. Volksinitiative","Schlussabstimmung",4909,182,110,0.604395604395604,"Ja",1,22,8,45,14,53,26,29,45,14,0.0188679245283019,0.846153846153846,0.275862068965517,1,1
+"343",12848,9108,"Frankreich und CERN. Genehmigung der Abkommen über Dienstleistungen","Schlussabstimmung",4909,184,138,0.75,"Ja",53,26,29,0,9,53,26,29,45,14,1,1,1,0,0.642857142857143
+"344",12849,9109,"Doppelbesteuerung. Abkommen mit Portugal","Schlussabstimmung",4909,152,146,0.960526315789474,"Ja",10,26,29,46,14,52,26,29,46,14,0.192307692307692,1,1,1,1
+"345",12850,9110,"StGB und MStG. Verlängerung der Verfolgungsverjährung","Schlussabstimmung",4909,188,111,0.590425531914894,"Ja",2,0,28,45,14,53,26,29,45,14,0.0377358490566038,0,0.96551724137931,1,1
+"346",12851,9111,"Internationale Organisation für Migration. Änderung der Satzung","Schlussabstimmung",4909,190,135,0.710526315789474,"Ja",0,25,29,46,14,54,26,29,46,14,0,0.961538461538462,1,1,1
+"347",12852,9112,"Doppelbesteuerung. Abkommen mit Bulgarien","Schlussabstimmung",4909,151,143,0.947019867549669,"Ja",7,26,29,46,14,54,26,29,46,14,0.12962962962963,1,1,1,1
+"348",12853,9113,"Doppelbesteuerung. Abkommen mit Slowenien","Schlussabstimmung",4909,140,132,0.942857142857143,"Ja",6,26,29,46,4,54,26,29,46,14,0.111111111111111,1,1,1,0.285714285714286
+"349",12854,9114,"Doppelbesteuerung. Abkommen mit Tschechien","Schlussabstimmung",4909,142,134,0.943661971830986,"Ja",8,26,29,46,4,54,26,29,46,14,0.148148148148148,1,1,1,0.285714285714286
+"350",12855,9115,"Doppelbesteuerung. Abkommen mit Turkmenistan","Schlussabstimmung",4909,151,140,0.927152317880795,"Ja",9,26,25,46,13,53,26,28,46,14,0.169811320754717,1,0.892857142857143,1,0.928571428571429
+"351",12856,9116,"Doppelbesteuerung. Abkommen mit Peru","Schlussabstimmung",4909,152,143,0.940789473684211,"Ja",8,26,29,46,13,54,26,29,46,14,0.148148148148148,1,1,1,0.928571428571429
+"352",12857,9117,"KVG. Teilrevision. Vorübergehende Wiedereinführung der bedarfsabhängigen Zulassung","Schlussabstimmung",4909,184,107,0.581521739130435,"Ja",2,1,28,46,10,53,26,28,46,14,0.0377358490566038,0.0384615384615385,1,1,0.714285714285714
+"353",12858,9118,"Auswirkungen des Betriebs des Flughafens Zürich auf das Hoheitsgebiet der Bundesrepublik Deutschland. Vertrag","Schlussabstimmung",4909,182,106,0.582417582417582,"Ja",29,26,27,4,0,54,26,28,46,14,0.537037037037037,1,0.964285714285714,0.0869565217391304,0
+"354",12859,9119,"Freigabe der Investitionen in erneuerbare Energien ohne Bestrafung der Grossverbraucher","Schlussabstimmung",4909,189,133,0.703703703703704,"Ja",4,19,28,46,14,54,26,28,46,14,0.0740740740740741,0.730769230769231,1,1,1
+"355",12860,9120,"Erneute Verlängerung der kantonalen Zulassung von Arzneimitteln","Schlussabstimmung",4909,188,188,1,"Ja",54,26,27,46,13,54,26,27,46,13,1,1,1,1,1
+"356",12861,9121,"MWST-Sondersatz für Beherbergungsleistungen. Verlängerung","Schlussabstimmung",4909,181,129,0.712707182320442,"Ja",54,26,28,3,8,54,26,28,46,14,1,1,1,0.0652173913043478,0.571428571428571
+"357",12862,9122,"AVIG. Deplafonierung des Solidaritätsprozents","Schlussabstimmung",4909,186,132,0.709677419354839,"Ja",2,22,27,46,13,54,26,27,46,13,0.037037037037037,0.846153846153846,1,1,1
+"358",12888,9148,"Genehmigung und Umsetzung des Foreign Account Tax Compliance Act (FATCA). Abkommen mit den Vereinigten Staaten","Gesamtabstimmung",4910,163,112,0.687116564417178,"Ja",0,28,27,36,1,49,30,30,41,13,0,0.933333333333333,0.9,0.878048780487805,0.0769230769230769
+"359",12893,9153,"Genehmigung und Umsetzung des Foreign Account Tax Compliance Act (FATCA). Abkommen mit den Vereinigten Staaten","Gesamtabstimmung",4910,163,113,0.693251533742331,"Ja",0,28,28,37,1,47,30,30,43,13,0,0.933333333333333,0.933333333333333,0.86046511627907,0.0769230769230769
+"360",12924,9184,"Schutz von Kindern vor sexueller Ausbeutung und sexuellem Missbrauch. Genehmigung und Umsetzung","Gesamtabstimmung",4910,188,188,1,"Ja",55,29,28,44,13,55,29,28,44,13,1,1,1,1,1
+"361",12927,9187,"Überstellung verurteilter Personen. Vertrag zwischen der Schweiz und Kosovo","Gesamtabstimmung",4910,141,141,1,"Ja",53,29,27,6,8,53,29,27,41,13,1,1,1,0.146341463414634,0.615384615384615
+"362",12939,9199,"Im Ausland erbrachte private Sicherheitsdienstleistungen. Bundesgesetz","Gesamtabstimmung",4910,126,124,0.984126984126984,"Ja",53,26,27,0,1,53,26,27,41,11,1,1,1,0,0.0909090909090909
+"363",12943,9203,"Bevölkerungs- und Zivilschutzgesetz. Änderung","Gesamtabstimmung",4910,142,142,1,"Ja",42,17,23,34,10,42,17,23,35,10,1,1,1,0.971428571428571,1
+"364",12949,9209,"Beschaffung des Kampfflugzeuges Gripen (Rüstungsprogramm 2012 und Gripen-Fondsgesetz)","Gesamtabstimmung",4910,181,113,0.624309392265193,"Ja",53,26,24,0,0,53,28,30,43,11,1,0.928571428571429,0.8,0,0
+"365",12953,9213,"Beschaffung des Kampfflugzeuges Gripen (Rüstungsprogramm 2012 und Gripen-Fondsgesetz)","Gesamtabstimmung",4910,185,118,0.637837837837838,"Ja",55,28,25,0,0,55,28,29,43,11,1,1,0.862068965517241,0,0
+"366",13003,9263,"Soziale Sicherheit. Abkommen mit den USA","Gesamtabstimmung",4910,174,168,0.96551724137931,"Ja",44,25,26,41,14,50,25,26,41,14,0.88,1,1,1,1
+"367",13064,9324,"Agrotreibstoffe. Indirekte Auswirkungen berücksichtigen","Gesamtabstimmung",4910,182,111,0.60989010989011,"Ja",0,5,28,43,14,53,29,28,43,14,0,0.172413793103448,1,1,1
+"368",13098,9358,"Karenzfrist bei Mandaten und Funktionen für ehemalige Bundesräte","Gesamtabstimmung",4910,185,99,0.535135135135135,"Ja",53,0,3,37,5,53,30,29,44,12,1,0,0.103448275862069,0.840909090909091,0.416666666666667
+"369",13128,9388,"Alkoholgesetz. Totalrevision","Gesamtabstimmung",4910,177,97,0.548022598870056,"Ja",38,23,25,0,10,50,26,28,46,14,0.76,0.884615384615385,0.892857142857143,0,0.714285714285714
+"370",13143,9403,"Ja zur Hausarztmedizin. Volksinitiative","Schlussabstimmung",4910,189,140,0.740740740740741,"Ja",3,29,31,42,14,52,29,31,42,14,0.0576923076923077,1,1,1,1
+"371",13152,9412,"Alkoholgesetz. Totalrevision","Gesamtabstimmung",4910,180,121,0.672222222222222,"Ja",45,29,28,0,0,49,29,30,42,12,0.918367346938776,1,0.933333333333333,0,0
+"372",13193,9453,"StGB und MStG. Änderung des Sanktionenrechts","Gesamtabstimmung",4910,131,77,0.587786259541985,"Ja",2,29,26,0,0,50,29,26,44,13,0.04,1,1,0,0
+"373",13206,9466,"Immobilienbotschaft EFD 2013","Gesamtabstimmung",4910,187,187,1,"Ja",51,28,29,45,12,54,28,29,45,12,0.944444444444444,1,1,1,1
+"374",13215,9475,"Bildungsprogramme der EU. Beteiligung der Schweiz 2014-2020","Gesamtabstimmung",4910,186,146,0.78494623655914,"Ja",11,27,29,44,13,52,28,29,44,13,0.211538461538462,0.964285714285714,1,1,1
+"375",13217,9477,"Zusammenarbeit bei der Anwendung von Wettbewerbsrechten. Abkommen mit der EU","Gesamtabstimmung",4910,172,128,0.744186046511628,"Ja",0,28,25,43,11,49,28,25,43,11,0,1,1,1,1
+"376",13230,9490,"Immobilienbotschaft VBS 2013","Gesamtabstimmung",4910,155,133,0.858064516129032,"Ja",50,27,31,4,1,50,27,31,40,12,1,1,1,0.1,0.0833333333333333
+"377",13234,9494,"Rüstungsprogramm 2013","Gesamtabstimmung",4910,169,122,0.72189349112426,"Ja",50,27,24,2,0,50,27,24,40,12,1,1,1,0.05,0
+"378",13319,9579,"Aus- und Weiterbildungskosten. Steuerliche Behandlung. Bundesgesetz","Schlussabstimmung",4910,171,161,0.941520467836257,"Ja",54,30,31,13,12,54,30,31,46,12,1,1,1,0.282608695652174,1
+"379",13320,9580,"Ja zur Hausarztmedizin. Volksinitiative","Schlussabstimmung",4910,195,195,1,"Ja",54,30,31,46,12,54,30,31,46,12,1,1,1,1,1
+"380",13321,9581,"Aarhus-Konvention. Genehmigung","Schlussabstimmung",4910,191,99,0.518324607329843,"Ja",0,3,20,46,12,54,30,31,46,12,0,0.1,0.645161290322581,1,1
+"381",13322,9582,"Abtreibungsfinanzierung ist Privatsache - Entlastung der Krankenversicherung durch Streichung der Kosten des Schwangerschaftsabbruchs aus der obligatorischen Grundversicherung. Volksinitiative","Schlussabstimmung",4910,188,155,0.824468085106383,"Ja",23,30,22,46,12,54,30,31,46,12,0.425925925925926,1,0.709677419354839,1,1
+"382",13323,9583,"Schutz von Kindern vor sexueller Ausbeutung und sexuellem Missbrauch. Genehmigung und Umsetzung","Schlussabstimmung",4910,192,192,1,"Ja",52,29,31,46,12,53,29,31,46,12,0.981132075471698,1,1,1,1
+"383",13324,9584,"Pädophile sollen nicht mehr mit Kindern arbeiten dürfen. Volksinitiative. Änderung des StGB, MStGB und JStG","Schlussabstimmung",4910,188,91,0.484042553191489,"Nein",0,12,10,45,12,54,30,31,46,12,0,0.4,0.32258064516129,0.978260869565217,1
+"384",13325,9585,"Beschaffung des Kampfflugzeuges Gripen (Rüstungsprogramm 2012 und Gripen-Fondsgesetz)","Schlussabstimmung",4910,190,119,0.626315789473684,"Ja",53,30,25,1,0,53,30,31,46,12,1,1,0.806451612903226,0.0217391304347826,0
+"385",13327,9587,"Gegen Masseneinwanderung. Volksinitiative","Schlussabstimmung",4910,194,140,0.721649484536082,"Ja",0,30,31,46,12,54,30,31,46,12,0,1,1,1,1
+"386",13328,9588,"Im Ausland erbrachte private Sicherheitsdienstleistungen. Bundesgesetz","Schlussabstimmung",4910,194,194,1,"Ja",53,30,31,46,12,54,30,31,46,12,0.981481481481482,1,1,1,1
+"387",13329,9589,"Förderung von Forschung und Innovation in den Jahren 2014-2020. Finanzierung","Schlussabstimmung",4910,193,153,0.792746113989637,"Ja",12,30,31,46,12,54,30,31,46,12,0.222222222222222,1,1,1,1
+"388",13330,9590,"Bevölkerungs- und Zivilschutzgesetz. Änderung","Schlussabstimmung",4910,195,195,1,"Ja",54,30,31,46,12,54,30,31,46,12,1,1,1,1,1
+"389",13331,9591,"Genehmigung und Umsetzung des Foreign Account Tax Compliance Act (FATCA). Abkommen mit den Vereinigten Staaten","Schlussabstimmung",4910,169,114,0.674556213017751,"Ja",0,30,28,34,1,54,30,31,46,12,0,1,0.903225806451613,0.739130434782609,0.0833333333333333
+"390",13332,9592,"Genehmigung und Umsetzung des Foreign Account Tax Compliance Act (FATCA). Abkommen mit den Vereinigten Staaten","Schlussabstimmung",4910,168,114,0.678571428571429,"Ja",0,30,27,35,1,53,30,30,46,11,0,1,0.9,0.760869565217391,0.0909090909090909
+"391",13333,9593,"Bundesgesetz über die Lärmsanierung der Eisenbahnen. Revision","Schlussabstimmung",4910,188,188,1,"Ja",47,30,31,46,12,54,30,31,46,12,0.87037037037037,1,1,1,1
+"392",13384,9644,"Anzahl Richterstellen am Bundesstrafgericht","Gesamtabstimmung",4911,169,169,1,"Ja",46,27,23,42,13,46,27,23,42,13,1,1,1,1,1
+"393",13385,9645,"Anzahl Richterstellen am Bundesstrafgericht","Gesamtabstimmung",4911,170,169,0.994117647058824,"Ja",44,27,24,43,13,45,27,24,43,13,0.977777777777778,1,1,1,1
+"394",13386,9646,"Aufhebung der Bestimmungen zum Vorauszahlungsvertrag","Gesamtabstimmung",4911,177,176,0.994350282485876,"Ja",48,26,25,43,15,48,26,25,43,15,1,1,1,1,1
+"395",13389,9649,"Einsatz von Angehörigen der Armee zum Schutz der Schweizer Vertretung in Tripolis. Verlängerung","Gesamtabstimmung",4911,158,145,0.917721518987342,"Ja",35,25,23,38,7,46,25,23,38,12,0.760869565217391,1,1,1,0.583333333333333
+"396",13390,9650,"OSZE-Ministerratstreffen 2014 in Basel. Sicherheit","Gesamtabstimmung",4911,161,151,0.937888198757764,"Ja",33,25,24,39,12,48,25,24,39,12,0.6875,1,1,1,1
+"397",13421,9681,"Voranschlag 2014","Gesamtabstimmung",4911,161,91,0.565217391304348,"Ja",20,25,26,0,0,53,25,26,45,14,0.377358490566038,1,1,0,0
+"398",13423,9683,"Voranschlag 2014","Gesamtabstimmung",4911,172,162,0.941860465116279,"Ja",32,23,27,45,14,53,25,27,45,14,0.60377358490566,0.92,1,1,1
+"399",13424,9684,"Voranschlag 2014","Gesamtabstimmung",4911,179,172,0.960893854748603,"Ja",40,25,27,45,14,53,25,27,45,14,0.754716981132076,1,1,1,1
+"400",13425,9685,"Voranschlag 2014","Gesamtabstimmung",4911,176,176,1,"Ja",44,25,27,45,14,54,25,27,45,14,0.814814814814815,1,1,1,1
+"401",13426,9686,"Voranschlag 2014","Gesamtabstimmung",4911,180,179,0.994444444444444,"Ja",45,26,28,45,14,54,26,28,45,14,0.833333333333333,1,1,1,1
+"402",13429,9689,"Voranschlag 2013. Nachtrag II","Gesamtabstimmung",4911,183,149,0.814207650273224,"Ja",15,27,28,45,14,54,27,28,45,14,0.277777777777778,1,1,1,1
+"403",13430,9690,"Voranschlag 2013. Nachtrag II","Gesamtabstimmung",4911,187,143,0.764705882352941,"Ja",10,26,28,45,14,54,26,28,45,14,0.185185185185185,1,1,1,1
+"404",13442,9702,"Rehabilitierung administrativ versorgter Menschen","Gesamtabstimmung",4911,187,142,0.759358288770054,"Ja",5,27,30,45,14,54,27,30,45,14,0.0925925925925926,1,1,1,1
+"405",13445,9705,"Risikoausgleich","Gesamtabstimmung",4911,172,137,0.796511627906977,"Ja",2,30,28,45,13,54,30,28,45,13,0.037037037037037,1,1,1,1
+"406",13457,9717,"Bau und Finanzierung eines 4-Meter-Korridors auf den Zulaufstrecken zur NEAT am Gotthard","Gesamtabstimmung",4911,178,178,1,"Ja",46,28,27,44,15,48,28,27,44,15,0.958333333333333,1,1,1,1
+"407",13463,9723,"Bau und Finanzierung eines 4-Meter-Korridors auf den Zulaufstrecken zur NEAT am Gotthard","Gesamtabstimmung",4911,169,116,0.686390532544379,"Ja",1,12,26,45,14,48,29,27,45,14,0.0208333333333333,0.413793103448276,0.962962962962963,1,1
+"408",13479,9739,"Freihandelsabkommen zwischen der Schweiz und China","Gesamtabstimmung",4911,166,120,0.72289156626506,"Ja",48,29,19,2,4,51,29,25,44,14,0.941176470588235,1,0.76,0.0454545454545455,0.285714285714286
+"409",13522,9782,"Bundesgesetz über die Weiterbildung","Gesamtabstimmung",4911,165,108,0.654545454545455,"Ja",0,19,24,42,4,53,26,24,42,15,0,0.730769230769231,1,1,0.266666666666667
+"410",13555,9815,"Steueramtshilfegesetz. Änderung","Gesamtabstimmung",4911,185,130,0.702702702702703,"Ja",0,24,28,45,14,53,28,30,45,14,0,0.857142857142857,0.933333333333333,1,1
+"411",13556,9816,"Aufhebung der Bestimmungen zum Vorauszahlungsvertrag","Schlussabstimmung",4911,194,194,1,"Ja",56,30,30,42,15,56,30,30,42,15,1,1,1,1,1
+"412",13557,9817,"Pädophile sollen nicht mehr mit Kindern arbeiten dürfen. Volksinitiative. Änderung des StGB, MStGB und JStG","Schlussabstimmung",4911,5,4,0.8,"Ja",1,2,1,0,0,5,3,1,0,0,0.2,0.666666666666667,1,NA,NA
+"413",13558,9818,"Überstellung verurteilter Personen. Vertrag zwischen der Schweiz und Kosovo","Schlussabstimmung",4911,153,153,1,"Ja",56,30,30,1,15,56,30,30,42,15,1,1,1,0.0238095238095238,1
+"414",13559,9819,"Menschen mit Behinderungen. Übereinkommen","Schlussabstimmung",4911,194,139,0.716494845360825,"Ja",2,28,30,43,15,56,30,30,43,15,0.0357142857142857,0.933333333333333,1,1,1
+"415",13560,9820,"Anzahl Richterstellen am Bundesstrafgericht","Schlussabstimmung",4911,195,195,1,"Ja",56,30,30,43,15,56,30,30,43,15,1,1,1,1,1
+"416",13561,9821,"Anzahl Richterstellen am Bundesstrafgericht","Schlussabstimmung",4911,195,195,1,"Ja",56,30,30,43,15,56,30,30,43,15,1,1,1,1,1
+"417",13562,9822,"Für den Schutz fairer Löhne (Mindestlohn-Initiative). Volksinitiative","Schlussabstimmung",4911,193,137,0.709844559585492,"Ja",56,30,30,0,0,56,30,30,43,15,1,1,1,0,0
+"418",13563,9823,"Bau und Finanzierung eines 4-Meter-Korridors auf den Zulaufstrecken zur NEAT am Gotthard","Schlussabstimmung",4911,179,143,0.798882681564246,"Ja",9,25,30,43,15,56,30,30,43,15,0.160714285714286,0.833333333333333,1,1,1
+"419",13572,9832,"Pädophile sollen nicht mehr mit Kindern arbeiten dürfen. Volksinitiative. Änderung des StGB, MStGB und JStG","Schlussabstimmung",4911,115,115,1,"Ja",0,26,20,42,15,56,30,30,42,15,0,0.866666666666667,0.666666666666667,1,1
+"420",13594,9854,"Gewässerschutzgesetz. Änderung","Gesamtabstimmung",4912,179,130,0.726256983240223,"Ja",0,25,28,42,15,49,28,29,42,15,0,0.892857142857143,0.96551724137931,1,1
+"421",13596,9856,"Zusatzprotokoll von Nagoya/Kuala Lumpur. Biologische Sicherheit. Haftung und Wiedergutmachung","Gesamtabstimmung",4912,180,112,0.622222222222222,"Ja",0,7,29,41,15,48,28,29,41,15,0,0.25,1,1,1
+"422",13598,9858,"Bundesgesetz über den Natur- und Heimatschutz. Nagoya-Protokoll","Gesamtabstimmung",4912,179,130,0.726256983240223,"Ja",0,27,28,44,15,50,28,29,44,15,0,0.964285714285714,0.96551724137931,1,1
+"423",13605,9865,"Internationale Zivilluftfahrt. Bekämpfung widerrechtlicher Handlungen","Gesamtabstimmung",4912,167,167,1,"Ja",47,26,29,37,14,49,26,29,37,15,0.959183673469388,1,1,1,0.933333333333333
+"424",13612,9872,"Aussenwirtschaftspolitik 2013. Bericht","Gesamtabstimmung",4912,173,173,1,"Ja",46,28,25,43,12,50,28,25,43,12,0.92,1,1,1,1
+"425",13613,9873,"Aussenwirtschaftspolitik 2013. Bericht","Gesamtabstimmung",4912,173,173,1,"Ja",45,29,25,43,12,50,29,25,43,12,0.9,1,1,1,1
+"426",13614,9874,"Aussenwirtschaftspolitik 2013. Bericht","Gesamtabstimmung",4912,177,177,1,"Ja",47,29,25,44,12,52,29,25,44,12,0.903846153846154,1,1,1,1
+"427",13616,9876,"Freihandelsabkommen zwischen den EFTA-Staaten und den zentralamerikanischen Staaten (Costa Rica und Panama). Genehmigung","Gesamtabstimmung",4912,161,149,0.925465838509317,"Ja",52,28,27,9,13,52,28,27,40,13,1,1,1,0.225,1
+"428",13617,9877,"ETH-Bereich. Leistungsauftrag 2008-2011/12","Gesamtabstimmung",4912,180,180,1,"Ja",50,30,26,41,15,50,30,26,41,15,1,1,1,1,1
+"429",13623,9883,"KVG. Änderung","Gesamtabstimmung",4912,176,173,0.982954545454545,"Ja",47,29,27,40,13,50,29,27,40,13,0.94,1,1,1,1
+"430",13645,9905,"Distanz- und Übernachtungsentschädigung","Gesamtabstimmung",4912,148,107,0.722972972972973,"Ja",7,21,21,35,12,46,24,22,35,12,0.152173913043478,0.875,0.954545454545455,1,1
+"431",13653,9913,"Vermittlung schweizerischer Bildung im Ausland. Bundesgesetz","Gesamtabstimmung",4912,184,155,0.842391304347826,"Ja",22,30,28,43,13,52,30,28,43,13,0.423076923076923,1,1,1,1
+"432",13657,9917,"Öffentliches Beschaffungswesen. Ausbildung von Lehrlingen als Kriterium","Gesamtabstimmung",4912,179,166,0.927374301675978,"Ja",54,20,28,43,13,55,28,29,43,13,0.981818181818182,0.714285714285714,0.96551724137931,1,1
+"433",13665,9925,"Bundesgesetz über Bauprodukte. Totalrevision","Gesamtabstimmung",4912,171,129,0.754385964912281,"Ja",6,23,29,40,13,49,23,29,40,13,0.122448979591837,1,1,1,1
+"434",13687,9947,"Steuererlassgesetz","Gesamtabstimmung",4912,178,178,1,"Ja",53,30,27,36,14,53,30,27,38,14,1,1,1,0.947368421052632,1
+"435",13689,9949,"Grenzüberschreitende polizeiliche Zusammenarbeit. Abkommen mit Österreich und dem Fürstentum Liechtenstein","Gesamtabstimmung",4912,177,177,1,"Ja",49,28,26,41,14,49,28,26,41,14,1,1,1,1,1
+"436",13695,9955,"Bündelung der Aufsichtskompetenz über Revisionsunternehmen und Prüfgesellschaften. Bundesgesetz","Gesamtabstimmung",4912,180,129,0.716666666666667,"Ja",2,28,28,39,13,53,29,28,39,13,0.0377358490566038,0.96551724137931,1,1,1
+"437",13740,10000,"Bundesgesetz über Radio und Fernsehen. Änderung","Gesamtabstimmung",4912,182,105,0.576923076923077,"Ja",0,18,27,41,12,55,30,27,41,15,0,0.6,1,1,0.8
+"438",13749,10009,"Sicherheitsberatung in Schweizer Auslandvertretungen. Entsendung von Angehörigen des Militärpersonals","Gesamtabstimmung",4912,132,120,0.909090909090909,"Ja",29,21,21,29,5,37,21,21,34,12,0.783783783783784,1,1,0.852941176470588,0.416666666666667
+"439",13752,10012,"Bundesgesetz über die Zuständigkeiten im Bereich des zivilen Nachrichtendienstes. Änderung","Gesamtabstimmung",4912,168,167,0.994047619047619,"Ja",52,28,29,38,2,52,28,29,38,13,1,1,1,1,0.153846153846154
+"440",13759,10019,"Schweizer Beteiligung an der KFOR. Verlängerung des Swisscoy-Einsatzes","Gesamtabstimmung",4912,168,116,0.69047619047619,"Ja",0,28,29,38,2,51,29,29,39,14,0,0.96551724137931,1,0.974358974358974,0.142857142857143
+"441",13763,10023,"Schutz der Kulturgüter bei bewaffneten Konflikten. Bundesgesetz. Totalrevision","Gesamtabstimmung",4912,168,168,1,"Ja",49,27,28,36,12,49,27,28,36,12,1,1,1,1,1
+"442",13779,10039,"Zahlungsrahmen für die Förderung des alpenquerenden Schienengüterverkehrs. Änderung","Gesamtabstimmung",4912,188,134,0.712765957446808,"Ja",4,25,28,43,14,55,28,28,43,14,0.0727272727272727,0.892857142857143,1,1,1
+"443",13825,10085,"Bundesgesetz über die politischen Rechte. Änderung","Gesamtabstimmung",4912,175,175,1,"Ja",48,24,30,42,13,48,27,30,42,13,1,0.888888888888889,1,1,1
+"444",13833,10093,"Stipendieninitiative und Totalrevision des Ausbildungsbeitragsgesetzes","Gesamtabstimmung",4912,175,129,0.737142857142857,"Ja",2,27,27,40,13,48,27,27,41,13,0.0416666666666667,1,1,0.975609756097561,1
+"445",13867,10127,"StGB und MStG. Ausschaffung krimineller Ausländer","Gesamtabstimmung",4912,171,106,0.619883040935672,"Ja",53,23,22,0,0,53,27,29,41,13,1,0.851851851851852,0.758620689655172,0,0
+"446",13873,10133,"Agrotreibstoffe. Indirekte Auswirkungen berücksichtigen","Schlussabstimmung",4912,194,138,0.711340206185567,"Ja",1,29,30,45,15,56,29,30,45,15,0.0178571428571429,1,1,1,1
+"447",13874,10134,"Rehabilitierung administrativ versorgter Menschen","Schlussabstimmung",4912,176,142,0.806818181818182,"Ja",3,29,30,45,15,56,29,30,45,15,0.0535714285714286,1,1,1,1
+"448",13875,10135,"Risikoausgleich","Schlussabstimmung",4912,191,139,0.727748691099476,"Ja",2,27,30,45,15,56,29,30,45,15,0.0357142857142857,0.931034482758621,1,1,1
+"449",13876,10136,"Schluss mit der MWST-Diskriminierung des Gastgewerbes! Volksinitiative","Schlussabstimmung",4912,181,99,0.546961325966851,"Ja",0,18,12,45,12,56,29,30,45,15,0,0.620689655172414,0.4,1,0.8
+"450",13877,10137,"Grenzüberschreitende polizeiliche Zusammenarbeit. Abkommen mit Österreich und dem Fürstentum Liechtenstein","Schlussabstimmung",4912,195,194,0.994871794871795,"Ja",56,29,30,44,15,56,29,30,45,15,1,1,1,0.977777777777778,1
+"451",13878,10138,"Bundesgesetz über den Natur- und Heimatschutz. Nagoya-Protokoll","Schlussabstimmung",4912,187,115,0.614973262032086,"Ja",0,8,28,45,15,56,29,30,45,15,0,0.275862068965517,0.933333333333333,1,1
+"452",13879,10139,"Vermittlung schweizerischer Bildung im Ausland. Bundesgesetz","Schlussabstimmung",4912,190,146,0.768421052631579,"Ja",7,29,30,45,15,56,29,30,45,15,0.125,1,1,1,1
+"453",13880,10140,"Gewässerschutzgesetz. Änderung","Schlussabstimmung",4912,192,137,0.713541666666667,"Ja",3,26,28,45,15,56,29,30,45,15,0.0535714285714286,0.896551724137931,0.933333333333333,1,1
+"454",13881,10141,"Bundesgesetz über die Zuständigkeiten im Bereich des zivilen Nachrichtendienstes. Änderung","Schlussabstimmung",4912,194,194,1,"Ja",55,29,30,45,15,56,29,30,45,15,0.982142857142857,1,1,1,1
+"455",13882,10142,"Bundesgesetz über Bauprodukte. Totalrevision","Schlussabstimmung",4912,187,137,0.732620320855615,"Ja",5,24,28,45,15,56,29,30,45,15,0.0892857142857143,0.827586206896552,0.933333333333333,1,1
+"456",13883,10143,"Für eine öffentliche Krankenkasse. Volksinitiative","Schlussabstimmung",4912,194,132,0.680412371134021,"Ja",53,30,29,0,1,56,30,30,45,15,0.946428571428571,1,0.966666666666667,0,0.0666666666666667
+"457",13884,10144,"Steueramtshilfegesetz. Änderung","Schlussabstimmung",4912,193,137,0.709844559585492,"Ja",0,28,29,45,15,56,30,30,45,15,0,0.933333333333333,0.966666666666667,1,1
+"458",13885,10145,"Distanz- und Übernachtungsentschädigung","Schlussabstimmung",4912,191,131,0.68586387434555,"Ja",2,27,28,45,15,56,30,30,45,15,0.0357142857142857,0.9,0.933333333333333,1,1
+"459",13886,10146,"Aussenwirtschaftspolitik 2013. Bericht","Schlussabstimmung",4912,189,189,1,"Ja",55,29,28,43,15,55,29,28,43,15,1,1,1,1,1
+"460",13887,10147,"KVG. Änderung","Schlussabstimmung",4912,194,193,0.994845360824742,"Ja",54,29,30,45,15,55,29,30,45,15,0.981818181818182,1,1,1,1
+"461",13911,10171,"Strassentransportunternehmens- und Verkehrsstrafrecht. Änderung","Gesamtabstimmung",4913,180,129,0.716666666666667,"Ja",2,25,27,42,15,53,28,27,42,15,0.0377358490566038,0.892857142857143,1,1,1
+"462",13914,10174,"Strassentransportunternehmens- und Verkehrsstrafrecht. Änderung","Gesamtabstimmung",4913,160,159,0.99375,"Ja",46,29,24,37,7,48,29,24,38,13,0.958333333333333,1,1,0.973684210526316,0.538461538461538
+"463",13931,10191,"Bundesgesetz über die Sammlungen des Bundesrechts und das Bundesblatt. Änderung","Gesamtabstimmung",4913,164,164,1,"Ja",48,27,25,36,13,49,27,25,36,13,0.979591836734694,1,1,1,1
+"464",13967,10227,"Heilmittelgesetz. Änderung","Gesamtabstimmung",4913,182,139,0.763736263736264,"Ja",54,26,29,0,13,54,26,29,44,14,1,1,1,0,0.928571428571429
+"465",13989,10249,"Schuldenprävention. Keine Werbung für Kleinkredite","Gesamtabstimmung",4913,181,123,0.679558011049724,"Ja",16,6,26,41,14,56,25,27,42,14,0.285714285714286,0.24,0.962962962962963,0.976190476190476,1
+"466",13997,10257,"Opferhilfegesetz. Schaffung wichtiger Informationsrechte des Opfers","Gesamtabstimmung",4913,174,166,0.954022988505747,"Ja",46,23,28,40,9,52,25,28,43,15,0.884615384615385,0.92,1,0.930232558139535,0.6
+"467",14035,10295,"Vernehmlassungsgesetz. Änderung","Gesamtabstimmung",4914,175,175,1,"Ja",48,30,25,42,10,51,30,25,42,10,0.941176470588235,1,1,1,1
+"468",14050,10310,"Präimplantationsdiagnostik. Änderung der Bundesverfassung und des Fortpflanzungsmedizingesetzes","Gesamtabstimmung",4914,186,170,0.913978494623656,"Ja",47,30,17,42,14,52,30,30,45,14,0.903846153846154,1,0.566666666666667,0.933333333333333,1
+"469",14056,10316,"Präimplantationsdiagnostik. Änderung der Bundesverfassung und des Fortpflanzungsmedizingesetzes","Gesamtabstimmung",4914,176,138,0.784090909090909,"Ja",43,30,12,30,5,53,30,29,43,14,0.811320754716981,1,0.413793103448276,0.697674418604651,0.357142857142857
+"470",14061,10321,"Staatsrechnung 2013","Gesamtabstimmung",4914,181,181,1,"Ja",51,29,27,41,13,51,29,27,41,13,1,1,1,1,1
+"471",14062,10322,"Staatsrechnung 2013","Gesamtabstimmung",4914,183,182,0.994535519125683,"Ja",50,30,27,42,13,52,30,27,42,13,0.961538461538462,1,1,1,1
+"472",14063,10323,"Staatsrechnung 2013","Gesamtabstimmung",4914,183,182,0.994535519125683,"Ja",50,30,27,42,13,52,30,27,42,13,0.961538461538462,1,1,1,1
+"473",14064,10324,"Staatsrechnung 2013","Gesamtabstimmung",4914,185,185,1,"Ja",52,30,27,42,14,52,30,27,42,14,1,1,1,1,1
+"474",14065,10325,"Staatsrechnung 2013","Gesamtabstimmung",4914,186,186,1,"Ja",53,30,27,42,14,53,30,27,42,14,1,1,1,1,1
+"475",14069,10329,"Voranschlag 2014. Nachtrag I","Gesamtabstimmung",4914,179,179,1,"Ja",49,30,26,41,14,53,30,26,41,14,0.924528301886792,1,1,1,1
+"476",14071,10331,"Voranschlag 2014. Nachtrag I","Gesamtabstimmung",4914,181,180,0.994475138121547,"Ja",52,30,26,40,14,54,30,26,40,14,0.962962962962963,1,1,1,1
+"477",14073,10333,"Doppelbesteuerung. Abkommen mit Australien","Gesamtabstimmung",4914,178,177,0.99438202247191,"Ja",47,29,25,43,13,52,29,25,43,13,0.903846153846154,1,1,1,1
+"478",14074,10334,"Doppelbesteuerung. Abkommen mit China","Gesamtabstimmung",4914,180,179,0.994444444444444,"Ja",50,28,25,43,13,52,28,25,43,13,0.961538461538462,1,1,1,1
+"479",14075,10335,"Doppelbesteuerung. Abkommen mit Ungarn","Gesamtabstimmung",4914,175,174,0.994285714285714,"Ja",47,29,25,41,12,52,29,25,42,12,0.903846153846154,1,1,0.976190476190476,1
+"480",14076,10336,"Informationsaustausch in Steuersachen. Abkommen mit Jersey, Guernsey und der Insel Man","Gesamtabstimmung",4914,175,168,0.96,"Ja",38,29,25,43,13,52,29,25,43,13,0.730769230769231,1,1,1,1
+"481",14100,10360,"Für ein Auslandschweizergesetz","Gesamtabstimmung",4914,189,137,0.724867724867725,"Ja",2,26,29,44,15,55,26,29,44,15,0.0363636363636364,1,1,1,1
+"482",14117,10377,"Internationale Arbeitsorganisation. Übereinkommen Nr. 189","Gesamtabstimmung",4914,179,106,0.592178770949721,"Ja",0,5,27,41,15,53,28,30,41,15,0,0.178571428571429,0.9,1,1
+"483",14118,10378,"Vertrag über den Waffenhandel. Genehmigung","Gesamtabstimmung",4914,176,176,1,"Ja",49,26,29,41,14,49,26,29,41,15,1,1,1,1,0.933333333333333
+"484",14135,10395,"Ausländergesetz. Änderung. Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme","Gesamtabstimmung",4914,136,136,1,"Ja",49,28,25,8,11,49,28,25,40,13,1,1,1,0.2,0.846153846153846
+"485",14140,10400,"Asylgesetz. Verlängerung der dringlichen Änderungen","Gesamtabstimmung",4914,116,116,1,"Ja",49,26,26,0,0,49,26,26,39,13,1,1,1,0,0
+"486",14160,10420,"Neues Führungsmodell für die Bundesverwaltung (NFB)","Gesamtabstimmung",4914,171,125,0.730994152046784,"Ja",0,26,27,40,15,46,27,27,40,15,0,0.962962962962963,1,1,1
+"487",14168,10428,"Beseitigung von Engpässen im Nationalstrassennetz. Freigabe von Mitteln","Gesamtabstimmung",4914,159,131,0.823899371069182,"Ja",55,28,27,12,0,55,28,27,44,13,1,1,1,0.272727272727273,0
+"488",14173,10433,"Agglomerationsverkehr. Freigabe der Mittel ab 2015","Gesamtabstimmung",4914,181,167,0.922651933701657,"Ja",39,24,26,44,14,54,28,26,44,14,0.722222222222222,0.857142857142857,1,1,1
+"489",14182,10442,"Kostentragungspflicht für Ausgleichsenergie. Gewährleistung einer sicheren Stromversorgung","Gesamtabstimmung",4914,183,183,1,"Ja",50,29,28,44,14,50,29,28,44,14,1,1,1,1,1
+"490",14270,10530,"Groupe d’action financière. Umsetzung der Empfehlungen 2012","Gesamtabstimmung",4914,137,83,0.605839416058394,"Ja",0,27,27,4,6,53,28,28,42,15,0,0.964285714285714,0.964285714285714,0.0952380952380952,0.4
+"491",14293,10553,"Zivilgesetzbuch. Kindesunterhalt","Gesamtabstimmung",4914,177,124,0.700564971751412,"Ja",1,29,26,33,14,55,29,27,43,14,0.0181818181818182,1,0.962962962962963,0.767441860465116,1
+"492",14310,10570,"Bürgerrechtsgesetz. Totalrevision","Schlussabstimmung",4914,195,135,0.692307692307692,"Ja",57,30,27,0,0,57,30,29,45,15,1,1,0.931034482758621,0,0
+"493",14311,10571,"Lebensmittelgesetz. Revision","Schlussabstimmung",4914,191,140,0.732984293193717,"Ja",36,27,21,34,2,57,30,30,45,15,0.631578947368421,0.9,0.7,0.755555555555556,0.133333333333333
+"494",14312,10572,"Ausländergesetz. Änderung. Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme","Schlussabstimmung",4914,143,138,0.965034965034965,"Ja",57,30,29,1,0,57,30,30,45,15,1,1,0.966666666666667,0.0222222222222222,0
+"495",14313,10573,"Bundesgesetz über die Weiterbildung","Schlussabstimmung",4914,198,147,0.742424242424242,"Ja",6,30,30,45,15,57,30,30,45,15,0.105263157894737,1,1,1,1
+"496",14314,10574,"Zusammenarbeit bei der Anwendung von Wettbewerbsrechten. Abkommen mit der EU","Schlussabstimmung",4914,195,142,0.728205128205128,"Ja",1,30,30,45,15,57,30,30,45,15,0.0175438596491228,1,1,1,1
+"497",14315,10575,"Schluss mit den Steuerprivilegien für Millionäre (Abschaffung der Pauschalbesteuerung). Volksinitiative","Schlussabstimmung",4914,197,135,0.685279187817259,"Ja",57,30,28,0,0,57,30,30,45,15,1,1,0.933333333333333,0,0
+"498",14316,10576,"Zusatzprotokoll von Nagoya/Kuala Lumpur. Biologische Sicherheit. Haftung und Wiedergutmachung","Schlussabstimmung",4914,198,141,0.712121212121212,"Ja",0,30,30,45,15,57,30,30,45,15,0,1,1,1,1
+"499",14317,10577,"Bündelung der Aufsichtskompetenz über Revisionsunternehmen und Prüfgesellschaften. Bundesgesetz","Schlussabstimmung",4914,197,162,0.822335025380711,"Ja",21,30,30,45,15,56,30,30,45,15,0.375,1,1,1,1
+"500",14318,10578,"Internationale Arbeitsorganisation. Übereinkommen Nr. 189","Schlussabstimmung",4914,197,114,0.578680203045685,"Ja",2,2,29,45,15,57,30,30,45,15,0.0350877192982456,0.0666666666666667,0.966666666666667,1,1
+"501",14319,10579,"Internationale Zivilluftfahrt. Bekämpfung widerrechtlicher Handlungen","Schlussabstimmung",4914,198,198,1,"Ja",57,30,30,45,15,57,30,30,45,15,1,1,1,1,1
+"502",14320,10580,"Stopp der Überbevölkerung - zur Sicherung der natürlichen Lebensgrundlagen. Volksinitiative","Schlussabstimmung",4914,193,190,0.984455958549223,"Ja",49,30,30,45,15,57,30,30,45,15,0.859649122807018,1,1,1,1
+"503",14321,10581,"Steuererlassgesetz","Schlussabstimmung",4914,198,198,1,"Ja",57,30,30,45,15,57,30,30,45,15,1,1,1,1,1
+"504",14322,10582,"Schutz der Kulturgüter bei bewaffneten Konflikten. Bundesgesetz. Totalrevision","Schlussabstimmung",4914,198,198,1,"Ja",57,30,30,45,15,57,30,30,45,15,1,1,1,1,1
+"505",14323,10583,"Rettet unser Schweizer Gold (Gold-Initiative). Volksinitiative","Schlussabstimmung",4914,178,156,0.876404494382023,"Ja",15,30,30,45,15,57,30,30,45,15,0.263157894736842,1,1,1,1
+"506",14324,10584,"Doppelbesteuerung. Abkommen mit Australien","Schlussabstimmung",4914,193,192,0.994818652849741,"Ja",51,30,30,45,15,57,30,30,45,15,0.894736842105263,1,1,1,1
+"507",14325,10585,"Doppelbesteuerung. Abkommen mit China","Schlussabstimmung",4914,194,190,0.979381443298969,"Ja",49,30,30,45,15,57,30,30,45,15,0.859649122807018,1,1,1,1
+"508",14327,10587,"Doppelbesteuerung. Abkommen mit Ungarn","Schlussabstimmung",4914,188,187,0.99468085106383,"Ja",46,30,30,45,15,57,30,30,45,15,0.807017543859649,1,1,1,1
+"509",14328,10588,"Informationsaustausch in Steuersachen. Abkommen mit Jersey, Guernsey und der Insel Man","Schlussabstimmung",4914,188,183,0.973404255319149,"Ja",45,29,30,43,15,55,29,30,43,15,0.818181818181818,1,1,1,1
+"510",14354,10614,"Weiterentwicklung des Dublin/Eurodac-Besitzstands. Übernahme der revidierten Rechtsgrundlagen","Gesamtabstimmung",4915,184,132,0.717391304347826,"Ja",0,30,28,43,14,52,30,28,43,14,0,1,1,1,1
+"511",14358,10618,"Weiterentwicklung des Dublin/Eurodac-Besitzstands. Übernahme der revidierten Rechtsgrundlagen","Gesamtabstimmung",4915,170,121,0.711764705882353,"Ja",0,30,28,44,3,49,30,28,44,14,0,1,1,1,0.214285714285714
+"512",14359,10619,"Weiterentwicklung des Schengen-Besitzstands. Übernahme der Verordnung zur Einführung eines Evaluierungsmechanismus für die Überprüfung der Anwendung des Schengen-Besitzstandes","Gesamtabstimmung",4915,180,125,0.694444444444444,"Ja",0,30,29,45,2,56,30,29,45,14,0,1,1,1,0.142857142857143
+"513",14361,10621,"Weiterentwicklung des Schengen-Besitzstands. Wiedereinführung von Kontrollen an den Binnengrenzen sowie Änderungen im Asyl- und Ausländerrecht","Gesamtabstimmung",4915,179,154,0.860335195530726,"Ja",27,30,29,39,10,51,30,29,39,13,0.529411764705882,1,1,1,0.769230769230769
+"514",14362,10622,"Weiterentwicklung des Schengen-Besitzstands. Wiedereinführung von Kontrollen an den Binnengrenzen sowie Änderungen im Asyl- und Ausländerrecht","Gesamtabstimmung",4915,180,146,0.811111111111111,"Ja",19,29,29,43,8,52,29,29,43,13,0.365384615384615,1,1,1,0.615384615384615
+"515",14363,10623,"Weiterentwicklung des Schengen-Besitzstands. Wiedereinführung von Kontrollen an den Binnengrenzen sowie Änderungen im Asyl- und Ausländerrecht","Gesamtabstimmung",4915,181,180,0.994475138121547,"Ja",50,30,29,43,9,52,30,29,43,13,0.961538461538462,1,1,1,0.692307692307692
+"516",14389,10649,"Aufsicht über die soziale Krankenversicherung. Bundesgesetz","Gesamtabstimmung",4915,179,139,0.776536312849162,"Ja",3,30,26,45,15,51,30,26,45,15,0.0588235294117647,1,1,1,1
+"517",14400,10660,"Medizinalberufegesetz (MedBG). Änderung","Gesamtabstimmung",4915,190,190,1,"Ja",53,29,30,43,15,53,29,30,43,15,1,1,1,1,1
+"518",14410,10670,"Weiterführung und Weiterentwicklung der Finanzhilfen für familienergänzende Kinderbetreuung","Gesamtabstimmung",4915,183,119,0.650273224043716,"Ja",1,11,28,44,15,52,27,30,44,15,0.0192307692307692,0.407407407407407,0.933333333333333,1,1
+"519",14414,10674,"Weiterführung und Weiterentwicklung der Finanzhilfen für familienergänzende Kinderbetreuung","Gesamtabstimmung",4915,189,123,0.650793650793651,"Ja",2,13,28,45,14,52,29,29,45,14,0.0384615384615385,0.448275862068966,0.96551724137931,1,1
+"520",14418,10678,"Stärkung der Wohlfahrtsfonds mit Ermessensleistungen","Gesamtabstimmung",4915,133,133,1,"Ja",53,29,27,3,1,53,29,27,45,14,1,1,1,0.0666666666666667,0.0714285714285714
+"521",14437,10697,"Europäische Satellitennavigationsprogramme Galileo und Egnos. Genehmigung und Umsetzung des Kooperationsabkommens","Vote sur l'ensemble",4915,180,159,0.883333333333333,"Ja",30,29,28,42,10,55,29,28,42,10,0.545454545454545,1,1,1,1
+"522",14441,10701,"Frist für die Sanierung belasteter Standorte","Vote sur l'ensemble",4915,168,135,0.803571428571429,"Ja",10,25,28,39,13,51,26,28,39,13,0.196078431372549,0.961538461538462,1,1,1
+"523",14473,10733,"Nationalrat. Todesfall im engen Familienkreis als Entschuldigungsgrund","Gesamtabstimmung",4915,172,172,1,"Ja",50,27,24,40,13,51,29,24,40,13,0.980392156862745,0.931034482758621,1,1,1
+"524",14479,10739,"DBG und StHG. Anpassung an die Allgemeinen Bestimmungen des StGB","Gesamtabstimmung",4915,187,129,0.689839572192513,"Ja",51,30,28,0,0,51,30,28,45,13,1,1,1,0,0
+"525",14482,10742,"Den Verkauf von Bankkundendaten hart bestrafen","Gesamtabstimmung",4915,184,126,0.684782608695652,"Ja",51,28,26,0,0,51,28,26,45,13,1,1,1,0,0
+"526",14546,10806,"Mehr Konsumentenschutz und weniger Missbräuche beim Telefonverkauf","Gesamtabstimmung",4915,169,97,0.57396449704142,"Ja",1,3,24,40,13,51,27,24,40,13,0.0196078431372549,0.111111111111111,1,1,1
+"527",14557,10817,"Exportrisikoversicherungsgesetz (SERVG). Änderung","Gesamtabstimmung",4915,181,181,1,"Ja",50,28,29,41,13,50,28,29,41,13,1,1,1,1,1
+"528",14598,10858,"Programm zur Beschaffung und Ausserdienststellung von Rüstungsmaterial 2014","Gesamtabstimmung",4915,179,131,0.731843575418994,"Ja",54,28,28,1,0,54,28,28,42,14,1,1,1,0.0238095238095238,0
+"529",14603,10863,"Immobilienbotschaft VBS 2014","Gesamtabstimmung",4915,152,152,1,"Ja",52,28,29,21,2,52,28,29,41,14,1,1,1,0.51219512195122,0.142857142857143
+"530",14644,10904,"Bundesgesetz über den Strassentransitverkehr. Sanierung des Gotthard-Strassentunnels","Gesamtabstimmung",4915,183,109,0.595628415300546,"Ja",51,24,25,0,0,52,27,28,44,15,0.980769230769231,0.888888888888889,0.892857142857143,0,0
+"531",14670,10930,"OR. Verjährungsrecht","Gesamtabstimmung",4915,129,84,0.651162790697674,"Ja",2,30,29,0,3,51,30,29,44,14,0.0392156862745098,1,1,0,0.214285714285714
+"532",14677,10937,"Öffentliches Beschaffungswesen. Ausbildung von Lehrlingen als Kriterium","Schlussabstimmung",4915,190,173,0.910526315789474,"Ja",50,16,29,46,15,57,29,29,46,15,0.87719298245614,0.551724137931034,1,1,1
+"533",14678,10938,"Opferhilfegesetz. Schaffung wichtiger Informationsrechte des Opfers","Schlussabstimmung",4915,197,197,1,"Ja",57,29,29,46,15,57,29,29,46,15,1,1,1,1,1
+"534",14679,10939,"Für ein Auslandschweizergesetz","Schlussabstimmung",4915,178,160,0.898876404494382,"Ja",36,29,28,33,13,57,29,28,46,15,0.631578947368421,1,1,0.717391304347826,0.866666666666667
+"535",14680,10940,"Frist für die Sanierung belasteter Standorte","Schlussabstimmung",4915,193,140,0.725388601036269,"Ja",0,29,29,46,15,57,30,29,46,15,0,0.966666666666667,1,1,1
+"536",14681,10941,"Aufsicht über die soziale Krankenversicherung. Bundesgesetz","Schlussabstimmung",4915,190,139,0.731578947368421,"Ja",4,28,29,46,11,57,30,29,46,15,0.0701754385964912,0.933333333333333,1,1,0.733333333333333
+"537",14682,10942,"DBG und StHG. Anpassung an die Allgemeinen Bestimmungen des StGB","Schlussabstimmung",4915,197,137,0.695431472081218,"Ja",57,30,29,0,0,57,30,29,46,15,1,1,1,0,0
+"538",14683,10943,"Kompetenz zum Abschluss völkerrechtlicher Verträge. Vorläufige Anwendung und Verträge von beschränkter Tragweite","Schlussabstimmung",4915,192,192,1,"Ja",53,30,28,46,14,57,30,29,46,15,0.929824561403509,1,0.96551724137931,1,0.933333333333333
+"539",14684,10944,"Bundesgesetz über Radio und Fernsehen. Änderung","Schlussabstimmung",4915,194,109,0.561855670103093,"Ja",0,13,29,46,14,57,30,29,46,15,0,0.433333333333333,1,1,0.933333333333333
+"540",14685,10945,"Bundesgesetz über die Sammlungen des Bundesrechts und das Bundesblatt. Änderung","Schlussabstimmung",4915,197,197,1,"Ja",57,30,28,46,15,57,30,28,46,15,1,1,1,1,1
+"541",14686,10946,"Strassentransportunternehmens- und Verkehrsstrafrecht. Änderung","Schlussabstimmung",4915,194,117,0.603092783505155,"Ja",2,30,29,32,4,57,30,29,45,15,0.0350877192982456,1,1,0.711111111111111,0.266666666666667
+"542",14687,10947,"Strassentransportunternehmens- und Verkehrsstrafrecht. Änderung","Schlussabstimmung",4915,192,168,0.875,"Ja",56,30,28,30,3,57,30,29,45,15,0.982456140350877,1,0.96551724137931,0.666666666666667,0.2
+"543",14688,10948,"Bundesgesetz über den Strassentransitverkehr. Sanierung des Gotthard-Strassentunnels","Schlussabstimmung",4915,196,120,0.612244897959184,"Ja",57,28,26,0,0,57,30,29,46,15,1,0.933333333333333,0.896551724137931,0,0
+"544",14690,10950,"Familien stärken! Steuerfreie Kinder- und Ausbildungszulagen. Volksinitiative","Schlussabstimmung",4915,194,159,0.819587628865979,"Ja",49,28,1,46,14,57,30,29,46,15,0.859649122807018,0.933333333333333,0.0344827586206897,1,0.933333333333333
+"545",14691,10951,"Vernehmlassungsgesetz. Änderung","Schlussabstimmung",4915,197,197,1,"Ja",56,30,29,46,15,57,30,29,46,15,0.982456140350877,1,1,1,1
+"546",14692,10952,"Neues Führungsmodell für die Bundesverwaltung (NFB)","Schlussabstimmung",4915,194,133,0.685567010309278,"Ja",0,29,29,44,11,57,30,29,46,15,0,0.966666666666667,1,0.956521739130435,0.733333333333333
+"547",14693,10953,"Energie- statt Mehrwertsteuer. Volksinitiative","Schlussabstimmung",4915,198,171,0.863636363636364,"Ja",57,30,29,46,0,57,30,29,46,15,1,1,1,1,0
+"548",14694,10954,"Bundesgesetz über die politischen Rechte. Änderung","Schlussabstimmung",4915,172,172,1,"Ja",56,30,28,24,13,57,30,29,46,15,0.982456140350877,1,0.96551724137931,0.521739130434783,0.866666666666667
+"549",14695,10955,"Europäische Satellitennavigationsprogramme Galileo und Egnos. Genehmigung und Umsetzung des Kooperationsabkommens","Schlussabstimmung",4915,193,167,0.865284974093264,"Ja",26,30,29,46,15,56,30,29,46,15,0.464285714285714,1,1,1,1
+"550",14696,10956,"Nationalrat. Todesfall im engen Familienkreis als Entschuldigungsgrund","Schlussabstimmung",4915,198,198,1,"Ja",57,30,29,46,15,57,30,29,46,15,1,1,1,1,1
+"551",14698,10958,"Vertrag über den Waffenhandel. Genehmigung","Schlussabstimmung",4915,197,182,0.923857868020305,"Ja",57,30,29,45,0,57,30,29,46,15,1,1,1,0.978260869565217,0
+"552",14699,10959,"Asylgesetz. Verlängerung der dringlichen Änderungen","Schlussabstimmung",4915,183,179,0.978142076502732,"Ja",57,30,29,42,0,57,30,29,46,15,1,1,1,0.91304347826087,0
+"553",14700,10960,"Weiterentwicklung des Dublin/Eurodac-Besitzstands. Übernahme der revidierten Rechtsgrundlagen","Schlussabstimmung",4915,196,139,0.709183673469388,"Ja",0,29,29,45,15,57,29,29,45,15,0,1,1,1,1
+"554",14701,10961,"Weiterentwicklung des Dublin/Eurodac-Besitzstands. Übernahme der revidierten Rechtsgrundlagen","Schlussabstimmung",4915,192,127,0.661458333333333,"Ja",1,30,29,45,1,57,30,29,45,15,0.0175438596491228,1,1,1,0.0666666666666667
+"555",14702,10962,"Weiterentwicklung des Schengen-Besitzstands. Übernahme der Verordnung zur Einführung eines Evaluierungsmechanismus für die Überprüfung der Anwendung des Schengen-Besitzstandes","Schlussabstimmung",4915,187,124,0.663101604278075,"Ja",0,30,29,43,1,57,30,29,45,15,0,1,1,0.955555555555556,0.0666666666666667
+"556",14703,10963,"Weiterentwicklung des Schengen-Besitzstands. Wiedereinführung von Kontrollen an den Binnengrenzen sowie Änderungen im Asyl- und Ausländerrecht","Schlussabstimmung",4915,193,185,0.958549222797927,"Ja",57,30,29,45,3,57,30,29,45,15,1,1,1,1,0.2
+"557",14704,10964,"Weiterentwicklung des Schengen-Besitzstands. Wiedereinführung von Kontrollen an den Binnengrenzen sowie Änderungen im Asyl- und Ausländerrecht","Schlussabstimmung",4915,190,178,0.936842105263158,"Ja",57,30,29,41,0,57,30,29,43,15,1,1,1,0.953488372093023,0
+"558",14705,10965,"Weiterentwicklung des Schengen-Besitzstands. Wiedereinführung von Kontrollen an den Binnengrenzen sowie Änderungen im Asyl- und Ausländerrecht","Schlussabstimmung",4915,186,173,0.93010752688172,"Ja",57,30,29,36,0,57,30,29,44,15,1,1,1,0.818181818181818,0
+"559",14706,10966,"Weiterführung und Weiterentwicklung der Finanzhilfen für familienergänzende Kinderbetreuung","Schlussabstimmung",4915,192,119,0.619791666666667,"Ja",1,11,25,46,15,57,30,29,46,15,0.0175438596491228,0.366666666666667,0.862068965517241,1,1
+"560",14710,10970,"Anpassung des VAG für Genossenschaftsversicherungen","Gesamtabstimmung",4915,164,164,1,"Ja",49,27,25,36,9,49,27,25,36,9,1,1,1,1,1
+"561",14750,11010,"Effizienz des Parlamentsbetriebs steigern","Vote sur l'ensemble",4916,178,178,1,"Ja",52,28,27,38,13,52,28,27,38,13,1,1,1,1,1
+"562",14751,11011,"Soziale Sicherheit. Abkommen mit Uruguay","Vote sur l'ensemble",4916,170,170,1,"Ja",50,27,26,36,13,51,27,26,36,13,0.980392156862745,1,1,1,1
+"563",14752,11012,"Soziale Sicherheit. Abkommen mit Korea","Vote sur l'ensemble",4916,178,178,1,"Ja",52,28,27,38,13,52,28,27,38,13,1,1,1,1,1
+"564",14754,11014,"Europäisches Unterstützungsbüro für Asylfragen. Vereinbarung mit der EU","Vote sur l'ensemble",4916,185,128,0.691891891891892,"Ja",0,24,28,42,14,53,28,28,42,14,0,0.857142857142857,1,1,1
+"565",14799,11059,"Voranschlag 2015","Vote sur l'ensemble",4916,161,107,0.664596273291925,"Ja",0,29,31,28,0,51,29,31,41,14,0,1,1,0.682926829268293,0
+"566",14801,11061,"Voranschlag 2015","Vote sur l'ensemble",4916,181,144,0.795580110497238,"Ja",10,29,31,41,14,51,29,31,41,14,0.196078431372549,1,1,1,1
+"567",14802,11062,"Voranschlag 2015","Vote sur l'ensemble",4916,185,180,0.972972972972973,"Ja",46,29,31,41,14,51,29,31,41,14,0.901960784313726,1,1,1,1
+"568",14803,11063,"Voranschlag 2015","Vote sur l'ensemble",4916,184,184,1,"Ja",50,29,31,41,14,50,29,31,41,14,1,1,1,1,1
+"569",14804,11064,"Voranschlag 2015","Vote sur l'ensemble",4916,183,153,0.836065573770492,"Ja",20,28,31,41,14,51,29,31,41,14,0.392156862745098,0.96551724137931,1,1,1
+"570",14808,11068,"Voranschlag 2014. Nachtrag II","Vote sur l'ensemble",4916,185,141,0.762162162162162,"Ja",7,29,31,41,14,51,29,31,41,14,0.137254901960784,1,1,1,1
+"571",14809,11069,"Voranschlag 2014. Nachtrag II","Vote sur l'ensemble",4916,185,183,0.989189189189189,"Ja",49,29,31,41,14,51,29,31,41,14,0.96078431372549,1,1,1,1
+"572",14985,11245,"Energiestrategie 2050, erstes Massnahmenpaket. Für den geordneten Ausstieg aus der Atomenergie (Atomausstiegsinitiative). Volksinitiative","Vote sur l'ensemble",4916,194,110,0.56701030927835,"Ja",1,1,30,44,15,57,30,30,44,15,0.0175438596491228,0.0333333333333333,1,1,1
+"573",15022,11282,"Legislaturplanungsbericht","Vote sur l'ensemble",4916,183,100,0.546448087431694,"Ja",4,0,28,42,14,55,25,28,42,14,0.0727272727272727,0,1,1,1
+"574",15023,11283,"Legislaturplanungsbericht","Vote sur l'ensemble",4916,181,99,0.546961325966851,"Ja",3,1,28,42,14,54,25,29,42,14,0.0555555555555556,0.04,0.96551724137931,1,1
+"575",15032,11292,"Immobilienbotschaft EFD 2014","Vote sur l'ensemble",4916,181,181,1,"Ja",55,29,29,36,13,55,29,29,36,13,1,1,1,1,1
+"576",15038,11298,"Wirtschaftliche und soziale Ungleichheiten in der erweiterten EU. Beitrag der Schweiz zu Gunsten von Kroatien","Vote sur l'ensemble",4916,185,132,0.713513513513514,"Ja",0,28,28,42,15,56,30,29,42,15,0,0.933333333333333,0.96551724137931,1,1
+"577",15048,11308,"Den Verkauf von Bankkundendaten hart bestrafen","Vote final",4916,194,137,0.706185567010309,"Ja",57,30,30,0,0,57,30,30,43,14,1,1,1,0,0
+"578",15049,11309,"Anpassung des VAG für Genossenschaftsversicherungen","Vote final",4916,195,195,1,"Ja",57,30,30,43,14,57,30,30,43,14,1,1,1,1,1
+"579",15050,11310,"Präimplantationsdiagnostik. Änderung der Bundesverfassung und des Fortpflanzungsmedizingesetzes","Vote final",4916,191,160,0.837696335078534,"Ja",43,29,13,42,14,57,30,30,43,14,0.754385964912281,0.966666666666667,0.433333333333333,0.976744186046512,1
+"580",15051,11311,"Präimplantationsdiagnostik. Änderung der Bundesverfassung und des Fortpflanzungsmedizingesetzes","Vote final",4916,189,123,0.650793650793651,"Ja",40,29,12,17,6,57,30,30,42,14,0.701754385964912,0.966666666666667,0.4,0.404761904761905,0.428571428571429
+"581",15052,11312,"Stipendieninitiative und Totalrevision des Ausbildungsbeitragsgesetzes","Vote final",4916,193,135,0.699481865284974,"Ja",57,29,29,0,0,57,30,30,43,14,1,0.966666666666667,0.966666666666667,0,0
+"582",15053,11313,"Stipendieninitiative und Totalrevision des Ausbildungsbeitragsgesetzes","Vote final",4916,191,138,0.722513089005236,"Ja",4,26,30,43,14,57,30,30,43,14,0.0701754385964912,0.866666666666667,1,1,1
+"583",15054,11314,"Groupe d’action financière. Umsetzung der Empfehlungen 2012","Vote final",4916,190,128,0.673684210526316,"Ja",0,24,26,43,14,57,30,30,43,14,0,0.8,0.866666666666667,1,1
+"584",15055,11315,"Millionen-Erbschaften besteuern für unsere AHV (Erbschaftssteuerreform). Volksinitiative","Vote final",4916,195,135,0.692307692307692,"Ja",57,30,28,0,0,57,30,30,43,15,1,1,0.933333333333333,0,0
+"585",15056,11316,"Kostentragungspflicht für Ausgleichsenergie. Gewährleistung einer sicheren Stromversorgung","Vote final",4916,195,195,1,"Ja",57,30,30,43,15,57,30,30,43,15,1,1,1,1,1
+"586",15057,11317,"Effizienz des Parlamentsbetriebs steigern","Vote final",4916,196,192,0.979591836734694,"Ja",53,30,30,43,15,57,30,30,43,15,0.929824561403509,1,1,1,1
+"587",15058,11318,"Exportrisikoversicherungsgesetz (SERVG). Änderung","Vote final",4916,195,193,0.98974358974359,"Ja",55,29,30,43,15,57,30,30,43,15,0.964912280701754,0.966666666666667,1,1,1
+"588",15059,11319,"Al-Qaida und ""Islamischer Staat"". Verbot der Gruppierungen sowie jeweils verwandter Organisationen","Vote final",4916,188,188,1,"Ja",56,28,30,40,15,56,28,30,40,15,1,1,1,1,1
+"589",15074,11334,"Europäisches Grenzüberwachungssystem (EUROSUR). Übernahme der Verordnung","Vote sur l'ensemble",4917,171,117,0.684210526315789,"Ja",0,29,31,36,2,51,29,31,42,14,0,1,1,0.857142857142857,0.142857142857143
+"590",15076,11336,"Steuerbefreiung von juristischen Personen mit ideellen Zwecken. Bundesgesetz","Vote sur l'ensemble",4917,184,126,0.684782608695652,"Ja",54,8,28,17,12,54,27,30,43,12,1,0.296296296296296,0.933333333333333,0.395348837209302,1
+"591",15077,11337,"Informationsaustausch in Steuersachen. Abkommen mit Andorra, Grönland, San Marino und den Seychellen","Vote sur l'ensemble",4917,170,160,0.941176470588235,"Ja",31,27,28,43,12,50,27,28,43,12,0.62,1,1,1,1
+"592",15080,11340,"Informationsaustausch in Steuersachen. Abkommen mit Andorra, Grönland, San Marino und den Seychellen","Vote sur l'ensemble",4917,182,144,0.791208791208791,"Ja",10,29,29,44,13,51,29,29,44,13,0.196078431372549,1,1,1,1
+"593",15081,11341,"Doppelbesteuerung. Abkommen mit Belgien","Vote sur l'ensemble",4917,159,135,0.849056603773585,"Ja",4,28,29,43,13,52,28,29,43,13,0.0769230769230769,1,1,1,1
+"594",15082,11342,"Doppelbesteuerung. Abkommen mit Argentinien","Vote sur l'ensemble",4917,164,138,0.841463414634146,"Ja",4,29,30,43,13,55,29,30,43,13,0.0727272727272727,1,1,1,1
+"595",15083,11343,"Doppelbesteuerung. Abkommen mit Ghana","Vote sur l'ensemble",4917,174,137,0.78735632183908,"Ja",2,29,30,44,13,55,29,30,44,13,0.0363636363636364,1,1,1,1
+"596",15084,11344,"Doppelbesteuerung. Abkommen mit Island","Vote sur l'ensemble",4917,170,150,0.882352941176471,"Ja",14,29,30,44,13,55,29,30,44,13,0.254545454545455,1,1,1,1
+"597",15085,11345,"Doppelbesteuerung. Abkommen mit Zypern","Vote sur l'ensemble",4917,166,142,0.855421686746988,"Ja",6,29,30,44,13,55,29,30,44,13,0.109090909090909,1,1,1,1
+"598",15086,11346,"Doppelbesteuerung. Abkommen mit Usbekistan","Vote sur l'ensemble",4917,173,137,0.791907514450867,"Ja",1,29,30,44,13,55,29,30,44,13,0.0181818181818182,1,1,1,1
+"599",15087,11347,"Doppelbesteuerung. Abkommen mit Estland","Vote sur l'ensemble",4917,167,144,0.862275449101796,"Ja",8,29,30,44,13,56,29,30,44,13,0.142857142857143,1,1,1,1
+"600",15091,11351,"Rechnungsmodell. Optimierung","Vote sur l'ensemble",4917,185,133,0.718918918918919,"Ja",0,28,31,41,12,54,28,31,41,12,0,1,1,1,1
+"601",15140,11400,"Zweitwohnungen. Bundesgesetz","Vote sur l'ensemble",4917,149,143,0.959731543624161,"Ja",53,26,8,45,0,56,29,31,45,15,0.946428571428571,0.896551724137931,0.258064516129032,1,0
+"602",15165,11425,"Transplantationsgesetz. Teilrevision","Vote sur l'ensemble",4917,164,164,1,"Ja",48,28,26,34,7,53,28,26,35,14,0.905660377358491,1,1,0.971428571428571,0.5
+"603",15170,11430,"Soziale Sicherheit. Abkommen mit Brasilien","Vote sur l'ensemble",4917,163,163,1,"Ja",48,26,24,34,14,48,26,24,34,14,1,1,1,1,1
+"604",15188,11448,"Internationaler Strafgerichtshof. Änderung des Römer Statuts (Verbrechen der Aggression und Kriegsverbrechen)","Vote sur l'ensemble",4917,144,142,0.986111111111111,"Ja",44,23,24,34,8,46,23,24,34,8,0.956521739130435,1,1,1,1
+"605",15190,11450,"Aussenwirtschaftspolitik 2014. Bericht","Vote sur l'ensemble",4917,181,181,1,"Ja",54,28,29,39,13,54,28,29,39,13,1,1,1,1,1
+"606",15191,11451,"Aussenwirtschaftspolitik 2014. Bericht","Vote sur l'ensemble",4917,183,183,1,"Ja",54,28,30,40,13,54,28,30,40,13,1,1,1,1,1
+"607",15192,11452,"Aussenwirtschaftspolitik 2014. Bericht","Vote sur l'ensemble",4917,183,182,0.994535519125683,"Ja",54,28,30,39,13,54,28,30,40,13,1,1,1,0.975,1
+"608",15193,11453,"Massnahmen zur Stärkung der Rolle der Schweiz als Gaststaat","Vote sur l'ensemble",4917,179,161,0.899441340782123,"Ja",31,29,25,44,15,53,29,30,44,15,0.584905660377358,1,0.833333333333333,1,1
+"609",15196,11456,"Beteiligung der Schweiz an der Forschungsinfrastruktur ""Europäische Spallationsquelle ESS"". Kredit 2013—2016. Änderung","Vote sur l'ensemble",4917,169,124,0.733727810650888,"Ja",3,29,22,42,13,51,29,22,42,13,0.0588235294117647,1,1,1,1
+"610",15198,11458,"Beteiligung der Schweiz an der Forschungsinfrastruktur ""Europäische Spallationsquelle ESS"". Kredit 2013—2016. Änderung","Vote sur l'ensemble",4917,170,125,0.735294117647059,"Ja",2,29,23,43,13,51,29,23,43,13,0.0392156862745098,1,1,1,1
+"611",15202,11462,"Eventualverpflichtungen der Wohnraumförderung 2015-2021. Rahmenkredit","Vote sur l'ensemble",4917,185,135,0.72972972972973,"Ja",2,26,29,44,14,52,29,30,44,14,0.0384615384615385,0.896551724137931,0.966666666666667,1,1
+"612",15215,11475,"Aufzeichnung und Auswertung der elektronischen Zugriffsprotokolle der Ratsmitglieder","Vote sur l'ensemble",4917,125,125,1,"Ja",38,21,20,27,8,38,21,20,27,8,1,1,1,1,1
+"613",15224,11484,"Ressourcen- und Lastenausgleich zwischen Bund und Kantonen 2016-2019","Vote sur l'ensemble",4917,140,139,0.992857142857143,"Ja",45,22,24,18,11,51,28,28,43,15,0.882352941176471,0.785714285714286,0.857142857142857,0.418604651162791,0.733333333333333
+"614",15225,11485,"Ressourcen- und Lastenausgleich zwischen Bund und Kantonen 2016-2019","Vote sur l'ensemble",4917,160,143,0.89375,"Ja",41,26,24,19,12,53,27,29,44,15,0.773584905660377,0.962962962962963,0.827586206896552,0.431818181818182,0.8
+"615",15264,11524,"Die Schweiz muss ihre Kinder anerkennen","Vote sur l'ensemble",4917,181,123,0.679558011049724,"Ja",0,20,27,43,14,51,29,29,43,14,0,0.689655172413793,0.931034482758621,1,1
+"616",15265,11525,"Die Schweiz muss ihre Kinder anerkennen","Vote sur l'ensemble",4917,180,122,0.677777777777778,"Ja",0,19,27,43,14,51,28,29,43,14,0,0.678571428571429,0.931034482758621,1,1
+"617",15267,11527,"Zusammenarbeit der Polizei- und Zollbehörden. Abkommen mit Italien","Vote sur l'ensemble",4917,149,149,1,"Ja",47,22,19,35,12,47,22,19,35,12,1,1,1,1,1
+"618",15270,11530,"Bekämpfung der Kriminalität. Abkommen mit Kosovo","Vote sur l'ensemble",4917,159,152,0.955974842767296,"Ja",46,25,23,40,0,50,25,23,40,14,0.92,1,1,1,0
+"619",15272,11532,"Verarbeitungssystem zur Fernmeldeüberwachung. Polizeiliche Informationssysteme des Bundes. Ausbau und Betrieb","Vote sur l'ensemble",4917,145,142,0.979310344827586,"Ja",46,27,25,24,1,49,27,25,42,14,0.938775510204082,1,1,0.571428571428571,0.0714285714285714
+"620",15288,11548,"Modernisierung und Betrieb der Bahnlinie Annemasse-Genf. Abkommen mit Frankreich","Vote sur l'ensemble",4917,175,147,0.84,"Ja",21,28,26,40,12,50,28,26,40,12,0.42,1,1,1,1
+"621",15330,11590,"Bundesgesetz über die Informationssysteme des Bundes im Bereich Sport. Totalrevision","Vote sur l'ensemble",4917,165,165,1,"Ja",46,27,29,38,10,46,27,29,39,13,1,1,1,0.974358974358974,0.769230769230769
+"622",15363,11623,"Nachrichtendienstgesetz","Vote sur l'ensemble",4917,184,119,0.646739130434783,"Ja",52,28,28,1,0,56,28,28,43,14,0.928571428571429,1,1,0.0232558139534884,0
+"623",15366,11626,"Zentrum für Sicherheitspolitik der ETH Zürich und Kooperationsprojekte des VBS. Rahmenkredit zur Weiterführung der Unterstützung","Vote sur l'ensemble",4917,162,162,1,"Ja",48,24,26,38,12,48,24,26,38,12,1,1,1,1,1
+"624",15379,11639,"Bundesgesetz über das elektronische Patientendossier","Vote sur l'ensemble",4917,175,171,0.977142857142857,"Ja",48,21,28,43,12,53,27,28,44,15,0.905660377358491,0.777777777777778,1,0.977272727272727,0.8
+"625",15382,11642,"Bundesgesetz über das elektronische Patientendossier","Vote sur l'ensemble",4917,179,175,0.977653631284916,"Ja",47,24,29,43,12,51,24,29,43,12,0.92156862745098,1,1,1,1
+"626",15383,11643,"Für Ehe und Familie - gegen die Heiratsstrafe. Volksinitiative","Vote final",4917,181,100,0.552486187845304,"Ja",4,27,0,41,15,53,27,29,41,15,0.0754716981132075,1,0,1,1
+"627",15424,11684,"Gütertransportgesetz. Totalrevision","Vote sur l'ensemble",4917,186,135,0.725806451612903,"Ja",8,26,30,37,14,55,26,30,45,14,0.145454545454545,1,1,0.822222222222222,1
+"628",15430,11690,"Gütertransportgesetz. Totalrevision","Vote sur l'ensemble",4917,184,148,0.804347826086957,"Ja",15,26,29,45,14,52,26,29,45,14,0.288461538461538,1,1,1,1
+"629",15448,11708,"Globale Umwelt 2015-2018. Rahmenkredit","Vote sur l'ensemble",4917,180,126,0.7,"Ja",0,21,28,44,14,52,27,28,44,14,0,0.777777777777778,1,1,1
+"630",15451,11711,"Kyoto-Protokoll. Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen. Änderungen von Doha","Vote sur l'ensemble",4917,176,126,0.715909090909091,"Ja",0,25,27,43,14,51,27,27,43,14,0,0.925925925925926,1,1,1
+"631",15461,11721,"Finanzmarktinfrastrukturgesetz (FinfraG)","Vote sur l'ensemble",4917,186,140,0.752688172043011,"Ja",0,28,31,45,15,56,29,31,45,15,0,0.96551724137931,1,1,1
+"632",15471,11731,"Schuldenprävention. Keine Werbung für Kleinkredite","Vote final",4917,195,117,0.6,"Ja",1,4,31,45,15,57,29,31,45,15,0.0175438596491228,0.137931034482759,1,1,1
+"633",15472,11732,"StGB und MStG. Ausschaffung krimineller Ausländer","Vote final",4917,177,109,0.615819209039548,"Ja",0,25,29,35,0,57,28,31,45,14,0,0.892857142857143,0.935483870967742,0.777777777777778,0
+"634",15473,11733,"Medizinalberufegesetz (MedBG). Änderung","Vote final",4917,197,197,1,"Ja",57,28,31,45,15,57,28,31,45,15,1,1,1,1,1
+"635",15474,11734,"Zur Durchsetzung der Ausschaffung krimineller Ausländer (Durchsetzungsinitiative). Volksinitiative","Vote final",4917,197,140,0.710659898477157,"Ja",0,28,31,45,15,57,28,31,45,15,0,1,1,1,1
+"636",15475,11735,"Zivilgesetzbuch. Kindesunterhalt","Vote final",4917,185,130,0.702702702702703,"Ja",2,28,26,40,13,57,28,29,44,15,0.0350877192982456,1,0.896551724137931,0.909090909090909,0.866666666666667
+"637",15476,11736,"Internationaler Strafgerichtshof. Änderung des Römer Statuts (Verbrechen der Aggression und Kriegsverbrechen)","Vote final",4917,197,197,1,"Ja",57,28,31,45,15,57,28,31,45,15,1,1,1,1,1
+"638",15477,11737,"Zweitwohnungen. Bundesgesetz","Vote final",4917,171,159,0.929824561403509,"Ja",51,25,9,44,13,57,27,31,45,13,0.894736842105263,0.925925925925926,0.290322580645161,0.977777777777778,1
+"639",15478,11738,"Kyoto-Protokoll. Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen. Änderungen von Doha","Vote final",4917,192,137,0.713541666666667,"Ja",0,27,31,45,13,57,28,31,45,13,0,0.964285714285714,1,1,1
+"640",15479,11739,"Europäisches Grenzüberwachungssystem (EUROSUR). Übernahme der Verordnung","Vote final",4917,190,126,0.663157894736842,"Ja",0,28,31,44,2,57,28,31,45,15,0,1,1,0.977777777777778,0.133333333333333
+"641",15480,11740,"Steuerbefreiung von juristischen Personen mit ideellen Zwecken. Bundesgesetz","Vote final",4917,192,120,0.625,"Ja",57,5,28,6,15,57,28,31,44,15,1,0.178571428571429,0.903225806451613,0.136363636363636,1
+"642",15481,11741,"Informationsaustausch in Steuersachen. Abkommen mit Andorra, Grönland, San Marino und den Seychellen","Vote final",4917,193,175,0.906735751295337,"Ja",35,28,31,45,15,55,28,31,45,15,0.636363636363636,1,1,1,1
+"643",15482,11742,"Informationsaustausch in Steuersachen. Abkommen mit Andorra, Grönland, San Marino und den Seychellen","Vote final",4917,194,143,0.737113402061856,"Ja",3,28,31,45,15,57,28,31,45,15,0.0526315789473684,1,1,1,1
+"644",15483,11743,"Informationsaustausch in Steuersachen. Abkommen mit Andorra, Grönland, San Marino und den Seychellen","Vote final",4917,189,140,0.740740740740741,"Ja",1,27,31,45,15,56,27,31,45,15,0.0178571428571429,1,1,1,1
+"645",15484,11744,"Informationsaustausch in Steuersachen. Abkommen mit Andorra, Grönland, San Marino und den Seychellen","Vote final",4917,192,143,0.744791666666667,"Ja",3,28,31,45,15,57,28,31,45,15,0.0526315789473684,1,1,1,1
+"646",15485,11745,"Europäisches Unterstützungsbüro für Asylfragen. Vereinbarung mit der EU","Vote final",4917,197,140,0.710659898477157,"Ja",0,28,31,45,15,57,28,31,45,15,0,1,1,1,1
+"647",15486,11746,"Bekämpfung der Kriminalität. Abkommen mit Kosovo","Vote final",4917,191,177,0.926701570680628,"Ja",54,27,31,43,1,57,28,31,45,15,0.947368421052632,0.964285714285714,1,0.955555555555556,0.0666666666666667
+"648",15487,11747,"Beteiligung der Schweiz an der Forschungsinfrastruktur ""Europäische Spallationsquelle ESS"". Kredit 2013—2016. Änderung","Vote final",4917,192,142,0.739583333333333,"Ja",5,27,30,44,15,57,28,30,44,15,0.087719298245614,0.964285714285714,1,1,1
+"649",15488,11748,"Aussenwirtschaftspolitik 2014. Bericht","Vote final",4917,192,191,0.994791666666667,"Ja",55,28,31,42,15,55,28,31,43,15,1,1,1,0.976744186046512,1
+"650",15515,11775,"Verfassungsgrundlage für ein Bundesgesetz über die Kinder- und Jugendförderung sowie über den Kinder- und Jugendschutz","Vote sur l'ensemble",4918,175,88,0.502857142857143,"Ja",0,0,27,43,14,52,25,27,43,14,0,0,1,1,1
+"651",15522,11782,"Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen. Bundesgesetz","Vote sur l'ensemble",4918,189,179,0.947089947089947,"Ja",41,30,30,44,14,52,30,30,44,14,0.788461538461538,1,1,1,1
+"652",15525,11785,"Wahlen durch die Bundesversammlung. Abgangsentschädigung im Falle der Nichtwiederwahl und Modalitäten der Wiederwahl","Vote sur l'ensemble",4918,183,134,0.73224043715847,"Ja",0,30,27,43,14,49,30,27,43,14,0,1,1,1,1
+"653",15526,11786,"Wahlen durch die Bundesversammlung. Abgangsentschädigung im Falle der Nichtwiederwahl und Modalitäten der Wiederwahl","Vote sur l'ensemble",4918,179,131,0.731843575418994,"Ja",0,30,25,42,14,48,30,25,42,14,0,1,1,1,1
+"654",15544,11804,"Bundesgesetz über den zivilen Ersatzdienst. Änderung","Vote sur l'ensemble",4918,167,122,0.730538922155689,"Ja",0,25,25,42,13,45,25,25,42,13,0,1,1,1,1
+"655",15555,11815,"Zivile Friedensförderung. Rahmenkredit 2016-2019 für drei Genfer Zentren","Vote sur l'ensemble",4918,169,140,0.828402366863905,"Ja",16,26,25,42,13,47,26,26,42,13,0.340425531914894,1,0.961538461538462,1,1
+"656",15568,11828,"Bundesgesetz über die technischen Handelshemmnisse. Lebensmittel vom Cassis-de-Dijon-Prinzip ausnehmen","Vote sur l'ensemble",4918,174,109,0.626436781609195,"Ja",48,10,18,14,13,50,30,30,41,14,0.96,0.333333333333333,0.6,0.341463414634146,0.928571428571429
+"657",15586,11846,"Konsolidierungs- und Aufgabenüberprüfungspaket. Bundesgesetz","Vote sur l'ensemble",4918,184,127,0.690217391304348,"Ja",52,27,29,0,0,52,27,31,43,15,1,1,0.935483870967742,0,0
+"658",15606,11866,"ZGB. Vorsorgeausgleich bei Scheidung","Vote sur l'ensemble",4919,184,127,0.690217391304348,"Ja",0,27,24,43,14,57,27,24,43,14,0,1,1,1,1
+"659",15626,11886,"Förderung der Kultur in den Jahren 2016-2020","Vote sur l'ensemble",4919,192,131,0.682291666666667,"Ja",2,21,28,44,15,55,29,30,44,15,0.0363636363636364,0.724137931034483,0.933333333333333,1,1
+"660",15629,11889,"Förderung der Kultur in den Jahren 2016-2020","Vote sur l'ensemble",4919,193,124,0.642487046632124,"Ja",3,17,25,44,14,55,29,30,44,14,0.0545454545454545,0.586206896551724,0.833333333333333,1,1
+"661",15634,11894,"Förderung der Kultur in den Jahren 2016-2020","Vote sur l'ensemble",4919,193,145,0.751295336787565,"Ja",11,25,29,44,15,55,29,30,44,15,0.2,0.862068965517241,0.966666666666667,1,1
+"662",15638,11898,"Förderung der Kultur in den Jahren 2016-2020","Vote sur l'ensemble",4919,191,127,0.664921465968586,"Ja",3,18,27,44,15,54,29,30,44,15,0.0555555555555556,0.620689655172414,0.9,1,1
+"663",15641,11901,"Förderung der Kultur in den Jahren 2016-2020","Vote sur l'ensemble",4919,190,125,0.657894736842105,"Ja",0,20,26,44,14,55,29,29,44,14,0,0.689655172413793,0.896551724137931,1,1
+"664",15644,11904,"Förderung der Kultur in den Jahren 2016-2020","Vote sur l'ensemble",4919,192,121,0.630208333333333,"Ja",0,16,25,44,15,54,29,29,44,15,0,0.551724137931034,0.862068965517241,1,1
+"665",15647,11907,"Förderung der Kultur in den Jahren 2016-2020","Vote sur l'ensemble",4919,192,127,0.661458333333333,"Ja",3,20,25,44,14,55,29,29,44,14,0.0545454545454545,0.689655172413793,0.862068965517241,1,1
+"666",15648,11908,"Förderung der Kultur in den Jahren 2016-2020","Vote sur l'ensemble",4919,192,129,0.671875,"Ja",3,20,27,44,14,55,29,29,44,14,0.0545454545454545,0.689655172413793,0.931034482758621,1,1
+"667",15649,11909,"Förderung der Kultur in den Jahren 2016-2020","Vote sur l'ensemble",4919,189,129,0.682539682539683,"Ja",3,20,27,44,14,54,29,29,44,14,0.0555555555555556,0.689655172413793,0.931034482758621,1,1
+"668",15650,11910,"Förderung der Kultur in den Jahren 2016-2020","Vote sur l'ensemble",4919,193,127,0.658031088082902,"Ja",3,19,26,44,14,55,29,30,44,14,0.0545454545454545,0.655172413793103,0.866666666666667,1,1
+"669",15680,11940,"Bundesgesetz über die Unfallversicherung. Änderung","Vote sur l'ensemble",4919,178,131,0.735955056179775,"Ja",2,27,29,40,15,52,27,29,40,15,0.0384615384615385,1,1,1,1
+"670",15682,11942,"Bundesgesetz über die Unfallversicherung. Änderung","Vote sur l'ensemble",4919,181,181,1,"Ja",51,28,30,40,15,51,28,30,40,15,1,1,1,1,1
+"671",15705,11965,"SchKG. Gewerbsmässige Vertretung im Zwangsvollstreckungsverfahren","Vote sur l'ensemble",4919,185,105,0.567567567567568,"Ja",0,7,25,43,13,56,30,28,43,13,0,0.233333333333333,0.892857142857143,1,1
+"672",15708,11968,"Massnahmen zur Förderung des Friedens und der menschlichen Sicherheit 2012-2016. Weiterführung","Vote sur l'ensemble",4919,169,135,0.798816568047337,"Ja",16,28,23,41,13,51,28,23,41,13,0.313725490196078,1,1,1,1
+"673",15717,11977,"Nationaler Innovationspark in der Schweiz. Ausgestaltung und Unterstützung","Vote sur l'ensemble",4919,174,140,0.804597701149425,"Ja",16,29,25,38,14,50,29,25,38,14,0.32,1,1,1,1
+"674",15718,11978,"Nationaler Innovationspark in der Schweiz. Ausgestaltung und Unterstützung","Vote sur l'ensemble",4919,191,153,0.801047120418848,"Ja",18,30,29,43,14,56,30,29,43,14,0.321428571428571,1,1,1,1
+"675",15721,11981,"Standortförderung 2016-2019","Vote sur l'ensemble",4919,191,191,1,"Ja",56,30,28,44,13,56,30,28,44,14,1,1,1,1,0.928571428571429
+"676",15724,11984,"Standortförderung 2016-2019","Vote sur l'ensemble",4919,189,152,0.804232804232804,"Ja",19,29,28,43,13,56,30,28,45,14,0.339285714285714,0.966666666666667,1,0.955555555555556,0.928571428571429
+"677",15731,11991,"Standortförderung 2016-2019","Vote sur l'ensemble",4919,192,186,0.96875,"Ja",50,29,28,45,14,55,30,28,45,14,0.909090909090909,0.966666666666667,1,1,1
+"678",15732,11992,"Standortförderung 2016-2019","Vote sur l'ensemble",4919,189,185,0.978835978835979,"Ja",53,29,28,42,13,56,30,28,45,14,0.946428571428571,0.966666666666667,1,0.933333333333333,0.928571428571429
+"679",15734,11994,"Standortförderung 2016-2019","Vote sur l'ensemble",4919,192,176,0.916666666666667,"Ja",40,29,28,45,14,56,30,28,45,14,0.714285714285714,0.966666666666667,1,1,1
+"680",15737,11997,"Standortförderung 2016-2019","Vote sur l'ensemble",4919,192,170,0.885416666666667,"Ja",35,28,28,45,14,55,30,28,45,14,0.636363636363636,0.933333333333333,1,1,1
+"681",15740,12000,"Standortförderung 2016-2019","Vote sur l'ensemble",4919,192,174,0.90625,"Ja",40,28,27,45,14,56,30,27,45,14,0.714285714285714,0.933333333333333,1,1,1
+"682",15742,12002,"Standortförderung 2016-2019","Vote sur l'ensemble",4919,187,179,0.957219251336898,"Ja",49,27,27,44,13,56,28,27,44,13,0.875,0.964285714285714,1,1,1
+"683",15761,12021,"Sperrung und Rückerstattung unrechtmässig erworbener Vermögenswerte ausländischer politisch exponierter Personen. Bundesgesetz","Vote sur l'ensemble",4919,190,136,0.715789473684211,"Ja",0,29,29,44,15,54,29,30,44,15,0,1,0.966666666666667,1,1
+"684",15779,12039,"Staatsrechnung 2014","Vote sur l'ensemble",4919,172,167,0.970930232558139,"Ja",38,27,30,40,14,49,27,30,40,14,0.775510204081633,1,1,1,1
+"685",15780,12040,"Staatsrechnung 2014","Vote sur l'ensemble",4919,174,171,0.982758620689655,"Ja",38,28,30,41,15,51,28,30,41,15,0.745098039215686,1,1,1,1
+"686",15781,12041,"Staatsrechnung 2014","Vote sur l'ensemble",4919,178,168,0.943820224719101,"Ja",35,28,30,41,15,52,28,30,41,15,0.673076923076923,1,1,1,1
+"687",15782,12042,"Staatsrechnung 2014","Vote sur l'ensemble",4919,175,171,0.977142857142857,"Ja",38,28,30,41,15,52,28,30,41,15,0.730769230769231,1,1,1,1
+"688",15783,12043,"Staatsrechnung 2014","Vote sur l'ensemble",4919,171,165,0.964912280701754,"Ja",32,28,30,41,15,52,28,30,41,15,0.615384615384615,1,1,1,1
+"689",15789,12049,"Voranschlag 2015. Nachtrag I","Vote sur l'ensemble",4919,189,168,0.888888888888889,"Ja",32,28,30,43,15,53,29,30,43,15,0.60377358490566,0.96551724137931,1,1,1
+"690",15790,12050,"Voranschlag 2015. Nachtrag I","Vote sur l'ensemble",4919,189,189,1,"Ja",53,28,30,43,15,53,28,30,43,15,1,1,1,1,1
+"691",15811,12071,"Klarstellung der langjährigen Praxis beim Meldeverfahren bei der Verrechnungssteuer","Vote sur l'ensemble",4919,186,126,0.67741935483871,"Ja",52,29,29,0,0,52,29,31,43,15,1,1,0.935483870967742,0,0
+"692",15819,12079,"Rüstungsprogramm 2015","Vote sur l'ensemble",4919,185,130,0.702702702702703,"Ja",52,29,28,2,0,52,29,28,43,15,1,1,1,0.0465116279069767,0
+"693",15821,12081,"Einsätze der Armee zur Unterstützung ziviler Behörden. Bundesbeschluss","Vote sur l'ensemble",4919,170,127,0.747058823529412,"Ja",49,28,27,4,1,49,28,27,42,15,1,1,1,0.0952380952380952,0.0666666666666667
+"694",15875,12135,"Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs. Änderung","Vote sur l'ensemble",4919,175,110,0.628571428571429,"Ja",25,24,29,15,0,53,27,29,43,13,0.471698113207547,0.888888888888889,1,0.348837209302326,0
+"695",15908,12168,"Weiterentwicklung der Armee. Änderung der Rechtsgrundlagen","Vote sur l'ensemble",4919,181,72,0.397790055248619,"Nein",5,28,29,2,0,54,28,30,42,13,0.0925925925925926,1,0.966666666666667,0.0476190476190476,0
+"696",15932,12192,"Mehr Konsumentenschutz und weniger Missbräuche beim Telefonverkauf","Vote final",4919,184,137,0.744565217391304,"Ja",2,27,28,45,15,55,30,28,45,15,0.0363636363636364,0.9,1,1,1
+"697",15933,12193,"StGB und MStG. Änderung des Sanktionenrechts","Vote final",4919,192,142,0.739583333333333,"Ja",3,30,29,45,15,54,30,29,45,15,0.0555555555555556,1,1,1,1
+"698",15934,12194,"Konsolidierungs- und Aufgabenüberprüfungspaket. Bundesgesetz","Vote final",4919,193,136,0.704663212435233,"Ja",55,30,29,1,1,55,30,29,45,15,1,1,1,0.0222222222222222,0.0666666666666667
+"699",15935,12195,"Legislaturplanungsbericht","Vote final",4919,188,92,0.48936170212766,"Nein",49,29,11,0,0,54,30,30,45,15,0.907407407407407,0.966666666666667,0.366666666666667,0,0
+"700",15936,12196,"Legislaturplanungsbericht","Vote final",4919,191,97,0.507853403141361,"Ja",50,29,11,0,0,55,30,30,45,15,0.909090909090909,0.966666666666667,0.366666666666667,0,0
+"701",15937,12197,"Wahlen durch die Bundesversammlung. Abgangsentschädigung im Falle der Nichtwiederwahl und Modalitäten der Wiederwahl","Vote final",4919,194,140,0.721649484536082,"Ja",0,30,30,45,15,55,30,30,45,15,0,1,1,1,1
+"702",15938,12198,"Wahlen durch die Bundesversammlung. Abgangsentschädigung im Falle der Nichtwiederwahl und Modalitäten der Wiederwahl","Vote final",4919,193,139,0.72020725388601,"Ja",0,30,30,44,15,55,30,30,44,15,0,1,1,1,1
+"703",15939,12199,"Transplantationsgesetz. Teilrevision","Vote final",4919,188,184,0.978723404255319,"Ja",49,29,30,45,11,55,30,30,45,15,0.890909090909091,0.966666666666667,1,1,0.733333333333333
+"704",15940,12200,"ZGB. Vorsorgeausgleich bei Scheidung","Vote final",4919,191,139,0.727748691099476,"Ja",2,30,30,42,15,55,30,30,44,15,0.0363636363636364,1,1,0.954545454545455,1
+"705",15941,12201,"Bundesgesetz über das elektronische Patientendossier","Vote final",4919,194,189,0.974226804123711,"Ja",49,30,30,45,15,54,30,30,45,15,0.907407407407407,1,1,1,1
+"706",15942,12202,"Für Ehe und Familie - gegen die Heiratsstrafe. Volksinitiative","Vote final",4919,192,107,0.557291666666667,"Ja",1,30,0,45,15,54,30,29,45,15,0.0185185185185185,1,0,1,1
+"707",15943,12203,"Zusammenarbeit der Polizei- und Zollbehörden. Abkommen mit Italien","Vote final",4919,194,194,1,"Ja",54,30,30,45,15,54,30,30,45,15,1,1,1,1,1
+"708",15944,12204,"Finanzmarktinfrastrukturgesetz (FinfraG)","Vote final",4919,191,137,0.717277486910995,"Ja",0,28,29,45,15,54,30,30,45,15,0,0.933333333333333,0.966666666666667,1,1
+"709",15945,12205,"Ressourcen- und Lastenausgleich zwischen Bund und Kantonen 2016-2019","Vote final",4919,187,140,0.748663101604278,"Ja",19,21,25,44,12,54,30,30,45,14,0.351851851851852,0.7,0.833333333333333,0.977777777777778,0.857142857142857
+"710",15946,12206,"Ressourcen- und Lastenausgleich zwischen Bund und Kantonen 2016-2019","Vote final",4919,188,173,0.920212765957447,"Ja",47,24,27,44,11,54,30,30,45,14,0.87037037037037,0.8,0.9,0.977777777777778,0.785714285714286
+"711",15947,12207,"Doppelbesteuerung. Abkommen mit Belgien","Vote final",4919,193,152,0.787564766839378,"Ja",12,30,30,45,15,54,30,30,45,15,0.222222222222222,1,1,1,1
+"712",15948,12208,"Doppelbesteuerung. Abkommen mit Argentinien","Vote final",4919,191,157,0.821989528795812,"Ja",17,30,30,45,15,54,30,30,45,15,0.314814814814815,1,1,1,1
+"713",15949,12209,"Rechnungsmodell. Optimierung","Vote final",4919,194,191,0.984536082474227,"Ja",51,30,30,45,15,54,30,30,45,15,0.944444444444444,1,1,1,1
+"714",15950,12210,"Doppelbesteuerung. Abkommen mit Ghana","Vote final",4919,192,150,0.78125,"Ja",10,30,30,45,15,54,30,30,45,15,0.185185185185185,1,1,1,1
+"715",15951,12211,"Doppelbesteuerung. Abkommen mit Island","Vote final",4919,189,159,0.841269841269841,"Ja",19,30,30,45,15,54,30,30,45,15,0.351851851851852,1,1,1,1
+"716",15952,12212,"Doppelbesteuerung. Abkommen mit Zypern","Vote final",4919,191,150,0.785340314136126,"Ja",11,30,30,45,15,54,30,30,45,15,0.203703703703704,1,1,1,1
+"717",15953,12213,"Doppelbesteuerung. Abkommen mit Usbekistan","Vote final",4919,191,151,0.790575916230366,"Ja",11,30,30,45,15,53,30,30,45,15,0.207547169811321,1,1,1,1
+"718",15954,12214,"Doppelbesteuerung. Abkommen mit Estland","Vote final",4919,190,149,0.784210526315789,"Ja",12,29,30,45,13,54,29,30,45,15,0.222222222222222,1,1,1,0.866666666666667
+"719",15955,12215,"Für eine faire Verkehrsfinanzierung. Volksinitiative","Vote final",4919,189,123,0.650793650793651,"Ja",1,14,28,45,15,54,30,30,45,15,0.0185185185185185,0.466666666666667,0.933333333333333,1,1
+"720",15956,12216,"Schutz vor Sexualisierung in Kindergarten und Primarschule. Volksinitiative","Vote final",4919,191,146,0.764397905759162,"Ja",7,30,29,45,15,54,30,30,45,15,0.12962962962963,1,0.966666666666667,1,1
+"721",15957,12217,"Förderung der Kultur in den Jahren 2016-2020","Vote final",4919,190,136,0.715789473684211,"Ja",4,24,28,45,15,54,30,30,45,15,0.0740740740740741,0.8,0.933333333333333,1,1
+"722",15958,12218,"Förderung der Kultur in den Jahren 2016-2020","Vote final",4919,187,136,0.727272727272727,"Ja",5,23,28,45,15,54,30,30,45,15,0.0925925925925926,0.766666666666667,0.933333333333333,1,1
+"723",15959,12219,"Bundesgesetz über die Informationssysteme des Bundes im Bereich Sport. Totalrevision","Vote final",4919,188,188,1,"Ja",54,30,30,42,12,54,30,30,45,15,1,1,1,0.933333333333333,0.8
+"724",15960,12220,"Aufzeichnung und Auswertung der elektronischen Zugriffsprotokolle der Ratsmitglieder","Vote final",4919,191,191,1,"Ja",53,30,30,44,15,53,30,30,44,15,1,1,1,1,1
+"725",15985,12245,"KVG. Steuerung des ambulanten Bereichs","Vote sur l'ensemble",4920,183,128,0.699453551912568,"Ja",4,17,30,43,14,53,27,30,43,14,0.0754716981132075,0.62962962962963,1,1,1
+"726",15996,12256,"StGB. Korruptionsstrafrecht","Vote sur l'ensemble",4920,182,133,0.730769230769231,"Ja",3,29,27,41,14,52,29,27,42,15,0.0576923076923077,1,1,0.976190476190476,0.933333333333333
+"727",15999,12259,"OR. Firmenrecht. Änderung","Vote sur l'ensemble",4920,183,183,1,"Ja",51,26,28,44,15,51,26,28,44,15,1,1,1,1,1
+"728",16002,12262,"Konvention zum Schutze der Menschenrechte und Grundfreiheiten. Protokoll Nr. 15. Genehmigung","Vote sur l'ensemble",4920,182,136,0.747252747252747,"Ja",6,26,29,41,15,54,26,29,41,15,0.111111111111111,1,1,1,1
+"729",16068,12328,"Asylgesetz. Neustrukturierung des Asylbereichs","Vote sur l'ensemble",4920,152,99,0.651315789473684,"Ja",0,23,22,37,0,53,23,22,37,12,0,1,1,1,0
+"730",16074,12334,"Minamata-Übereinkommen über Quecksilber. Genehmigung","Vote sur l'ensemble",4920,169,169,1,"Ja",47,28,29,32,13,49,28,29,32,13,0.959183673469388,1,1,1,1
+"731",16105,12365,"Verfahren der Legislaturplanung","Vote sur l'ensemble",4920,175,175,1,"Ja",51,26,27,41,13,51,26,27,41,13,1,1,1,1,1
+"732",16117,12377,"Für eine nachhaltige und ressourceneffiziente Wirtschaft (Grüne Wirtschaft). Volksinitiative und indirekter Gegenvorschlag","Vote sur l'ensemble",4920,187,92,0.491978609625668,"Nein",0,0,19,44,15,55,30,30,44,15,0,0,0.633333333333333,1,1
+"733",16149,12409,"Forschungsinfrastrukturanlage European XFEL. Fortsetzung der Beteiligung","Vote sur l'ensemble",4920,176,133,0.755681818181818,"Ja",7,29,28,39,15,50,29,28,39,15,0.14,1,1,1,1
+"734",16151,12411,"Forschungsinfrastrukturanlage European XFEL. Fortsetzung der Beteiligung","Vote sur l'ensemble",4920,174,135,0.775862068965517,"Ja",9,30,28,38,15,49,30,28,38,15,0.183673469387755,1,1,1,1
+"735",16181,12441,"Bundesgesetz über den Wald. Änderung","Vote sur l'ensemble",4920,178,178,1,"Ja",54,28,29,36,13,54,28,29,36,13,1,1,1,1,1
+"736",16188,12448,"Amtshilfe in Steuersachen. Übereinkommen des Europarates und der OECD. Genehmigung","Vote sur l'ensemble",4920,170,119,0.7,"Ja",0,29,25,34,13,51,30,27,34,13,0,0.966666666666667,0.925925925925926,1,1
+"737",16190,12450,"Internationaler automatischer Informationsaustausch im Steuerbereich. Bundesgesetz","Vote sur l'ensemble",4920,171,119,0.695906432748538,"Ja",0,29,24,34,13,52,30,26,34,13,0,0.966666666666667,0.923076923076923,1,1
+"738",16196,12456,"Internationaler automatischer Informationsaustausch im Steuerbereich. Bundesgesetz","Vote sur l'ensemble",4920,163,111,0.680981595092024,"Ja",0,27,22,33,12,52,28,24,33,12,0,0.964285714285714,0.916666666666667,1,1
+"739",16203,12463,"Internationales Übereinkommen zum Schutz aller Personen vor dem Verschwindenlassen. Genehmigung","Vote sur l'ensemble",4920,173,128,0.739884393063584,"Ja",1,29,28,37,15,49,29,28,37,15,0.0204081632653061,1,1,1,1
+"740",16212,12472,"Löschung ungerechtfertigter Zahlungsbefehle","Vote sur l'ensemble",4920,170,134,0.788235294117647,"Ja",7,27,29,41,12,55,27,29,41,12,0.127272727272727,1,1,1,1
+"741",16229,12489,"Immobilienbotschaft VBS 2015","Vote sur l'ensemble",4920,173,173,1,"Ja",54,30,29,34,10,54,30,29,41,12,1,1,1,0.829268292682927,0.833333333333333
+"742",16232,12492,"WEF 2016-2018 in Davos. Einsatz der Armee im Assistenzdienst","Vote sur l'ensemble",4920,167,132,0.790419161676647,"Ja",54,30,29,3,0,54,30,29,39,12,1,1,1,0.0769230769230769,0
+"743",16242,12502,"Freizügigkeitsgesetz. Ansprüche bei Wahl der Anlagestrategie durch die versicherte Person","Vote sur l'ensemble",4920,165,165,1,"Ja",49,29,27,29,14,49,29,27,40,14,1,1,1,0.725,1
+"744",16275,12535,"Mehrwertsteuergesetz. Teilrevision","Vote sur l'ensemble",4920,180,180,1,"Ja",51,28,30,42,13,51,28,30,42,13,1,1,1,1,1
+"745",16279,12539,"Aufhebung der zolltariflichen Begünstigung der Importe von gewürztem Fleisch","Vote sur l'ensemble",4920,168,125,0.744047619047619,"Ja",47,21,29,7,15,49,27,31,39,15,0.959183673469388,0.777777777777778,0.935483870967742,0.179487179487179,1
+"746",16281,12541,"Mineralölsteuergesetz. Teilrevision","Vote sur l'ensemble",4920,175,109,0.622857142857143,"Ja",52,19,29,1,1,52,27,31,38,15,1,0.703703703703704,0.935483870967742,0.0263157894736842,0.0666666666666667
+"747",16285,12545,"Immobilienbotschaft EFD 2015","Vote sur l'ensemble",4920,175,175,1,"Ja",49,27,28,39,15,51,27,28,39,15,0.96078431372549,1,1,1,1
+"748",16313,12573,"Bundesgesetz über die Unfallversicherung. Änderung","Vote final",4920,196,194,0.989795918367347,"Ja",53,30,31,45,15,55,30,31,45,15,0.963636363636364,1,1,1,1
+"749",16314,12574,"Bundesgesetz über die Unfallversicherung. Änderung","Vote final",4920,196,196,1,"Ja",55,30,31,45,15,55,30,31,45,15,1,1,1,1,1
+"750",16315,12575,"Stärkung der Wohlfahrtsfonds mit Ermessensleistungen","Vote final",4920,152,152,1,"Ja",55,30,31,1,15,55,30,31,45,15,1,1,1,0.0222222222222222,1
+"751",16316,12576,"Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen. Bundesgesetz","Vote final",4920,193,189,0.979274611398964,"Ja",48,30,31,45,15,55,30,31,45,15,0.872727272727273,1,1,1,1
+"752",16317,12577,"Nachrichtendienstgesetz","Vote final",4920,186,145,0.779569892473118,"Ja",51,30,31,15,0,54,30,31,44,15,0.944444444444444,1,1,0.340909090909091,0
+"753",16318,12578,"StGB. Korruptionsstrafrecht","Vote final",4920,194,141,0.72680412371134,"Ja",1,30,30,45,15,55,30,30,45,15,0.0181818181818182,1,1,1,1
+"754",16319,12579,"Gütertransportgesetz. Totalrevision","Vote final",4920,195,142,0.728205128205128,"Ja",11,30,31,35,15,55,30,31,45,15,0.2,1,1,0.777777777777778,1
+"755",16320,12580,"Pro Service public. Volksinitiative","Vote final",4920,196,196,1,"Ja",55,30,31,45,15,55,30,31,45,15,1,1,1,1,1
+"756",16321,12581,"Bundesgesetz über den zivilen Ersatzdienst. Änderung","Vote final",4920,192,135,0.703125,"Ja",0,30,25,45,15,55,30,31,45,15,0,1,0.806451612903226,1,1
+"757",16322,12582,"Asylgesetz. Neustrukturierung des Asylbereichs","Vote final",4920,193,138,0.715025906735751,"Ja",0,30,30,44,15,55,30,30,45,15,0,1,1,0.977777777777778,1
+"758",16323,12583,"SchKG. Gewerbsmässige Vertretung im Zwangsvollstreckungsverfahren","Vote final",4920,194,194,1,"Ja",55,30,31,44,15,55,30,31,44,15,1,1,1,1,1
+"759",16324,12584,"OR. Firmenrecht. Änderung","Vote final",4920,193,193,1,"Ja",55,30,31,43,15,55,30,31,43,15,1,1,1,1,1
+"760",16325,12585,"Keine Spekulation mit Nahrungsmitteln. Volksinitiative","Vote final",4920,188,130,0.691489361702128,"Ja",54,30,29,0,0,55,30,31,43,15,0.981818181818182,1,0.935483870967742,0,0
+"761",16326,12586,"Verfahren der Legislaturplanung","Vote final",4920,189,183,0.968253968253968,"Ja",47,30,31,43,14,53,30,31,44,14,0.886792452830189,1,1,0.977272727272727,1
