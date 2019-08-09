@@ -1,5 +1,5 @@
 # Legislatur_50_Koalitionen
-Zum Abschluss der 50. Legislatur haben wir eine Analyse durchgeführt, um die Mehrheitsverhältnisse im Nationalrat zu untersuchen. Untersucht werden alle Abstimmungen im Nationalrat in der Legislatur 49 und 50 (bis und mit Sommersession 2019).
+Zum Abschluss der 50. Legislatur haben wir eine Analyse durchgeführt, um die Mehrheitsverhältnisse im Nationalrat des Schweizer Parlaments zu untersuchen. Untersucht werden alle Abstimmungen im Nationalrat in der Legislatur 49 und 50 (bis und mit Sommersession 2019).
 
 Die Analyse findet in drei Teilen statt:
 
@@ -43,8 +43,8 @@ Für jeden Parlamentarier wird ausgerechnet, wie häufig er mit der Mehrheit abs
 Diese .csv Dateien werden dann in den Schritten 3 und 4 mit GoogleSheets weiter bearbeitet.
 
 ## 3. Übereinstimmung der Parlamentarier mit der Mehrheit
---> GoogleSheets Resultate_Abstimmungen_Parlament   
-     https://docs.google.com/spreadsheets/d/17SoKvGvH-wMdT2Cz0eQ4B4pQ9AoAh6qdsYaGqga4u8U/edit?usp=sharing
+--> GoogleSheets   
+> https://docs.google.com/spreadsheets/d/17SoKvGvH-wMdT2Cz0eQ4B4pQ9AoAh6qdsYaGqga4u8U/edit?usp=sharing
 
 Eine Rangliste wird erstellt welche Parlamentarier am häufigsten mit der Mehrheit abstimmen. 
 
@@ -75,7 +75,7 @@ Folgende Koalitionen wurden untersucht:
   SVP max. 25% der Fraktionstimmen
 
 **Grosse Koalition:**
-  SP, SVP, CVP und FDP min. 75% der Fraktionstimmen
+> SP, SVP, CVP und FDP min. 75% der Fraktionstimmen
 
 **Mitte-Rechts:**
   CVP, FDP und SVP min. 75% der Fraktionstimmen
