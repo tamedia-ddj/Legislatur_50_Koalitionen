@@ -52,8 +52,8 @@ Im nächsten Schritt werden diese Resultate auf die Fraktionen aggregiert. Darau
 
 ## 4. Analyse der Koalitionen
 --> GoogleSheets:  
-    Legislatur 49: https://docs.google.com/spreadsheets/d/1zC8v8lA4EJtWysXh2ntNDnthv0dNE0xrY7bjQwrc8dc/edit?usp=sharing
-    Legislatur 50: https://docs.google.com/spreadsheets/d/1aF1Z3oJ8p-sxrXMDFnsVsXlX_N2eXMTf-klWMjCFC_c/edit?usp=sharing
+    + Legislatur 49: https://docs.google.com/spreadsheets/d/1zC8v8lA4EJtWysXh2ntNDnthv0dNE0xrY7bjQwrc8dc/edit?usp=sharing  
+    + Legislatur 50: https://docs.google.com/spreadsheets/d/1aF1Z3oJ8p-sxrXMDFnsVsXlX_N2eXMTf-klWMjCFC_c/edit?usp=sharing
 
 Es wurde untersucht, in welchen Koalitionen Mehrheitsverhältnisse zustande kamen.
 
