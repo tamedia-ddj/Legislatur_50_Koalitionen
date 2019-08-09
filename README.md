@@ -59,12 +59,12 @@ Dann werden diese Resultate auf die Fraktionen aggregiert. Daraus lässt sich ab
 
 Es wurde untersucht, in welchen Koalitionen Mehrheitsverhältnisse zustande kamen.
 
-Damit eine Mehrheit einer bestimmten Koaliton zugeordnet werden kann, wurde folgendes Kriterium angewendet: Die Koalitionspartner müssen jeweils mit mindestens 75% der anwesenden Fraktionsmitglieder zur Mehrheit beitragen und die Gegner der Koalition dürfen zu höchstens 25% zur Mehrheit beitragen. Dabei wurden auch Mehrheiten berücksichtigt welche zu einer Ablehnung einer Vorlage geführt haben. Für die Koalitionsbildung wurden nur die Bundesratsparteien berücksichtigt (mit ausnahme der Grünen in der Links-Grünen Koalition). Das Abstimmungsverhalten der anderen Fraktionen wurde nicht berücksichtigt.
+Damit eine Mehrheit einer bestimmten Koalition zugeordnet werden kann, wurde folgendes Kriterium angewendet: Die Koalitionspartner müssen jeweils mit mindestens 75% der anwesenden Fraktionsmitglieder zur Mehrheit beitragen und die Gegner der Koalition dürfen zu höchstens 25% zur Mehrheit beitragen. Dabei wurden auch Mehrheiten berücksichtigt welche zu einer Ablehnung einer Vorlage geführt haben. Für die Koalitionsbildung wurden nur die Bundesratsparteien berücksichtigt (mit Ausnahme der Grünen in der Links-Grünen Koalition). Das Abstimmungsverhalten der anderen Fraktionen wurde nicht berücksichtigt.
 
 Folgende Koalitionen wurden untersucht:
 
 **Links-Grün:**   
-  SP mind. 75% der Fraktionstimmen   
+  SP und Grüne mind. 75% der Fraktionstimmen   
   FDP und SVP max. 25% der Fraktionstimmen   
   CVP max. 75% der Fraktionstimmen (für Abgrenzung gegenüber Mitte-Links)
 
