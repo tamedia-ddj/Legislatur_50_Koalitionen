@@ -1,11 +1,11 @@
-# Mehrheitsfähigen Koalitionen im Natinoalrat
-Zum Abschluss der 50. Legislatur haben wir eine Analyse durchgeführt, um die Mehrheitsverhältnisse im Nationalrat des Schweizer Parlaments zu untersuchen. Untersucht werden alle Abstimmungen im Nationalrat in der Legislatur 49 und 50 (bis und mit Sommersession 2019).
+# Mehrheitsfähige Koalitionen im Natinoalrat
+Zum Abschluss der 50. Legislatur haben wir eine Analyse durchgeführt, um die Mehrheitsverhältnisse im Nationalrat des Schweizer Parlaments zu untersuchen. Untersucht wurden alle Abstimmungen im Nationalrat in der Legislatur 49 und 50 (bis und mit Sommersession 2019).
 
-Die Analyse findet in drei Teilen statt:
+Die Analyse findet in vier Teilen statt:
 
 1. Abfragen der benötigten Daten aus dem offiziellen API des Parlaments (R-Script)
-2. Aufbereiten dieser Rohdaten aufbereiten für die Schritte 3 und 4 (R-Script)
-3. Übereinstimmung der einzelnen Parlamentarier und Fraktionen mit der Mehrheit analysieren (GoogleSheet)
+2. Aufbereiten dieser Rohdaten für die Schritte 3 und 4 (R-Script)
+3. Übereinstimmung der einzelnen Parlamentarier und Fraktionen mit der Mehrheit im Parlament analysieren (GoogleSheet)
 4. Mehrheitsfähige Koalitionen untersuchen (GoogleSheet)
 
 Es wurden Daten aus der offiziellen API des Schweizer Parlaments verwendet (https://ws.parlament.ch/odata.svc)
@@ -30,11 +30,7 @@ Die Resultate beider Anfragen werden als .csv Datei exportiert:
 ## 2. Aufbereitung der Daten
 --> R-Script "2_Aufbereitung_Daten.R"
 
-Die Dateien votes49/50.csv aus dem vorhergehenden Schritt werden eingelesen und weiter aufbereitet
-Die Daten werden in zwei Versionen aufbereitet:
-- Mit allen Abstimmungen in diesen Zeitraum
-- Nur Mit Schluss- und Gesamtabstimmungen berücksichtigt
-Jeweils für die 49 und die 50 Legislaturperiode getrennt. 
+Die Dateien votes49/50.csv aus dem vorhergehenden Schritt werden eingelesen und weiter aufbereitet.
 
 Für jeden Parlamentarier wird ausgerechnet, wie häufig er mit der Mehrheit abstimmt. Das Skript muss mehrmals ausgeführt werden (mit den jeweiligen Werten angepasst) um 4 Datensätze (jeweils für Legislatur 49 und 50 und für alle bwz. nur die Gesamtabstimmungen) zu erzeugen. Die Datensätze werden in 4 separaten .csv Dateien abgespeichert:  
 - ranking_leg49_alleAbstimmungen.csv
@@ -42,7 +38,7 @@ Für jeden Parlamentarier wird ausgerechnet, wie häufig er mit der Mehrheit abs
 - ranking_leg50_alleAbstimmungen.csv
 - ranking_leg50_nurGesamtabstimmungen.csv
 
-Diese .csv Dateien werden dann in den Schritten 3 und 4 mit GoogleSheets weiter bearbeitet.
+Diese .csv Dateien werden dann in den Schritten 3 und 4 mit GoogleSheets weiter analysiert.
 
 ## 3. Übereinstimmung der Parlamentarier mit der Mehrheit
 --> GoogleSheets   
