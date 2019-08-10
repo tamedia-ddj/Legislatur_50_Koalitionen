@@ -34,7 +34,7 @@ Die Dateien votes49/50.csv aus dem vorhergehenden Schritt werden eingelesen und 
 
 Für jeden Parlamentarier wird ausgerechnet, wie häufig er mit der Mehrheit abstimmt. Eine Abstimmung gilt als angenommen, wenn mehr als 50% der Ja/Nein Stimmen dafür sind. Enthaltungen werden nicht berücksichtigt. Sollte bei einer Abstimmung die Stimme der Nationalratspräsidentin ausschlaggebend sein oder ein anderes Annahmekriterium gelten, wird dies nicht berücksichtigt.
 
-Das Skript muss mehrmals ausgeführt werden (mit den jeweiligen Parametern angepasst) um die 4 Datensätze (jeweils für Legislatur 49 und 50 und für alle bwz. nur die Schluss- und Gesamtabstimmungen) zu erzeugen. Die Datensätze werden in 4 separaten .csv Dateien abgespeichert:  
+Das Skript muss mehrmals ausgeführt werden (mit den jeweiligen Parametern angepasst) um die 4 Datensätze (jeweils für Legislatur 49 und 50 und für alle bzw. nur die Schluss- und Gesamtabstimmungen) zu erzeugen. Die Datensätze werden in 4 separaten .csv Dateien abgespeichert:  
 - ranking_leg49_alleAbstimmungen.csv
 - ranking_leg49_nurGesamtabstimmungen.csv
 - ranking_leg50_alleAbstimmungen.csv
@@ -63,7 +63,7 @@ Dann werden diese Resultate auf die Fraktionen aggregiert. Daraus lässt sich ab
 
 Es wurde untersucht, in welchen Koalitionen Mehrheitsverhältnisse zustande kamen.
 
-Damit eine Mehrheit einer bestimmten Koalition zugeordnet werden kann, wurde folgendes Kriterium angewendet: Die Koalitionspartner müssen jeweils mit mindestens 75% der anwesenden Fraktionsmitglieder zur Mehrheit beitragen und die Gegner der Koalition dürfen zu höchstens 25% zur Mehrheit beitragen. Dabei wurden auch Mehrheiten berücksichtigt welche zu einer Ablehnung einer Vorlage geführt haben. Für die Koalitionsbildung wurden nur die Bundesratsparteien berücksichtigt (mit Ausnahme der Grünen in der Links-Grünen Koalition). Das Abstimmungsverhalten der anderen Fraktionen wurde nicht berücksichtigt. Diese Analyse wurde nur für die Schluss- und Gesamtabstimmungen gemacht.
+Damit eine Mehrheit einer bestimmten Koalition zugeordnet werden kann, wurde folgendes Kriterium angewendet: Die Koalitionspartner müssen jeweils mit mindestens 75% der anwesenden Fraktionsmitglieder zur Mehrheit beitragen und die Gegner der Koalition dürfen zu höchstens 25% zur Mehrheit beitragen. Dabei wurden auch Mehrheiten berücksichtigt, welche zu einer Ablehnung einer Vorlage geführt haben. Für die Koalitionsbildung wurden nur die Bundesratsparteien berücksichtigt (mit Ausnahme der Grünen in der Links-Grünen Koalition). Das Abstimmungsverhalten der anderen Fraktionen wurde nicht berücksichtigt. Diese Analyse wurde nur für die Schluss- und Gesamtabstimmungen gemacht.
 
 Die untersuchten Koalitionen haben wir folgendermassen definiert:
 
@@ -104,4 +104,4 @@ Die untersuchten Koalitionen haben wir folgendermassen definiert:
   SVP und CVP min. 75% der Fraktionstimmen   
   FDP und SP max.  25% der Fraktionstimmen
  
-Die Koalitionen schliessen sich gegenseitig aus, das heisst jede Abstimmung wird maximal einer Koalition zugewiesen. Ein Teil der Abstimmung kann keiner der oben definierten Koalitionen zugewiesen werden. In diesem fall wird von einer "Diffusen Mehrheit" ausgegangen.
+Die Koalitionen schliessen sich gegenseitig aus, das heisst jede Abstimmung wird maximal einer Koalition zugewiesen. Ein Teil der Abstimmung kann keiner der oben definierten Koalitionen zugewiesen werden. In diesem Fall wird von einer "Diffusen Mehrheit" ausgegangen.
