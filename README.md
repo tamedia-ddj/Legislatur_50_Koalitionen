@@ -1,5 +1,5 @@
 # Mehrheitsfähige Koalitionen im Natinoalrat
-Zum Abschluss der 50. Legislatur haben wir eine Analyse durchgeführt, um die Mehrheitsverhältnisse im Nationalrat des Schweizer Parlaments zu untersuchen. Untersucht wurden alle Abstimmungen im Nationalrat in der Legislatur 49 und 50 (bis und mit Sommersession 2019).
+Zum Abschluss der 50. Legislatur hat das Tamedia-Datenteam für die Sonntagszeitung eine Analyse durchgeführt, um die Mehrheitsverhältnisse im Nationalrat des Schweizer Parlaments zu untersuchen. Untersucht wurden alle Abstimmungen im Nationalrat in der Legislatur 49 und 50 (bis und mit Sommersession 2019).
 
 Die Analyse findet in vier Teilen statt:
 
@@ -32,13 +32,21 @@ Die Resultate beider Anfragen werden als .csv Datei exportiert:
 
 Die Dateien votes49/50.csv aus dem vorhergehenden Schritt werden eingelesen und weiter aufbereitet.
 
-Für jeden Parlamentarier wird ausgerechnet, wie häufig er mit der Mehrheit abstimmt. Das Skript muss mehrmals ausgeführt werden (mit den jeweiligen Werten angepasst) um 4 Datensätze (jeweils für Legislatur 49 und 50 und für alle bwz. nur die Gesamtabstimmungen) zu erzeugen. Die Datensätze werden in 4 separaten .csv Dateien abgespeichert:  
+Für jeden Parlamentarier wird ausgerechnet, wie häufig er mit der Mehrheit abstimmt. Eine Abstimmung gilt als angenommen, wenn mehr als 50% der Ja/Nein Stimmen dafür sind. Enthaltungen werden nicht berücksichtigt. Sollte bei einer Abstimmung die Stimme der Nationalratspräsidentin ausschlaggebend sein oder ein anderes Annahmekriterium gelten, wird dies nicht berücksichtigt.
+
+Das Skript muss mehrmals ausgeführt werden (mit den jeweiligen Parametern angepasst) um die 4 Datensätze (jeweils für Legislatur 49 und 50 und für alle bwz. nur die Schluss- und Gesamtabstimmungen) zu erzeugen. Die Datensätze werden in 4 separaten .csv Dateien abgespeichert:  
 - ranking_leg49_alleAbstimmungen.csv
 - ranking_leg49_nurGesamtabstimmungen.csv
 - ranking_leg50_alleAbstimmungen.csv
 - ranking_leg50_nurGesamtabstimmungen.csv
 
-Diese .csv Dateien werden dann in den Schritten 3 und 4 mit GoogleSheets weiter analysiert.
+Diese .csv Dateien werden dann im Schritt 3 mit GoogleSheets weiter analysiert.
+
+Weiter wird die Zustimmungen der einzelnen Fraktionen berechnet und in folgenden Dateien ausgegeben:  
+- Koalitionen_leg49_nurGesamt.csv
+- Koalitionen_leg50_nurGesamt.csv
+
+Diese .csv Dateien werden dann im Schritt 4 mit GoogleSheets weiter analysiert.
 
 ## 3. Übereinstimmung der Parlamentarier mit der Mehrheit
 --> GoogleSheets   
@@ -55,12 +63,12 @@ Dann werden diese Resultate auf die Fraktionen aggregiert. Daraus lässt sich ab
 
 Es wurde untersucht, in welchen Koalitionen Mehrheitsverhältnisse zustande kamen.
 
-Damit eine Mehrheit einer bestimmten Koalition zugeordnet werden kann, wurde folgendes Kriterium angewendet: Die Koalitionspartner müssen jeweils mit mindestens 75% der anwesenden Fraktionsmitglieder zur Mehrheit beitragen und die Gegner der Koalition dürfen zu höchstens 25% zur Mehrheit beitragen. Dabei wurden auch Mehrheiten berücksichtigt welche zu einer Ablehnung einer Vorlage geführt haben. Für die Koalitionsbildung wurden nur die Bundesratsparteien berücksichtigt (mit Ausnahme der Grünen in der Links-Grünen Koalition). Das Abstimmungsverhalten der anderen Fraktionen wurde nicht berücksichtigt.
+Damit eine Mehrheit einer bestimmten Koalition zugeordnet werden kann, wurde folgendes Kriterium angewendet: Die Koalitionspartner müssen jeweils mit mindestens 75% der anwesenden Fraktionsmitglieder zur Mehrheit beitragen und die Gegner der Koalition dürfen zu höchstens 25% zur Mehrheit beitragen. Dabei wurden auch Mehrheiten berücksichtigt welche zu einer Ablehnung einer Vorlage geführt haben. Für die Koalitionsbildung wurden nur die Bundesratsparteien berücksichtigt (mit Ausnahme der Grünen in der Links-Grünen Koalition). Das Abstimmungsverhalten der anderen Fraktionen wurde nicht berücksichtigt. Diese Analyse wurde nur für die Schluss- und Gesamtabstimmungen gemacht.
 
-Folgende Koalitionen wurden untersucht:
+Die untersuchten Koalitionen haben wir folgendermassen definiert:
 
 **Links-Grün:**   
-  SP und Grüne mind. 75% der Fraktionstimmen   
+  SP und Grüne min. 75% der Fraktionstimmen   
   FDP und SVP max. 25% der Fraktionstimmen   
   CVP max. 75% der Fraktionstimmen (für Abgrenzung gegenüber Mitte-Links)
 
@@ -96,3 +104,4 @@ Folgende Koalitionen wurden untersucht:
   SVP und CVP min. 75% der Fraktionstimmen   
   FDP und SP max.  25% der Fraktionstimmen
  
+Die Koalitionen schliessen sich gegenseitig aus, das heisst jede Abstimmung wird maximal einer Koalition zugewiesen. Ein Teil der Abstimmung kann keiner der oben definierten Koalitionen zugewiesen werden. In diesem fall wird von einer "Diffusen Mehrheit" ausgegangen.
