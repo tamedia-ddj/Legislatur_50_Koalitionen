@@ -42,7 +42,7 @@ Das Skript muss mehrmals ausgeführt werden (mit den jeweiligen Parametern angep
 
 Diese .csv Dateien werden dann im Schritt 3 mit GoogleSheets weiter analysiert.
 
-Weiter wird die Zustimmungen der einzelnen Fraktionen berechnet und in folgenden Dateien ausgegeben:  
+Weiter wird die Zustimmungen der einzelnen Fraktionen zu den Abstimmungen berechnet. Für die Zustimmung der Fraktion wird die Anzahl Ja-Stimmen im Verhältniss zu den anwesenden Fraktionsmitglieder berechnet. Die Enthaltungen werden also ebenfalls berücksichtigt. Folgenden Dateien werden ausgegeben:  
 - Koalitionen_leg49_nurGesamt.csv
 - Koalitionen_leg50_nurGesamt.csv
 
