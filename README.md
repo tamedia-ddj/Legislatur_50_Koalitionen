@@ -1,4 +1,4 @@
-# Mehrheitsfähige Koalitionen im Natinoalrat
+# Mehrheitsfähige Koalitionen im Nationalrat
 Zum Abschluss der 50. Legislatur hat das Tamedia-Datenteam für die Sonntagszeitung eine Analyse durchgeführt, um die Mehrheitsverhältnisse im Nationalrat des Schweizer Parlaments zu untersuchen. Grundlage waren alle Abstimmungen im Nationalrat in der Legislatur 49 und 50 (bis und mit Sommersession 2019). Für die Koalitionsanalyse wurde nur die Untergruppe der als Schlus- und Gesamtabstimmungen kategorisierten Abstimmungen gesondert betrachtet.  
 
 Die Analyse findet in vier Teilen statt:
