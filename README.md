@@ -10,7 +10,7 @@ Die Analyse findet in vier Teilen statt:
 
 Es wurden Daten aus der offiziellen API des Schweizer Parlaments verwendet (https://ws.parlament.ch/odata.svc)
 
-Die Erkenntnisse aus der Analyse werden am 11.08.2019 in der Sonntagszeitung publiziert [Link](https://www.tagesanzeiger.ch/sonntagszeitung/der-rechte-block-hat-sich-nicht-durchgesetzt/story/12812505 "Artikel in der Sonntagszeitung")
+Die Erkenntnisse aus der Analyse werden am 11.08.2019 [in der Sonntagszeitung publiziert](https://www.tagesanzeiger.ch/sonntagszeitung/der-rechte-block-hat-sich-nicht-durchgesetzt/story/12812505 "Artikel in der Sonntagszeitung")
 
 ## 1. Abfrage der Daten aus der API
 --> R-Script "1_Abfrage_API.R"
